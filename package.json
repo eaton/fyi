@@ -3,9 +3,18 @@
   "version": "2.0.0",
   "description": "Eaton's home on the web",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve --quiet",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
+    "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
+    "clean": "del-cli _site"
   },
   "author": "jeff@eaton.fyi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "3.0.0-alpha.3",
+    "del-cli": "^3.0.1"
+  }
 }
