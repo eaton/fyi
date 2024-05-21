@@ -7,7 +7,6 @@ const buildDate = function() {
   return dateString;
 };
 
-
 export default {
   env: process.env.ELEVENTY_ENV,
   timestamp: buildDate(),

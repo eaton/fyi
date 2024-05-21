@@ -1,20 +1,32 @@
 {
   "name": "fyi",
-  "version": "2.0.0",
   "description": "Eaton's home on the web",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eaton/fyi.git"
+  },
+  "author": {
+    "name": "Jeff Eaton",
+    "email": "jeff@eaton.fyi",
+    "url": "https://eaton.fyi/"
+  },
+  "homepage": "https://eaton.fyi",
+  "license": "MIT",
   "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": ">=20.10.0"
+  },
   "scripts": {
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve --quiet",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
     "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
-    "clean": "del-cli _site"
+    "benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
   },
-  "author": "jeff@eaton.fyi",
-  "license": "MIT",
-  "dependencies": {
-    "@11ty/eleventy": "3.0.0-alpha.3",
-    "del-cli": "^3.0.1"
+  "devDependencies": {
+    "@11ty/eleventy": "3.0.0-alpha.10",
+    "zod": "^3.23.8"
   }
 }
