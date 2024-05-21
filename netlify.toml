@@ -1,3 +1,36 @@
+[[plugins]]
+package = "netlify-plugin-cache"
+  [plugins.inputs]
+  # Optional (but highly recommended). Defaults to [".cache"].
+  paths = [".cache"]
+
 [build]
-	publish = "_site"
-	command = "npm run build"
+    publish = "dist"
+
+[context.production]
+    command = "npm run build"
+
+[context.branch-deploy]
+    command = "npm run stage"
+
+# See https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+
+# Proxied URLs; can be for api, admin, etc.
+# See https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-service
+#
+# [[redirects]]
+#   /api/*  https://api.example.com/:splat  200
+
+# [[redirects]]
+#    from = "https://eatonfyi.netlify.app/*"
+#    to = "https://eaton.fyi/:splat"
+#    status = 301
+#    force = true
+
+# [[redirects]]
+#    from = "*"
+#    to = "/404"
+#    status = 404
+
+# [[redirects]]
+# /tweets/*  https://eaton-tweets.netlify.app/:splat  200

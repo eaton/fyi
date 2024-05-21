@@ -1,9 +1,34 @@
 import pluginWebc from "@11ty/eleventy-plugin-webc";
+import { Json5, Yaml, Csv, Tsv, NdJson } from '@eatonfyi/serializers'
+import applyTypeset from 'typeset';
 
-/** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
-
+/**
+ * @param {*} eleventyConfig
+ * @param {import("shiki-twoslash").UserConfigSettings} options
+ */
 export default async function(eleventyConfig) {
-  // Pass through file copies
+	// Plugins
+	// eleventyConfig.addPlugin(pluginRss);
+	// eleventyConfig.addPlugin(pluginNavigation);
+	eleventyConfig.addPlugin(pluginWebc, {
+		components: "_components/**/*.webc",
+	});
+
+  // Transforms
+  eleventyConfig.addTransform('typeset', content => {
+    if ((this.page.outputPath || "").endsWith(".html")) {
+      return applyTypeset(content);
+    } else {
+      return content;
+    }
+  });
+
+  // Custom data formats
+  eleventyConfig.addDataExtension("yml, yaml", new Yaml().parse);
+  eleventyConfig.addDataExtension("json5", new Json5().parse);
+  eleventyConfig.addDataExtension("ndjson", new NdJson().parse);
+  eleventyConfig.addDataExtension("csv", new Csv().parse);
+  eleventyConfig.addDataExtension("tsv", new Tsv().parse);
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
@@ -16,13 +41,6 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addBundle("css");
 	eleventyConfig.addBundle("js");
 	eleventyConfig.addBundle("footnotes");
-
-	// Official plugins
-	// eleventyConfig.addPlugin(pluginRss);
-	// eleventyConfig.addPlugin(pluginNavigation);
-	eleventyConfig.addPlugin(pluginWebc, {
-		components: "_components/**/*.webc",
-	});
 
 	// Custom filters
 	// eleventyConfig.addPlugin(...);
@@ -46,10 +64,10 @@ export const config = {
 
 	// These are all optional:
 	dir: {
-		input: "content",          // default: "."
+		output: "dist",
+		input: "src",           // default: "."
 		includes: "../_includes",  // default: "_includes" (`input` relative)
 		data: "../_data",          // default: "_data" (`input` relative)
-		output: "_site"
 	},
 
 	// -----------------------------------------------------------------
