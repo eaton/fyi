@@ -14,15 +14,6 @@ export default async function(eleventyConfig) {
 		components: "_components/**/*.webc",
 	});
 
-  // Transforms
-  eleventyConfig.addTransform('typeset', content => {
-    if ((this.page.outputPath || "").endsWith(".html")) {
-      return applyTypeset(content);
-    } else {
-      return content;
-    }
-  });
-
   // Custom data formats
   eleventyConfig.addDataExtension("yml, yaml", new Yaml().parse);
   eleventyConfig.addDataExtension("json5", new Json5().parse);
@@ -44,9 +35,11 @@ export default async function(eleventyConfig) {
 
 	// Custom filters
 	// eleventyConfig.addPlugin(...);
+
+  return config;
 }
 
-export const config = {
+const config = {
 	// Control which files Eleventy will process
 	// e.g.: *.md, *.njk, *.html, *.liquid
 	templateFormats: [
