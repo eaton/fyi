@@ -1,5 +1,4 @@
-import pluginRss from "@11ty/eleventy-plugin-rss";
-import pluginNavigation from "@11ty/eleventy-navigation";
+import pluginWebc from "@11ty/eleventy-plugin-webc";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 
@@ -19,8 +18,11 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addBundle("footnotes");
 
 	// Official plugins
-	eleventyConfig.addPlugin(pluginRss);
-	eleventyConfig.addPlugin(pluginNavigation);
+	// eleventyConfig.addPlugin(pluginRss);
+	// eleventyConfig.addPlugin(pluginNavigation);
+	eleventyConfig.addPlugin(pluginWebc, {
+		components: "_components/**/*.webc",
+	});
 
 	// Custom filters
 	// eleventyConfig.addPlugin(...);
@@ -30,20 +32,21 @@ export const config = {
 	// Control which files Eleventy will process
 	// e.g.: *.md, *.njk, *.html, *.liquid
 	templateFormats: [
+		"html",
 		"md",
 		"njk",
-		"html"
+		"webc"
 	],
 
 	// Pre-process *.md files with: (default: `liquid`)
-	markdownTemplateEngine: "njk",
+	markdownTemplateEngine: "webc",
 
 	// Pre-process *.html files with: (default: `liquid`)
-	htmlTemplateEngine: "njk",
+	htmlTemplateEngine: "webc",
 
 	// These are all optional:
 	dir: {
-		input: "src",          // default: "."
+		input: "content",          // default: "."
 		includes: "../_includes",  // default: "_includes" (`input` relative)
 		data: "../_data",          // default: "_data" (`input` relative)
 		output: "_site"
