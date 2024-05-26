@@ -21,11 +21,11 @@ package = "netlify-plugin-cache"
 # [[redirects]]
 #   /api/*  https://api.example.com/:splat  200
 
-# [[redirects]]
-#    from = "https://eatonfyi.netlify.app/*"
-#    to = "https://eaton.fyi/:splat"
-#    status = 301
-#    force = true
+[[redirects]]
+  from = "https://eatonfyi.netlify.app/*"
+  to = "https://eaton.fyi/:splat"
+  status = 301
+  force = true
 
 # [[redirects]]
 #    from = "*"
