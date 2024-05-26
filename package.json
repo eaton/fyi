@@ -20,6 +20,7 @@
   },
   "scripts": {
     "build": "npx @11ty/eleventy",
+    "stage": "npx @11ty/eleventy",
     "index": "echo 'nothing to do here'",
     "start": "npx @11ty/eleventy --serve --quiet",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
