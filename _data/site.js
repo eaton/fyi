@@ -1,7 +1,8 @@
 export default {
 	title: "Eaton, FYI",
+  description: "A spicy mix of content architecture, CMS strategy, and team facilitation.",
 	url: "https://eaton.fyi/",
-	language: "en",
+	lang: "en",
 	author: {
 		name: "Jeff Eaton",
 		email: "jeff@eaton.fyi",

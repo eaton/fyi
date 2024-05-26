@@ -20,6 +20,7 @@
   },
   "scripts": {
     "build": "npx @11ty/eleventy",
+    "index": "echo 'nothing to do here'",
     "start": "npx @11ty/eleventy --serve --quiet",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
     "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
@@ -34,11 +35,10 @@
     "@eatonfyi/serializers": "github:eaton/serializers",
     "@eatonfyi/urls": "github:eaton/urls",
     "dotenv": "^16.4.5",
-    "eleventy-plugin-embed-everything": "^1.18.2",
-    "eleventy-plugin-og-image": "^4.0.0-beta.6",
-    "eleventy-plugin-redirects": "^1.0.0",
+    "emptier": "^1.0.0",
+    "empty-deep": "^1.0.0",
     "netlify-plugin-cache": "^1.0.3",
-    "typeset": "^0.3.4",
+    "obby": "^1.2.0",
     "zod": "^3.23.8"
   }
 }
