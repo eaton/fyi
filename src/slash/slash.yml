@@ -1,0 +1,2 @@
+layout: slash
+permalink: "/{{ fileSlug }}/"

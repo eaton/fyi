@@ -17,6 +17,7 @@ export default async function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('thread', 'layouts/base.njk')
   eleventyConfig.addLayoutAlias('article', 'layouts/base.njk')
   eleventyConfig.addLayoutAlias('textfile', 'layouts/base.njk')
+  eleventyConfig.addLayoutAlias('slash', 'layouts/base.njk')
   eleventyConfig.addLayoutAlias('splat', 'layouts/splat.njk')
 
   // Custom data extensions
