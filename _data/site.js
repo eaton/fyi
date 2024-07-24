@@ -1,6 +1,6 @@
 export default {
 	title: "Eaton, FYI",
-  description: "A spicy mix of content architecture, CMS strategy, and team facilitation.",
+  description: "Because graph data doesn't grow on trees.",
 	url: "https://eaton.fyi/",
 	lang: "en",
 	author: {
