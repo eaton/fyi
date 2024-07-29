@@ -12,31 +12,31 @@ performances:
     keynoteFile: 2021/JAMStack - Patterns.key
 ---
 
-![Parlez-vous motif?](./images/images.002.JPEG)
+![Parlez-vous motif?](./images/images.002.jpeg)
 
 If you’ve been working with any kind of software development for the past few decades, you’ve encountered the concept of patterns. Depending on where in the stack you work the word might not be as familiar, but the concept is all over the place. Basically — common, named components that solve particular problems or do particular things, regardless of the programming language or framework they’re implemented in.
 
 ---
 
-![Parlez-vous motif?](./images/images.003.JPEG)
+![Parlez-vous motif?](./images/images.003.jpeg)
 
 Over the past, say, twenty or thirty years “Patterns” have turned into… I’d say the most common way developers have of talking to each other about what they are building — about “breaking down software into smaller, easier-to-describe pieces,” and “reusing solutions from one piece of software in another.” I know folks who learn a new programming language or framework by building old, familiar patterns in the new environment. I know a lot of people who recommend junior devs “level up” by studying patterns.
 
 ---
 
-![Gang of Four](./images/images.004.JPEG)
+![Gang of Four](./images/images.004.jpeg)
 
 The book that really put it on the map was 1994’s “Design Patterns.” The book was (and is) so ubiquitous that it’s often just called the “Gang of Four” book, after its four co-authors. It kind of explains the idea of a pattern, but most of its page count is used to describe a couple dozen specific patterns — things like “Factories” and “Facades” and “Decorators” and “Prototypes” — using UML diagrams and C source code. It was nerdy stuff, but it was also hugely influential: a lot of those building blocks were eventually baked into lots of frameworks and programming languages that followed it.
 
 ---
 
-![Parlez-vous motif?](./images/images.005.JPEG)
+![Parlez-vous motif?](./images/images.005.jpeg)
 
 The really interesting part — in my opinion at least — is that this way of talking about things has become common in the UX and design communities, too. The idea of building a “pattern library” for your brand or your web app or your business is pretty common, and it’s often used interchangeably with the concept of a “design system,” which… is a definitional nitpick I won’t get into now, but can be fodder for a few weeks of Twitter yelling. But it’s definitely made the crossover from “programmer-specific concept” to “tech industry mental model.”
 
 ---
 
-![Slide 6](./images/images.006.JPEG)
+![Slide 6](./images/images.006.jpeg)
 
 If you scratch the surface a bit, though, the crossover success of “The Pattern Pattern” isn’t shocking. Because that way of talking about recurring problems and solutions started in the world of physical architecture, not software architecture. “A Pattern Language” came out in 1977, and it was part of a cluster of books that architect Christopher Alexander either wrote or co-authored, talking about a philosophy of designing physical spaces that could be more timeless, could better serve the needs of the people who lived and worked in those spaces.
 
@@ -46,7 +46,7 @@ The book describes specific patterns, but also the ways they work together to fo
 
 ---
 
-![But… What is a pattern?](./images/images.007.JPEG)
+![But… What is a pattern?](./images/images.007.jpeg)
 
 But… and there’s always a “but” with this kind of stuff… patterns aren’t without their problems. There are two particular conference talks that I think are worth checking out if you want to dig deeper into this: Mark Jason Dominus’ “Design Patterns Aren’t,” and Brian Marick’s “Patterns Failed, Why Should We Care?”
 
@@ -54,7 +54,7 @@ Both of them acknowledge how useful the idea of patterns is, and both of them ar
 
 ---
 
-![What and why… …What and how](./images/images.008.JPEG)
+![What and why… …What and how](./images/images.008.jpeg)
 
 Alexander’s patterns start with why and use named patterns to explain a particular what: Say, the idea that people need transitional spaces between open, exposed, public areas and the protected privacy of personal space. The patterns like Foyer, or  Courtyard, that it describes are ways of serving that need, ways of exploring solutions rather than dictating a particular construction method.
 
@@ -64,7 +64,7 @@ I got my start in “real” software development in the mid 90s and when the Ga
 
 ---
 
-![Who is a language for?](./images/images.009.JPEG)
+![Who is a language for?](./images/images.009.jpeg)
 
 There was a “Pattern Language,” but it was a language developers could use to communicate with each other quickly about a system’s internals. But what it didn’t do was help us understand what was going on. Knowing that our software would use Abstract Factories, Iterators, and Dependency Injection didn’t tell me anything about our software, or what people would be doing with it, only about the code I was supposed to be writing.
 
@@ -72,7 +72,7 @@ That problem isn’t exclusive to the programming side of the fence, either — 
 
 ---
 
-![Slide 10](./images/images.010.JPEG)
+![Slide 10](./images/images.010.jpeg)
 
 The fascinating thing about this divide between “developer shorthand” and “language to talk about solutions”, is that you can see when it happened. Back in the mid 80s, Kent Beck and Ward Cunningham — who went on to do things like define “Agile” and invent “Wikis” — were talking about Christopher Alexander’s work and how it could improve the work of software development. And they had a very different take on what was going to be important about it.
 
@@ -80,13 +80,13 @@ In a 1987 paper they co-authored, they said “Computer users should write their
 
 ---
 
-![Okay, so… what next?](./images/images.011.JPEG)
+![Okay, so… what next?](./images/images.011.jpeg)
 
 So, okay. We’re now at the “takeaways” point. If there’s this big divide between “Why Patterns” and “How Patterns,” what does this mean for our work?
 
 ---
 
-![Understanding what and why requires different patterns.](./images/images.012.JPEG)
+![Understanding what and why requires different patterns.](./images/images.012.jpeg)
 
 Personally, I think it’s a reminder, as we’re developing tools and ways of talking about complex work — a reminder to think hard about who we’re talking to. Is this thing I’m making a tool for developers or designers to talk to each other faster? Or is it a tool for different groups of people to talk to each other better?
 
@@ -94,13 +94,13 @@ That distinction has a big impact on the kinds of patterns we make and define. T
 
 ---
 
-![Understanding what and why requires different patterns.](./images/images.013.JPEG)
+![Understanding what and why requires different patterns.](./images/images.013.jpeg)
 
 If you want to do some nerdy reading, I recommend checking out the Domain Driven Design community — they emphasize the idea of developing a “Ubiquitous Language” that developers, designers, and end users can use to talk to each other about what’s being created and how it needs to work. And — obviously! I’d highly recommend Alexander’s book “A Pattern Language.”
 
 ---
 
-![Thanks!](./images/images.014.JPEG)
+![Thanks!](./images/images.014.jpeg)
 
 So… thank you very much for your time. If you’d like to see more of this kind of ranting, or you want to argue or talk shop or trade horror stories, you can find me on Twitter and check out our site at [autogram](https://autogram.is).
 

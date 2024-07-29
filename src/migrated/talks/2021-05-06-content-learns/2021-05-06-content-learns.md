@@ -13,7 +13,7 @@ performances:
       https://www.confabevents.com/2021-segments/how-content-learns-future-proofing-your-content-with-pace-layers
 ---
 
-![How Content Learns](./images/images.002.JPEG)
+![How Content Learns](./images/images.002.jpeg)
 
 I hate big reveals, so I'll give you the elevator pitch before we get started on this talk. If you're interested, stick around. Otherwise, enjoy some extra lunch time.
 
@@ -23,7 +23,7 @@ I'll try not to get into a big semantic discussion about the difference between 
 
 ---
 
-![Messages change; some change at different rates.](./images/images.003.JPEG)
+![Messages change; some change at different rates.](./images/images.003.jpeg)
 
 Second, those messages change; some change at different rates. That happens as a business grows, as technical and cultural contexts changes, as audiences tastes and interests and needs evolve. And when they change, the structures and the processes we use to create and manage and distribute them usually have to change to keep up.
 
@@ -31,7 +31,7 @@ That “rate of change” is important, too. If you have an online store, the li
 
 ---
 
-![Content straddling multiple layers of change breaks more often.](./images/images.004.JPEG)
+![Content straddling multiple layers of change breaks more often.](./images/images.004.jpeg)
 
 Here’s where it gets interesting: Content that straddles multiple layers of change breaks more often.
 
@@ -41,7 +41,7 @@ Content like that, stuff that combines messages with different rates of change, 
 
 ---
 
-![Content works better when its structures fit those layers of change.](./images/images.005.JPEG)
+![Content works better when its structures fit those layers of change.](./images/images.005.jpeg)
 
 The payoff I’m working towards here is (I think) simple but pretty important: Content works better when its structures fit those layers of change.
 
@@ -51,13 +51,13 @@ That’s it. That’s what we’re going to be talking about. You can go stretch
 
 ---
 
-![How content breaks](./images/images.006.JPEG)
+![How content breaks](./images/images.006.jpeg)
 
 With that out of the way, I’m going to tell a horror story. Everybody loves these, right? They’re like content ghost stories — thrills, chills, toasted marshmallows around a campfire, maybe a lesson. Or some laughs, depending on how things play out.
 
 ---
 
-![The Design Refresh](./images/images.007.JPEG)
+![The Design Refresh](./images/images.007.jpeg)
 
 This particular ghost story starts with a big client — billions of dollars in revenue, hundreds of thousands of pieces of content, dozens of different business lines to keep track of, and dozens of different sites to market and support their products and services.
 
@@ -67,7 +67,7 @@ Dozens of teams from each business unit spent years recreating their content fro
 
 ---
 
-![the realization](./images/images.008.JPEG)
+![the realization](./images/images.008.jpeg)
 
 Because many years and millions of dollars later, when they finally arrived at their destination? That’s when the company’s design team came back and said, “OK, good news, the next version of our design system is ready, and is way cooler.”
 
@@ -77,7 +77,7 @@ They gave it a good try, changing just the stylesheets and templates, but all of
 
 ---
 
-![A Perfect System](./images/images.009.JPEG)
+![A Perfect System](./images/images.009.jpeg)
 
 To be sure it would never happen again, they launched another multi-year project to plan the perfect customer journey, the ideal messaging architecture, and the most flexible content model, so their IT team could develop the best-engineered CMS, which their communications team could use to create the perfect content.
 
@@ -87,7 +87,7 @@ And they were right back where they started, producing content that wasn’t qui
 
 ---
 
-![Needs change. Can your content?](./images/images.010.JPEG)
+![Needs change. Can your content?](./images/images.010.jpeg)
 
 What I find really interesting is that nearly every horrible plot twist in that story boils down to a failure to anticipate change — or at the very least, a failure to anticipate the kind of change that would come, and how quickly.
 
@@ -95,7 +95,7 @@ In decades of working in digital publishing, CMS development, and content strate
 
 ---
 
-![grady booch; minimize impact](./images/images.011.JPEG)
+![grady booch; minimize impact](./images/images.011.jpeg)
 
 What we’re talking about, really, isn’t just templates or copywriting or setting up a CMS. It’s what some people call content architecture. It’s part structured content, part process and workflow, but can’t be disconnected from the communication goals and business context and the meaty, content-strategy stuff that the tech is supposed to support.
 
@@ -105,25 +105,25 @@ He also understands that there’s no such thing as infinite flexibility: If arc
 
 ---
 
-![How buildings learn](./images/images.012.JPEG)
+![How buildings learn](./images/images.012.jpeg)
 
 Now… if you'll indulge me for a minute, I want to zoom out and tell one of my favorite stories. I promise we won’t take too much time, and hopefully it’ll shed some interesting light on the content problems we’ve been talking about.
 
 ---
 
-![Slide 13](./images/images.013.JPEG)
+![Slide 13](./images/images.013.jpeg)
 
 Back in 1968, a computer scientist named Douglas Englebart gave what's now known as The Mother Of All Demos. It was a 90-minute demonstration of a real, working computer that combined word processing and graphics, revision control, hypertext, a graphical interface with mouse input, video conferencing, even Google Docs style collaborative editing by multiple people over a network.
 
 ---
 
-![Slide 14](./images/images.014.JPEG)
+![Slide 14](./images/images.014.jpeg)
 
 To put things in perspective, Englebart and his team had to design and build a mouse from scratch for that demo, because the mouse hadn't been invented yet. Steve Jobs was 13 at the time and the co-founders of Google wouldn't be born for five years. It took the rest of the world about half a century to catch up to what happened in that auditorium.
 
 ---
 
-![Slide 15](./images/images.015.JPEG)
+![Slide 15](./images/images.015.jpeg)
 
 As it turns out, the guy doing who did the video work for that fateful presentation was a thirty year old hippie named Stewart Brand. While the computer industry spent the next fifty years trying to get WYSIWYG working, Stewart chewed on some deeper ideas.
 
@@ -131,13 +131,13 @@ He went on to write and edit The Whole Earth Catalog; founded The WELL, one of t
 
 ---
 
-![Slide 16](./images/images.016.JPEG)
+![Slide 16](./images/images.016.jpeg)
 
 That question of how we deal with time and change as individuals and as cultures is a pretty big one; he’s been exploring it for decades, and one of his books has actually become pretty influential in the Information Architecture and Content Strategy world. It’s called How Buildings Learn: What Happens After They're Built.
 
 ---
 
-![Slide 17](./images/images.017.JPEG)
+![Slide 17](./images/images.017.jpeg)
 
 What I think is incredibly valuable is that when he says “learn,” what he means is “change.” And that’s where our story about Stewart and our ghost story about content come together.
 
@@ -147,7 +147,7 @@ With that in mind, let’s take a closer look.
 
 ---
 
-![Fashion Experiments, Structure Endures](./images/images.018.JPEG)
+![Fashion Experiments, Structure Endures](./images/images.018.jpeg)
 
 The first principle — and the one I think is probably most familiar to anyone who’s gone through a web site redesign — is that aesthetics ebb and flow with fashion, sometimes even cycling back ground when “retro” looks come back into vogue, but the underlying structure of a building has a much more enduring effect on how the it can be used.
 
@@ -155,13 +155,13 @@ This series of images, from Brand’s book, shows the Citizens National Bank in 
 
 ---
 
-![Fashion Experiments, Structure Endures](./images/images.019.JPEG)
+![Fashion Experiments, Structure Endures](./images/images.019.jpeg)
 
 Another great interesting of the fashion-and-structure interplay has been cycling through Netflix for a few years. If you’re of a particular generation you probably have some deeply embedded memories of the opening credits to Full House, including the iconic rows of Victorian homes in the background. The Tanner Family Digs, right there.
 
 ---
 
-![Fashion Experiments, Structure Endures](./images/images.020.JPEG)
+![Fashion Experiments, Structure Endures](./images/images.020.jpeg)
 
 Thing is, around the turn of the century those buildings were extremely passe; Edwardian and Mission style architecture was taking off, and the old buildings with their ornate woodwork were very much out of fashion.
 
@@ -171,7 +171,7 @@ The flexibility meant they stuck around — the cost of changing thme to fit new
 
 ---
 
-![Fashion Experiments, Structure Endures](./images/images.021.JPEG)
+![Fashion Experiments, Structure Endures](./images/images.021.jpeg)
 
 I think a lot of us are familiar with the idea of the web site redesign forcing expensive changes, but your content “fashion” doesn’t have to be the latest iteration of an aesthetic. It can be the latest social media platform, the latest mobile device, or a “pivot to video.”
 
@@ -181,7 +181,7 @@ If you’ve ever talked to a content modeling nerd, you know recipes are a favor
 
 ---
 
-![Fashion Experiments, Structure Endures](./images/images.022.JPEG)
+![Fashion Experiments, Structure Endures](./images/images.022.jpeg)
 
 Jared and his team started with the smallest building blocks, and thought carefully about how they connected to each other. One example is the way they thought about educational content mixed through the video. They associated techniques, not videos, with each step of a recipe. Then techniques could have textual, visual, or interactive media hanging off of them, depending on what they had time and resources to produce.
 
@@ -189,7 +189,7 @@ The result made it much easier to change the visual presentation, but it also ma
 
 ---
 
-![Healthy Buildings Grow](./images/images.023.JPEG)
+![Healthy Buildings Grow](./images/images.023.jpeg)
 
 We tend to think of buildings as static, but quite a few big buildings start small. Homes, factories, even skyscrapers accumulate additions and significant structural modifications as families and businesses and cities expand.
 
@@ -197,13 +197,13 @@ Some architectural choices makes those expansions relatively painless — you kn
 
 ---
 
-![Healthy Buildings Grow](./images/images.024.JPEG)
+![Healthy Buildings Grow](./images/images.024.jpeg)
 
 Sometimes that flexibility is part of an explicit phased plan — like, “We’ll build the central room, then next year add on the den…” Willow Creek Community Church in South Barrington, IL is sort of the Death Star of mega-churches, and in the early 80s, they planned on massive growth. The architects they worked with designed an initial church, auditorium, and all that jazz; but they also built in expansion points — walls and structures that could be torn out to facilitate the next wave of growth, and the one after that, and the one after that… without disrupting the rest of the structure.
 
 ---
 
-![Healthy Buildings Grow](./images/images.025.JPEG)
+![Healthy Buildings Grow](./images/images.025.jpeg)
 
 At Autogram, we’re actually working with a client right now — helping them plan a multi-year, phased rollout of a bunch of educational materials for their customers. They’ve got a grand vision, but they know it’s too much to bite off all at once. So we’re doing detailed plans for “wave 1” of their content, and rough sketches of subsequent waves — to ensure that the Information architecture, editorial, and content modeling decisions we make in the early phases don’t paint us into a corner.
 
@@ -211,7 +211,7 @@ That’s different than “making a perfect content model that will never have t
 
 ---
 
-![Healthy Buildings Grow](./images/images.026.JPEG)
+![Healthy Buildings Grow](./images/images.026.jpeg)
 
 Now… growth doesn’t always work that way. Architecturally, some of the most successful kinds of buildings — styles of construction that come to dominate a particular region or time period — become successful because they’re just inherently easy to modify and expand. In his book, Brand talks about the example of Whale Houses in Nantucket. Most of them started as boxes and accumulated additions over time, with builders sharing tips and advice about what kinds of expansions worked best and left the most flexibility for future needs.
 
@@ -219,13 +219,13 @@ Obviously the idea of “growth” works a little differently in the world of co
 
 ---
 
-![Healthy Buildings Grow](./images/images.027.JPEG)
+![Healthy Buildings Grow](./images/images.027.jpeg)
 
 I always used to argue with Karen McGrane that the best way to plan content was carefully speccing out every single permutation of every kind of message that might be needed, because only with semantic precision could you have a good content model. The “we’ll construct a giant building from scratch on day one, and hope we grow into it” approach. Over the course of a bunch of different projects she’s convinced me that path can be really brittle.
 
 ---
 
-![Healthy Buildings Grow](./images/images.028.JPEG)
+![Healthy Buildings Grow](./images/images.028.jpeg)
 
 An alternative strategy that can bring a lot more flexibility is catch-all content types with small “pockets” of structure embedded inside of them. Like an article content type, and separate “chart” and “video clip” and “timeline” content that can be created and stuck inside of an article.
 
@@ -235,7 +235,7 @@ And if specific new patterns emerge — like, “Interview articles always start
 
 ---
 
-![Multi-Purpose beats Perfect Fit](./images/images.029.JPEG)
+![Multi-Purpose beats Perfect Fit](./images/images.029.jpeg)
 
 That brings us to the next principle. When needs are unclear — or changing rapidly — multi-purpose buildings that that are flexible and “good enough” beat highly specialized purpose-built structures. In How Buildings Learn, Brand connects this to the idea of “satisficing” — a combination of “satisfying” and “sufficing.”
 
@@ -243,13 +243,13 @@ That funky-looking building is the Lou Ruvo Center — it’s “Art” architec
 
 ---
 
-![Multi-Purpose beats Perfect Fit](./images/images.030.JPEG)
+![Multi-Purpose beats Perfect Fit](./images/images.030.jpeg)
 
 The anonymous red brick warehouse on the left, though… By Stewart Brand’s reckoning, that’s a building with a rich future. Because it has an open floor plan, an extremely solid structure, and its plumbing and electrical are all exposed — it can be renovated easily, and repurposed in loads of different ways.
 
 ---
 
-![Multi-Purpose beats Perfect Fit](./images/images.031.JPEG)
+![Multi-Purpose beats Perfect Fit](./images/images.031.jpeg)
 
 The idea of a “warehouse loft apartment” is an aesthetic that’s tied to the underlying open-ness and flexibility of that structure. But the same building can just as easily be turned into, say, a local makerspace filled with woodworking equipment and 3D printers. Or an office. Or… a warehouse.
 
@@ -259,7 +259,7 @@ Now, spaces like that take work to modify, but the lack of inherent assumptions 
 
 ---
 
-![Multi-Purpose beats Perfect Fit](./images/images.032.JPEG)
+![Multi-Purpose beats Perfect Fit](./images/images.032.jpeg)
 
 Years back I had the pleasure of working with the CMS and digital publishing team from CNBC. They’d built an extremely flexible system for organizing their content around the idea that new sections of the site, or new ways of organizing things, should be something editors have the power to create and iterate on as needed, without bringing in the IT department.
 
@@ -269,13 +269,13 @@ The result was that “Special event” coverage, like a cluster of stories focu
 
 ---
 
-![Change comes in layers](./images/images.033.JPEG)
+![Change comes in layers](./images/images.033.jpeg)
 
 The last big idea we’re going to look at is one I teased earlier in the talk — it’s the idea that change forms layers. We’re talking about it last, but it’s integral in Stewart’s book. He picked up the idea from Frank Duffy, an architect who wrote about the idea in the early 90s.
 
 ---
 
-![Change comes in layers](./images/images.034.JPEG)
+![Change comes in layers](./images/images.034.jpeg)
 
 Duffy talked about the fact that different parts of a building were always changing, and that they had different but overlapping cycles.
 
@@ -293,7 +293,7 @@ And finally, well, there’s all the stuff. Your chair, your desk, your bookshel
 
 ---
 
-![Change comes in layers](./images/images.035.JPEG)
+![Change comes in layers](./images/images.035.jpeg)
 
 Duffy called them Shearing Layers. Because they’re all in contact with each other, they have to coexist, but they’re changing at different rates they can tear at each other if they’re too tightly coupled.
 
@@ -303,7 +303,7 @@ If the electrical services of a building are too deeply embedded in the structur
 
 ---
 
-![shearing layers](./images/images.036.JPEG)
+![shearing layers](./images/images.036.jpeg)
 
 Back at the beginning, when we talked about “architecture” being the accumulation of choices that are expensive to change? Well. This is where it all comes full circle.
 
@@ -311,13 +311,13 @@ In a 1990 article, Duffy said that “There isn’t such a thing as a building. 
 
 ---
 
-![Oh-ho, here it is](./images/images.037.JPEG)
+![Oh-ho, here it is](./images/images.037.jpeg)
 
 Now, Stewart Brand found this concept of layered change and the tension between those layers so fundamental that he stepped back a few paces and started applying it beyond the realm of architecture. In his following book, The Clock Of The Long Now, he applied it to the way civilizations work. He called it “pace layering,” and that term has actually been adopted in a number of different industries to talk about how different parts of systems interact with each other over time.
 
 ---
 
-![shearing layers](./images/images.038.JPEG)
+![shearing layers](./images/images.038.jpeg)
 
 It’s important to note that Brand wasn’t devaluing the fast-moving stuff like fashion and commerce in favor of conservation. He just wanted to learn more about how they worked together. In an article a couple of years ago in the Journal of Design and Science, he wrote:
 
@@ -327,7 +327,7 @@ All durable dynamic systems have this sort of structure.  It’s what makes the
 
 ---
 
-![Lullabot’s Layers](./images/images.039.JPEG)
+![Lullabot’s Layers](./images/images.039.jpeg)
 
 About a decade or so ago, colleagues from Lullabot and I started thinking about how those ideas could improve the content models we made for clients — particularly ones that were frustrated by all the structural changes that had to happen to implement — from their perspective — seemingly minor design changes.
 
@@ -337,7 +337,7 @@ That breakdown allowed us to prioritize — we could think carefully about how w
 
 ---
 
-![Georgia’s Layers](./images/images.040.JPEG)
+![Georgia’s Layers](./images/images.040.jpeg)
 
 That way of looking at things was a huge help on a recent project with the State of Georgia, too. They had dozens of agencies with different missions and a CMS that had to serve all of them with a finite, manageable set of content types.
 
@@ -351,7 +351,7 @@ The end result is that their content doesn’t rot as quickly — because the st
 
 ---
 
-![Georgia’s Layers](./images/images.041.JPEG)
+![Georgia’s Layers](./images/images.041.jpeg)
 
 I really love that story, in part because it didn’t break down the information based on visual design patterns or an arbitrary idea of “what’s the most semantically correct way to describe a government program.” It looked at where the friction was between different layers of continual change, and teased them apart just enough that they could work together without breaking each other.
 
@@ -359,7 +359,7 @@ That, to me, is a pretty big payoff. And it’s not a single magical content mod
 
 ---
 
-![What you can do tomorrow](./images/images.042.JPEG)
+![What you can do tomorrow](./images/images.042.jpeg)
 
 So. Whew.
 
@@ -367,13 +367,13 @@ After all that big idea stuff… I want to bring things back around and talk abo
 
 ---
 
-![Conduct A Change inventory](./images/images.043.JPEG)
+![Conduct A Change inventory](./images/images.043.jpeg)
 
 The first and easiest option is to conduct what I call a “change inventory.” It doesn’t have to be complicated, and in a lot of ways it’s like a high-level content inventory. You look at your content and you ask some questions about how it’s changed in the past, and what you expect in the future. That process can give you some interesting early insights that hint at something like pace layers. They can also help you identify hot spots, like content you have tons of that also requires frequent updating.
 
 ---
 
-![Conduct A Change inventory](./images/images.044.JPEG)
+![Conduct A Change inventory](./images/images.044.jpeg)
 
 That kind of inquiry and the information you get from it can take different forms, but basic questions can provide a lot of value. Things like…
 
@@ -385,7 +385,7 @@ Does the quantity of a particular kind of content grow, or spike, or do we antic
 
 ---
 
-![Identify Layer-Straddling content](./images/images.045.JPEG)
+![Identify Layer-Straddling content](./images/images.045.jpeg)
 
 The next actionable step is to look at your messaging and your content — and talk to other people in your organization, obviously — to identify stuff that straddles different rates of change, and has no good buffer to keep the changes from affecting each other.
 
@@ -395,7 +395,7 @@ These layer-straddling messages and content are usually where things break becau
 
 ---
 
-![Discuss the cost of change](./images/images.046.JPEG)
+![Discuss the cost of change](./images/images.046.jpeg)
 
 Finally, talk to colleagues and leadership about this idea of “costly change,” that causes big ripple effects before everything blows up. Get them used to the idea of calling out “friction points” where change is likely to be expensive. Let them know about content that’s so ubiquitous in your library that changing the way it works, even for a good reason, will cause a tidal wave of work.
 
@@ -403,25 +403,25 @@ The idea isn’t to stonewall changes, but to help other members of your team un
 
 ---
 
-![Favor composition over creation](./images/images.047.JPEG)
+![Favor composition over creation](./images/images.047.jpeg)
 
 Now, I said we’d be talking about concrete “do it tomorrow” type stuff. But I also have three ideas that are more… general. Broad principles for content that can help you as you move forward with the “pace layer” way of thinking.
 
 ---
 
-![Favor composition over creation](./images/images.048.JPEG)
+![Favor composition over creation](./images/images.048.jpeg)
 
 First, whenever possible, try to combine existing things you have in novel ways, rather than making a new thing from scratch. That’s the whole idea of “widgets” and “embedding” that I talked about earlier in the concept of growth and multi-purpose content. It can’t satisfy every need, but it can “satisfice” quite a few of them. And if you lean into this approach, often your new communication needs can be solved by creating a new container for old elements… or a new kind of element to add to your library of building blocks, rather than making something new and labor-intensive from scratch.
 
 ---
 
-![Refine what endures, watch what doesn’t](./images/images.049.JPEG)
+![Refine what endures, watch what doesn’t](./images/images.049.jpeg)
 
 Next, refine what you know is going to stick around and don’t sweat the stuff that you know is seasonal or ephemeral. That applies to your workflow and your processes and to technical stuff like structured content models, too. As long as you have some buffers between those things, so that changes in one don’t break the other… you can afford imprecision and inconsistency in the stuff that only lasts for a few weeks.
 
 ---
 
-![Slide 50](./images/images.050.JPEG)
+![Slide 50](./images/images.050.jpeg)
 
 Now… Jeff Bezos is super problematic in terms of giving advice about sustainability, but I really love this quote. In a 2019 interview, he said:
 
@@ -431,7 +431,7 @@ I can’t think of any better way to explain the importance of understanding the
 
 ---
 
-![Prioritize playbooks over predictions](./images/images.051.JPEG)
+![Prioritize playbooks over predictions](./images/images.051.jpeg)
 
 Finally… rather than trying to predict a very specific set of future needs and building towards that, use scenario planning approaches instead. Work with the rest of your team, look at the things that have changed in the past, and brainstorm ways that you think your needs or the needs of the people you’re communicating with might evolve in the future. The goal isn’t to predict what will happen — it’s to imagine a range of potential scenarios, and weigh the ways you’re approaching your content by how well they’ll cope with the potential scenarios you can envision.
 
@@ -439,7 +439,7 @@ For example, “we’ll hire more copywriters if demand ramps up” or “we’l
 
 ---
 
-![Slide 52](./images/images.052.JPEG)
+![Slide 52](./images/images.052.jpeg)
 
 There are a million different angles to look at these issues from, and I feel like I’ve only scratched the surface, but I hope the idea of “pace layers” and looking at your content through the lens of time and change has started some wheels turning for you. I’d absolutely recommend grabbing a copy of How Buildings Learn; I can’t possibly do it justice.
 

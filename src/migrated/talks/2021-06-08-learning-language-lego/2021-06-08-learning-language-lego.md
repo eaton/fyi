@@ -11,7 +11,7 @@ performances:
     keynoteFile: 2021/OCX - Learning From Lego.key
 ---
 
-![Slide 2](./images/images.002.JPEG)
+![Slide 2](./images/images.002.jpeg)
 
 First off: I love LEGO. I’ve been training for this talk since roughly 1983, when I got my little hands on Set #6390 — LEGOLAND Main Street. I was a particular fan of the little chef down at the bottom, with his jaunty hat and popcorn stand.
 
@@ -19,7 +19,7 @@ But what really made it amazing was the way it worked. That little car parked on
 
 ---
 
-![Slide 3](./images/images.003.JPEG)
+![Slide 3](./images/images.003.jpeg)
 
 If I didn’t like, it, I could just change it. Or tear it apart and build something else entirely! It was a toy made of toys that could make other toys.
 
@@ -27,7 +27,7 @@ That’s how LEGO works, and it for kids that really loved it, the practice of l
 
 ---
 
-![Slide 4](./images/images.004.JPEG)
+![Slide 4](./images/images.004.jpeg)
 
 LEGO isn’t just tremendously popular (they sell roughly 75 billion plastic bricks each year). It’s also the go-to metaphor when our industry needs to explain any kind of complex, component-oriented system — from structured content to object-oriented programming to pattern-oriented design systems. “Do you need flexibility and reuse? Break things up into bricks, then build new things out of it!”
 
@@ -35,7 +35,7 @@ Now, as much as I love LEGO, that trend has worried me. Because the quick, easy 
 
 ---
 
-![Slide 5](./images/images.005.JPEG)
+![Slide 5](./images/images.005.jpeg)
 
 At Autogram, the agency I co-founded with Karen McGrane and Ethan Marcotte, we focus on complicated, large-scale content and design systems, and I can say wholeheartedly that "use components, that will solve it!" is not an answer to most of the problems we see.
 
@@ -43,7 +43,7 @@ If our sole focus is on the components themselves, the individual pieces our con
 
 ---
 
-![Slide 6](./images/images.006.JPEG)
+![Slide 6](./images/images.006.jpeg)
 
 This is a screenshot from the IBM Products and Services Dashboard, where you log in to control your various subscriptions and product licenses. It’s silly when you look at it, but every individual bit of content was written to be friendly and human. The problem is that clicking those bricks together doesn’t make a coherent whole.
 
@@ -51,7 +51,7 @@ Honestly, most of the work we do isn’t cutting edge, infinitely remixable, AI 
 
 ---
 
-![Slide 7](./images/images.007.JPEG)
+![Slide 7](./images/images.007.jpeg)
 
 When Autogram rolled out a new version of our site earlier this year, we wanted the news feed of links, interviews, and so on to feel “conversational.” But when we built the templates for the press clippings we’d assembled, the results were awkward. Wrong, even.
 
@@ -59,7 +59,7 @@ The modular, structured content we’d created broke up every press clipping int
 
 ---
 
-![Slide 8](./images/images.008.JPEG)
+![Slide 8](./images/images.008.jpeg)
 
 There was no easy automatic solution; in the end we created a system of metadata to describe what kind of thing a link represented, what kind of venue it appeared in, and so on — then tested the different ways we knew we’d be using the data to ensure it could produce good results.
 
@@ -72,7 +72,7 @@ All of these things were fussy, but that’s how language works. And to make our
 
 ---
 
-![Slide 9](./images/images.009.JPEG)
+![Slide 9](./images/images.009.jpeg)
 
 Maya Hampton wrote a fantastic post about design systems last year about this very idea.
 
@@ -84,7 +84,7 @@ To build a system that works, we have to consider the whole system that binds th
 
 ## Consistent connections
 
-![Slide 10](./images/images.010.JPEG)
+![Slide 10](./images/images.010.jpeg)
 
 The first principle we’re going to look at is the underlying system of rules and shared properties that makes LEGO work consistently.
 
@@ -92,7 +92,7 @@ Playing on the language metaphor again, I think of it like the “grammar” of 
 
 ---
 
-![Slide 11](./images/images.011.JPEG)
+![Slide 11](./images/images.011.jpeg)
 
 The LEGO system’s basic units of connection are the “stud” (those little round pips on top of each brick) and the “tube” (the bits on the underside of each brick that the studs snap into). They studs and tubes give just enough friction to hold bricks together without making them too hard to pull apart, and that system is part of the first patents LEGO filed in the 1950s.
 
@@ -100,7 +100,7 @@ Bricks are usually referred to by how many studs they have — those big ones ar
 
 ---
 
-![Slide 12](./images/images.012.JPEG)
+![Slide 12](./images/images.012.jpeg)
 
 Now, here’s where it gets wild. There’s an even deeper underlying consistency beneath those relatively coarse “Lego Units” of studs and plates. The proportions of the pieces themselves are built around a “magic number” of roughly four tenths of a millimeter.
 
@@ -113,7 +113,7 @@ Now, here’s where it gets wild. There’s an even deeper underlying consistenc
 
 ## axles, hands, and headlights
 
-![Slide 13](./images/images.013.JPEG)
+![Slide 13](./images/images.013.jpeg)
 
 Even the LEGO Minifigure plays by the rules of the LDU.
 
@@ -121,7 +121,7 @@ Every minifig is three bricks tall at the shoulders , with a one-brick tall head
 
 ---
 
-![Slide 14](./images/images.014.JPEG)
+![Slide 14](./images/images.014.jpeg)
 
 The consistency of the system isn’t just about the connections, either. It also reveals some deeply pleasing symmetry. You can build a big LEGO brick out of LEGO bricks, and the proportions still work. A plate (8LDU thick) can fit between the studs of another brick (an 8LDU gap). Five plates are as tall as two bricks are wide — both add up to 40 LDU, and five bricks laid end to end are as long as six bricks are wide — 120 LDU.
 
@@ -131,7 +131,7 @@ The designers of the System didn’t have to plan and account for every one of t
 
 ---
 
-![Slide 15](./images/images.015.JPEG)
+![Slide 15](./images/images.015.jpeg)
 
 So, how does that play out in the world of content?
 
@@ -144,13 +144,13 @@ They could add new kinds of widgets to meet new needs, and as long as they worke
 
 ---
 
-![Complexity & composition](./images/images.016.JPEG)
+![Complexity & composition](./images/images.016.jpeg)
 
 The basic promise of LEGO is that you can build amazing things out a limited collection of small pieces. There are about 3500 kinds of bricks (if you count all the variations), but the range of things that can be built is essentially infinite. The answer to a new building challenge — generally speaking — is not new bricks but new combinations of bricks.
 
 ---
 
-![Slide 17](./images/images.017.JPEG)
+![Slide 17](./images/images.017.jpeg)
 
 That philosophy, along with the studs-and-tubes connection style and the consistency of the LEGO Draw Unit, creates some amazing possibilities. From mosaic-like recreations of the Mona Lisa to meter-long space ships to working machines like the LEGO Marble Maze. I wanted to show a dazzling parade of different LEGO projects here, but… honestly, there are thousands of them, and people on the Internet love nothing more than showing them off. You should check it out.
 
@@ -158,7 +158,7 @@ This idea — of managing complexity by composing big things out of small things
 
 ---
 
-![Slide 18](./images/images.018.JPEG)
+![Slide 18](./images/images.018.jpeg)
 
 These two sentences use exactly the same words… but because of the conventions of English grammar and the order in which they’re arranged, they have very different implications. One is about a boy, the other is about a horse.
 
@@ -168,7 +168,7 @@ The expressiveness of language itself — its real complexity — is driven by t
 
 ---
 
-![Slide 19](./images/images.019.JPEG)
+![Slide 19](./images/images.019.jpeg)
 
 CNBC is one of my favorite examples of this idea. More than 15 years ago, as part of a major replatforming, they had the chance to create a new content model from scratch — and they decided it shouldn’t just be a set of content types, but a system that could expand.
 
@@ -178,7 +178,7 @@ There was a consistent system of relationships, too: Articles were the foundatio
 
 ---
 
-![Slide 20](./images/images.020.JPEG)
+![Slide 20](./images/images.020.jpeg)
 
 But the CNBC team spent some extra time on their foundations, and it paid off. Because Lists, Articles, and Embeds had a shared set of consistent properties, they could usually be substituted for each other.
 
@@ -192,13 +192,13 @@ This is probably the most important lesson that any of us can take away from the
 
 ---
 
-![Precision vs Reuse](./images/images.021.JPEG)
+![Precision vs Reuse](./images/images.021.jpeg)
 
 Now, I said the system of connections — LEGO’s “grammar” — was one of the most important takeaways, but this one is definitely a runner-up for my favorite.
 
 ---
 
-![Slide 22](./images/images.022.JPEG)
+![Slide 22](./images/images.022.jpeg)
 
 I think of it as “the shark problem.” The shark is a wonderful and delightful LEGO piece — they added it in 1989 for the first Pirate-themed LEGO set. It has tubes on the bottom, and you can connect it to a brick with studs… but it’s not like you can make anything other than a shark out of it.
 
@@ -206,13 +206,13 @@ One of the fundamental tensions of LEGO is the contrast between those special-pu
 
 ---
 
-![Slide 23](./images/images.023.JPEG)
+![Slide 23](./images/images.023.jpeg)
 
 In the LEGO building community, that’s called “brick-builtness,” the quality of being built from bricks. It feels like a very German way to name something. While “perfect pieces” can knock it out of the park when they’re needed, they don’t really play well with the “brickbuilt” philosophy. They can’t be reused. Neither option is good or bad, but there’s tension between them.
 
 ---
 
-![Slide 24](./images/images.024.JPEG)
+![Slide 24](./images/images.024.jpeg)
 
 From a brand and communication perspective, highly-tailored messages can absolutely kill it when they’re used in the right moment. In 2013, during the Superbowl game, an electrical outage briefly cut off power to the stadium, killing the lights and halting the game. Oreo’s social media team seized the opportunity and dashed off a quick tweet: “You can still dunk in the dark.” Everyone loved it, it went viral, other brands aped it…
 
@@ -224,7 +224,7 @@ Both of those approaches their uses; a good system will balance them, relying on
 
 ---
 
-![Slide 25](./images/images.025.JPEG)
+![Slide 25](./images/images.025.jpeg)
 
 It doesn’t have to be an all-or-nothing choice between one-off solutions and reusable patterns, either.
 
@@ -236,13 +236,13 @@ If you think about it, as unique as the “Dunk in the Dark” tweet was, the ov
 
 ## Sandboxed Subsystems
 
-![Slide 26](./images/images.026.JPEG)
+![Slide 26](./images/images.026.jpeg)
 
 DUPLO and TECHNIC were two of the first “specialty” lines LEGO created; they used the same rules but went in different directions. DUPLO was twice the size of normal LEGO bricks, meant for toddlers and younger children. TECHNIC was for older model-builders, and added additional mechanisms like rods, gears, and connecting pins.
 
 ---
 
-![Slide 27](./images/images.027.JPEG)
+![Slide 27](./images/images.027.jpeg)
 
 What’s worth noting is that both TECHNIC and DUPLO remained compatible with existing LEGO pieces — they added new mechanisms or scaled up old pieces, rather than departing entirely. That meant they could interoperate, but it also meant they could serve as a testbed for emerging LEGO techniques.
 
@@ -252,7 +252,7 @@ But other aspects have “escaped their sandboxes.” Technic style rod and pini
 
 ---
 
-![Slide 28](./images/images.028.JPEG)
+![Slide 28](./images/images.028.jpeg)
 
 Since 1980 or so, when it launched the ‘LEGOLAND’ line of town and space themed sets, LEGO has also maintained distinct “themes” with their own distinctive building styles, color schemes, and even special parts.
 
@@ -260,7 +260,7 @@ Some of them make it back to other parts of the LEGO universe, like Castle-theme
 
 ---
 
-![Slide 29](./images/images.029.JPEG)
+![Slide 29](./images/images.029.jpeg)
 
 When IBM Cloud’s web team built out a new content type for “Case Studies,” that’s how it played out.
 
@@ -273,7 +273,7 @@ Those kinds of “sandboxes” — as long as they remain compatible with the la
 
 ---
 
-![Iteration & evolution](./images/images.030.JPEG)
+![Iteration & evolution](./images/images.030.jpeg)
 
 Real systems don’t stay static — when they’re used by real people in the real world, they get repurposed for new tasks, or new needs emerge, and pieces get adapted or added.
 
@@ -281,13 +281,13 @@ In linguistics, it’s called “drift.” A word that’s coined with one meani
 
 ---
 
-![Slide 31](./images/images.031.JPEG)
+![Slide 31](./images/images.031.jpeg)
 
 As special-purpose bricks go, the ‘wheel’ entered the LEGO universe pretty early. They appeared in some early “building kit” collections, but in 1963 LEGO set #315 — the “European Taxi” — was the first model to explicitly use them.
 
 ---
 
-![Slide 32](./images/images.032.JPEG)
+![Slide 32](./images/images.032.jpeg)
 
 It was a pretty simple mechanism — a two-by-four brick had holes punched in its sides, a metal shaft connected to a round hub attached to the hole… and a grey rubber tire fit around the hub. Around 1965, they added a smaller version for the sets that used a different scale — but it hinted at a problem to come. They were starting to accumulate different, incompatible kinds of wheels — something that continued for several years.
 
@@ -295,7 +295,7 @@ In 1977, though, the TECHNIC theme’s new bricks with holes and matching axles 
 
 ---
 
-![Slide 33](./images/images.033.JPEG)
+![Slide 33](./images/images.033.jpeg)
 
 The key here is that they started simple, and when they spotted patterns emerging in different parts of the system, they iterated towards greater reuse of generic components and connections.
 
@@ -305,7 +305,7 @@ That’s a theme that runs through most of the examples here — CNBC’s multi-
 
 ---
 
-![Slide 35](./images/images.035.JPEG)
+![Slide 35](./images/images.035.jpeg)
 
 So. What are the takeaways from this foray into LEGO?
 
@@ -317,6 +317,6 @@ So. What are the takeaways from this foray into LEGO?
 
 ---
 
-![Thank you!](./images/images.036.JPEG)
+![Thank you!](./images/images.036.jpeg)
 
 Thank you very much for your time; I hope it’s been useful, and If you’d like to see more of this kind of ranting, or you want to argue or talk shop or ideas, you can find me on Twitter, or check out our site at Autogram-I-S. We try to keep a feed of interesting stuff like this flowing, and — obviously — if you’ve got some tangly problems with your content, we’d love to work with you.

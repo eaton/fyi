@@ -13,7 +13,7 @@ performances:
     url: 'https://vimeo.com/517373117'
 ---
 
-![Slide 2](./images/images.002.JPEG)
+![Slide 2](./images/images.002.jpeg)
 
 If you’re in UX — or even just UX adjacent — it’s hard to escape the concept of a “Design System.” It feels like everybody’s making one. Maybe you’ve made one. Maybe you are giving a talk about one!
 
@@ -21,20 +21,20 @@ And, really, it makes sense. A lot of work, a lot of dialogue, and a lot of good
 
 ---
 
-![Slide 3](./images/images.003.JPEG)
+![Slide 3](./images/images.003.jpeg)
 
 Depending on how liberally you define it, orgs have been doing that kind of work — in particular, standardizing the aesthetics and the structural elements of their designs — for decades. I’m a big fan of design ephemera, and NASA has made their “graphics guide” from the 1980s available as a PDF. It’s glorious.
 
 ---
 
-![Slide 4](./images/images.004.JPEG)
+![Slide 4](./images/images.004.jpeg)
 
 A lot of the same ideas have been shaping the content strategy and software development communities — both front and back end — for years, too.
 The idea of breaking down the work we do into component pieces, standardizing them, and using that to improve the ways our teams work together, is pretty significant.
 
 ---
 
-![Slide 5](./images/images.005.JPEG)
+![Slide 5](./images/images.005.jpeg)
 
 Now, I’m a big believer in the importance of metaphors. The concept of modular, reusable work shared by different people and different projects isn’t necessarily intuitive. No metaphor is perfect, but they help us understand complicated ideas using ones we already grasp.
 
@@ -42,7 +42,7 @@ And as a cluster of industries, we use a LOT of different metaphors to talk abou
 
 ---
 
-![Slide 6](./images/images.006.JPEG)
+![Slide 6](./images/images.006.jpeg)
 
 This is something that interests me: a lot of our metaphors focus on what we call the individual elements in those component systems and how we organize them. Atoms and molecules. Toolboxes full of tools. LEGO bricks we build things out of.
 
@@ -50,7 +50,7 @@ They all shed important light on the nature of the work we do and what we need f
 
 ---
 
-![The Shared Vocabulary](./images/images.007.JPEG)
+![The Shared Vocabulary](./images/images.007.jpeg)
 
 That metaphor is language. The idea of a “Design Language” has been around for decades in product companies like Apple and Mercedes-Benz; my background isn’t really in design, so it probably goes back much farther, but it certainly goes back at least that far.
 
@@ -60,7 +60,7 @@ The language — or “vocabulary” — metaphor for component-oriented systems
 
 ---
 
-![A brief interlude](./images/images.008.JPEG)
+![A brief interlude](./images/images.008.jpeg)
 
 Now… I need to offer a caveat before we proceed. This is a fairly abstract talk. It’s not a tutorial or a quick trick or a New Model To Accelerate Your Anything.
 
@@ -68,7 +68,7 @@ It’s more of a peek at some evolving perspectives, a look behind the curtain a
 
 ---
 
-![Vocabulary](./images/images.010.JPEG)
+![Vocabulary](./images/images.010.jpeg)
 
 The colleagues I mention are Karen McGrane and Ethan Marcotte, my partners at a consultancy named “Autogram.”
 
@@ -80,7 +80,7 @@ We usually work with clients big enough that without systems — without the sha
 
 ---
 
-![Teams can agree on words but mean different things](./images/images.011.JPEG)
+![Teams can agree on words but mean different things](./images/images.011.jpeg)
 
 Teams can agree on words, but still mean different things, use the words in different, conflicting ways, and fall out of sync… sometimes without even realizing it until the collisions cause huge problems.
 
@@ -88,7 +88,7 @@ You can get everyone to sign off on the approved list of patterns, name them and
 
 ---
 
-![Slide 12](./images/images.012.JPEG)
+![Slide 12](./images/images.012.jpeg)
 
 This is, I think, my absolute favorite photograph in the entire world. I took it at the grocery store years ago, and I will work it into every presentation I can.
 
@@ -98,7 +98,7 @@ What I really love about this collision is that it’s a problem we see in clien
 
 ---
 
-![Grammar, Vocabulary, Meaning](./images/images.013.JPEG)
+![Grammar, Vocabulary, Meaning](./images/images.013.jpeg)
 
 If we go back to the language metaphor we started with, this gets interesting. Because in language, a vocabulary doesn’t stand alone: the “lexicon” of a language is only one piece of the puzzle.
 
@@ -106,7 +106,7 @@ Words require a supporting structure — a grammar — to be combined into meani
 
 ---
 
-![Grammar, Vocabulary, Meaning](./images/images.014.JPEG)
+![Grammar, Vocabulary, Meaning](./images/images.014.jpeg)
 
 Apply that to something like a front end pattern library, and the failure of vocabulary-only approaches feels a little less confusing.
 
@@ -116,7 +116,7 @@ Asking these questions, approaching these common problems using the metaphor of 
 
 ---
 
-![Grammar, Vocabulary, Meaning](./images/images.015.JPEG)
+![Grammar, Vocabulary, Meaning](./images/images.015.jpeg)
 
 Now, I don’t know about you, but that’s the kind of “aha moment” that makes me want to nerd out.
 
@@ -126,7 +126,7 @@ Well, friend. Let me tell you.
 
 ---
 
-![Slide 16](./images/images.016.JPEG)
+![Slide 16](./images/images.016.jpeg)
 
 Again with the caveats. We’ve been diving into a lot of really interesting material about language, and the study of it, and how people interact with it and how people in other disciplines have applied it in the past.
 
@@ -134,7 +134,7 @@ But none of us are linguists, and doubtless a linguists who will hears this will
 
 ---
 
-![Where else does this metaphor add insight?](./images/images.017.JPEG)
+![Where else does this metaphor add insight?](./images/images.017.jpeg)
 
 With that set of caveats out of the way, though, on to the fun stuff. What kinds of thorny problems did we find made more sense through the metaphor of language?
 
@@ -142,7 +142,7 @@ Given our fun new hammer, what nails awaited us?
 
 ---
 
-![Discrete infinity](./images/images.018.JPEG)
+![Discrete infinity](./images/images.018.jpeg)
 
 In linguistics, Discrete infinity is the idea that language has a limited (discrete) set of components — phonemes, words, all that stuff — but infinite potential for novel combinations. English has a growing but finite number of words. The magic comes in how people take that set of words, within the bounds of the grammar, and use them to build unique messages.
 
@@ -152,7 +152,7 @@ Boom. Synergy.
 
 ---
 
-![Is vs. Ought](./images/images.019.JPEG)
+![Is vs. Ought](./images/images.019.jpeg)
 
 When teams use a design system to bring order to a bunch of disparate efforts, one of the questions we’re usually asked boils down to, “Should we just capture all the stuff that’s being done in the wild by our designers, or come up with a big rulebook and then enforce it?”
 
@@ -160,7 +160,7 @@ Both of those are a little extreme and no one seems happy with either one, but i
 
 ---
 
-![Slide 20](./images/images.020.JPEG)
+![Slide 20](./images/images.020.jpeg)
 
 Linguistics sees the same tension. It’s the prescriptivism vs descriptivism divide. One school of thought is that proper language has a set of hard and fast rules, and anything that violates them isn’t a proper part of the language. If your social sharing card doesn’t have a tagline, it’s not a proper sharing card and you can’t use it.
 
@@ -168,7 +168,7 @@ The other school of thought basically sees the job of a linguist as documenting 
 
 ---
 
-![Slide 21](./images/images.021.JPEG)
+![Slide 21](./images/images.021.jpeg)
 
 This is all real merch from the “Lingthusiasm” podcast, by the way, which is glorious and excellent.
 
@@ -176,31 +176,31 @@ What’s useful about this idea, though, is that linguistics doesn’t need the 
 
 ---
 
-![Productivity](./images/images.022.JPEG)
+![Productivity](./images/images.022.jpeg)
 
 Productivity is in the same neighborhood as Discrete Infinity, but gets at a slightly different principle. Basically: Can the symbols in the language be combined creatively, to communicate previously unimagined messages?
 
 ---
 
-![Slide 23](./images/images.023.JPEG)
+![Slide 23](./images/images.023.jpeg)
 
 To explain one metaphor with another one, a jigsaw puzzle is a “componentized” picture; it’s broken up into little bits that fit together. But you can’t use it to make a new picture, at least without breaking the “grammatical” rules of jigsaw puzzles.
 
 ---
 
-![Slide 24](./images/images.024.JPEG)
+![Slide 24](./images/images.024.jpeg)
 
 A tangram puzzle, though… that’s another story. Its pieces are explicitly meant to be rearranged and combined in different ways to produce different shapes.
 
 ---
 
-![Slide 25](./images/images.025.JPEG)
+![Slide 25](./images/images.025.jpeg)
 
 Design Systems and content models with a lot of “jigsaw puzzle” components may seem fine as long as you’re building out the thing they were planned for. But if you can’t figure out how a component would ever be reused — or the majority of your components are hyper-focused and difficult to adapt to other contexts? Your system will struggle long term and keep accumulating more, and more, and more…
 
 ---
 
-![Slang and dialect](./images/images.026.JPEG)
+![Slang and dialect](./images/images.026.jpeg)
 
 We’ve never seen a design system or content model that didn’t have to deal with exceptions — teams that needed to add fields or override behaviors or make variations on the accepted, standard versions of things for their project or product. Organizations tend to either freak out, try to stamp it out and fail… or give up, shrug, and accept that the whole “consistency” goal is a loss.
 
@@ -208,7 +208,7 @@ Rather than treating these pockets of unique usage as broken-ness, though, looki
 
 ---
 
-![High-variance, high-volume](./images/images.027.JPEG)
+![High-variance, high-volume](./images/images.027.jpeg)
 
 Okay, here’s where it gets kind of wild.
 
@@ -216,7 +216,7 @@ There isn’t really time to get into the details in this talk, but this particu
 
 ---
 
-![Vocabulary… Grammar… Semantics…](./images/images.028.JPEG)
+![Vocabulary… Grammar… Semantics…](./images/images.028.jpeg)
 
 I’ve heard people talk about this as “The Landing Page Problem,” or “Rich longform content” or they just set up a Squarespace account or use Gutenberg. The problem bites teams when they produce enough material to need the rigor of a good content model and consistent, modular design… But their page-by-page, interaction-by-interaction needs vary so much that they can’t rely on traditional templates like “Article” or “Interview” or “Event.”
 
@@ -226,7 +226,7 @@ It can work, but doing it well requires that you build useful rules around what 
 
 ---
 
-![Vocabulary… Grammar… Semantics…](./images/images.029.JPEG)
+![Vocabulary… Grammar… Semantics…](./images/images.029.jpeg)
 
 And… oh, my.
 
@@ -236,13 +236,13 @@ Now your modular content is a language you use to communicate with your end user
 
 ---
 
-![Slide 30](./images/images.030.JPEG)
+![Slide 30](./images/images.030.jpeg)
 
 I am pretty sure this might be where Karen and Ethan say I am, quote, “back on my bullshit.” But we do what we do to get by in these troubled times. Find your happy place.
 
 ---
 
-![Okay, cool, but I have real work on Monday](./images/images.031.JPEG)
+![Okay, cool, but I have real work on Monday](./images/images.031.jpeg)
 
 Okay, so. We’re running out of time and I’ll dial it back. Get us back to some traditional takeaways.
 
@@ -252,7 +252,7 @@ Right now, I’ve got two.
 
 ---
 
-![Watch the connections](./images/images.032.JPEG)
+![Watch the connections](./images/images.032.jpeg)
 
 First: invest in the connections between things.
 
@@ -262,13 +262,13 @@ And then get frustrated when that vocabulary doesn’t capture the interactions 
 
 ---
 
-![Slide 33](./images/images.033.JPEG)
+![Slide 33](./images/images.033.jpeg)
 
 Pushing ahead with the idea of atoms and molecules, caffeine is a molecule near and dear to our hearts. it’s not just a pile of hydrogen and carbon and nitrogen and oxygen. It’s those things arranged and connected in a very specific fashion — and a very specific set of potential interactions implied by the connection points at the edges that remain unused.
 
 ---
 
-![Slide 34](./images/images.034.JPEG)
+![Slide 34](./images/images.034.jpeg)
 
 That style of notation isn’t random or ad hoc — and depending on how much attention you paid in high school chemistry you might remember it as “Lewis Dot Notation.” It’s an explicitly designed language for talking about the links hold molecules together. It’s the grammar of atoms.
 
@@ -276,7 +276,7 @@ Oftentimes — even if you’re working with a system you think lacks them — l
 
 ---
 
-![Keep your promises](./images/images.035.JPEG)
+![Keep your promises](./images/images.035.jpeg)
 
 The other takeaway flows out of that attention to connections is the importance of system-level consistency, not just component level consistency. The way components connect to each other in a system — the grammar it uses to govern its pieces — can have farther reaching impact than any individual component. Because if you mess those rules up, changing them breaks all of the components, too.
 
@@ -284,7 +284,7 @@ From a language perspective, it sucks if the word “apple” vanishes… but it
 
 ---
 
-![Slide 36](./images/images.036.JPEG)
+![Slide 36](./images/images.036.jpeg)
 
 Maya Hampton wrote an excellent article last year that’s partially about measuring the business value of a design system, but also about the nature of systems — how the consistency of their rules is what keeps the system valuable even as the individual pieces change and evolve over time.
 
@@ -292,7 +292,7 @@ Maya Hampton wrote an excellent article last year that’s partially about measu
 
 ---
 
-![Slide 37](./images/images.037.JPEG)
+![Slide 37](./images/images.037.jpeg)
 
 As you exaine the rules of your system, the ways things connect with each other, ask yourself what other kinds of pieces could play by those rules, even if you don’t yet need them yet. When you throw hypothetical curveballs at your system, can you figure out how to fit good answers into its rules? Or would you have to toss everything and start over?
 
@@ -300,7 +300,7 @@ It’s impossible to plan for everything, but considering how much room you have
 
 ---
 
-![Slide 38](./images/images.038.JPEG)
+![Slide 38](./images/images.038.jpeg)
 
 Finally, if this idea of “treating the system like a language” intrigues you, keep digging. We’ve found it valuable, especially for those teams that deal with lots of high-variation content… but as far as I can tell this idea hasn’t been discussed much.
 

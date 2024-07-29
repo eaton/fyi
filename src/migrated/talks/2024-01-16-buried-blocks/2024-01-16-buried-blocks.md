@@ -12,7 +12,7 @@ performances:
     url: 'https://www.boye-co.com/conferences/cmskickoff24/program#Eaton'
 ---
 
-![Page Builders: Threat or Menace?](./images/images.002.JPEG)
+![Page Builders: Threat or Menace?](./images/images.002.jpeg)
 
 The central idea of this talk is that “modular page builders” can fill unanticipated publishing needs quickly, but at scale they destroy an organization’s ability to use and govern its own content.
 
@@ -22,7 +22,7 @@ Helping them dig out is good money for us, but the problem is extremely bad for 
 
 ---
 
-![Slide 3](./images/images.003.JPEG)
+![Slide 3](./images/images.003.jpeg)
 
 The classic, platonic view of structured content is leans heavily on identifying our types of content and their properties and their relationships.
 
@@ -30,7 +30,7 @@ This is an investment. You pour time with subject matter experts and stakeholder
 
 ---
 
-![The Balancing Act](./images/images.004.JPEG)
+![The Balancing Act](./images/images.004.jpeg)
 
 When you have a bunch of highly consistent content, it’s relatively easy to build a model for it, build some input forms, and pipe it through templates or feed it out through a content API. Obviously the devil is in the details, but it’s fair to say that things like “articles” and “staff bios” and “product pages” are basically a solved problem in the CMS world. You put in that investment, you define the structured model and build templates, and reap the rewards.
 
@@ -40,7 +40,7 @@ As long as you don’t push into the upper right corner — where you need LOTS 
 
 ---
 
-![New needs, new pressures](./images/images.005.JPEG)
+![New needs, new pressures](./images/images.005.jpeg)
 
 Of course, because nothing easy stays that way, there are a bunch of trends pushing organizations straight into that awkward, expensive upper-right quadrant.
 
@@ -54,7 +54,7 @@ These aren’t the only reasons more content is being pushed into that expensive
 
 ---
 
-![Enter the “page builder”](./images/images.006.JPEG)
+![Enter the “page builder”](./images/images.006.jpeg)
 
 The question is: How does it get solved?
 
@@ -70,7 +70,7 @@ Their campaigns have enough content that doing each page COMPLETELY from scratch
 
 ---
 
-![Enter the “page builder”](./images/images.007.JPEG)
+![Enter the “page builder”](./images/images.007.jpeg)
 
 Instead — and you probably saw this coming — they started with a “Generic Page” and assembled a custom design from scratch using different widgets in the CMS.
 
@@ -80,7 +80,7 @@ Over the past decade or so, this approach has emerged as  the most popular solut
 
 ---
 
-![Defining the “page builder”](./images/images.008.JPEG)
+![Defining the “page builder”](./images/images.008.jpeg)
 
 First, a Page Builder is self-service. The people working with it are end users of a CMS, content creators and producers. A key selling point for the approach is “No developers, no designers required”, which promises to lower expenses and accelerate delivery. It’s not always that simple, but we’ll get to that later.
 
@@ -92,7 +92,7 @@ Over the past five to ten years, every single CMS I know of has either built, an
 
 ---
 
-![Page builders are a coping mechanism for uncertain requirements](./images/images.009.JPEG)
+![Page builders are a coping mechanism for uncertain requirements](./images/images.009.jpeg)
 
 The critical point to remember, though, is that the page builder is fundamentally a CMS’s coping mechanism for a uncertain requirements.
 
@@ -102,7 +102,7 @@ The problem is that the parachute comes with some important tradeoffs.
 
 ---
 
-![Pages become mystery meat](./images/images.010.JPEG)
+![Pages become mystery meat](./images/images.010.jpeg)
 
 A good structured content model makes at least two promises about every piece of content it applies to: What it is, and what it contains. That consistency makes it possible to FIND stuff in a big pool of content, to filter and categorize and update and manage it at scale.
 
@@ -112,17 +112,17 @@ That’s especially common when the page builder is used to create “special”
 
 ---
 
-![Design becomes the content model](./images/images.011.JPEG)
+![Design becomes the content model](./images/images.011.jpeg)
 
 The second big drawback is that visual design — or more accurately, the collection of visual patterns the page builder allows users to choose from — becomes the de facto content model.
 
 In theory, it’s possible to create a page builder whose individual components are clean, reusable content modules with inherent meaning. In reality, the vast majority of teams go straight to an existing visual pattern library or component system. Then authors — instead of composing content and capturing what it is, or what it’s for — stack those visual components into page containers and fill out each component’s placeholder fields. Headless has the same problem — nothing keeps you from firing up contentful or sanity and making a model that bakes design decisions deep into the structure.
 
-The result is content locked in the shape of the visual patterns, like oldschool JPEGs sliced to fit into table cells. In addition to slowing down content updates and making reuse nigh impossible, that means design components can’t be changed or updated without breaking all of the content that’s been “baked into them” across hundreds or thousands of pages.
+The result is content locked in the shape of the visual patterns, like oldschool jpegs sliced to fit into table cells. In addition to slowing down content updates and making reuse nigh impossible, that means design components can’t be changed or updated without breaking all of the content that’s been “baked into them” across hundreds or thousands of pages.
 
 ---
 
-![Complexity pops up everywhere](./images/images.012.JPEG)
+![Complexity pops up everywhere](./images/images.012.jpeg)
 
 The page builder’s big value proposition is that it’s supposed to make production faster and simpler. By giving CMS users complete structural flexibility and control over design decisions, it eliminates expensive developers and designers. Years back, Dries Buytaert of Acquia even declared that his goal was to “eliminate Drupal developers” with these kinds of tools.
 
@@ -134,7 +134,7 @@ For all that hassle, the result was a single hero image with a CTA button.
 
 ---
 
-![Why shouldn't I?](./images/images.013.JPEG)
+![Why shouldn't I?](./images/images.013.jpeg)
 
 So… before I get too deep into my lament here, it’s worth asking: are these drawbacks really THAT bad? If Page Building tools WORK, we can forgive an awful lot of philosophical disagreements about how they structure their content. Instead of raw HTML and custom markup, you’ve got consistent modular components with structured content inside each one. Instead of requests to IT for a new page type, and a bunch of conversations about ‘data requirements,’ you just start clicking and assembling things.
 
@@ -144,7 +144,7 @@ But in every organization we’ve seen roll out these tools, once the page-build
 
 ---
 
-![The quadrant of pain](./images/images.014.JPEG)
+![The quadrant of pain](./images/images.014.jpeg)
 
 The reason why is pretty straightforward. It’s a lot of work to build and support a system of modular components, along with the editorial tools to assemble them in arbitrary ways to fill new and unpredictable needs. Once you have that built and populated with components, it makes sense to use it for other things — to make the most of it.
 
@@ -158,7 +158,7 @@ And once you’ve gone that far, when the time comes to do something a bit diffe
 
 ---
 
-![Use the page builder!](./images/images.015.JPEG)
+![Use the page builder!](./images/images.015.jpeg)
 
 Those are totally reasonable decisions, but the end result is a kind of inevitable gravity pulling content towards the page building tool, eating away at the effectiveness of the structured content tools that give a consolidated CMS platform a lot of its utility.
 
@@ -166,13 +166,13 @@ All because we wanted to solve a problem that annoyed everyone.
 
 ---
 
-![A story about good intentions](./images/images.016.JPEG)
+![A story about good intentions](./images/images.016.jpeg)
 
 In 1967, a Fullbright Scholar named Marie Clay worked with challenging students: seven and eight year olds who struggled to build basic reading skills. Traditional early-reading tools were failing them, and she was determined to figure out a better way.
 
 ---
 
-![Phonics](./images/images.017.JPEG)
+![Phonics](./images/images.017.jpeg)
 
 Since the 1600s or so, early English literacy had been built on a foundation of spoken language. The letters of the alphabet each have a sound, and given a set of letters you can chain the sounds together to form a spoken word. That approach is called phonics, and the idea of “sounding out a word” an unfamiliar word is based on it. In theory, it leverages the spoken vocabulary kids already have to unlock written language before they tackle spelling and grammar and other critical skills.
 
@@ -180,7 +180,7 @@ Traditionally, this approach relied on a lot of rote memorization and drills -- 
 
 ---
 
-![Whole Language](./images/images.018.JPEG)
+![Whole Language](./images/images.018.jpeg)
 
 When they encountered new words, rather than sound them out letter by letter, Marie's students learned to treat it like a problem-solving game: Did they recognize any other words that started with “G?" What word might make sense based on the rest of the sentence? What word might make sense given pictures in the book, or other parts of the story? With a teacher to help them when they were stumped, her students could expand their vocabularies and unlock the joy of reading much more quickly.
 
@@ -188,7 +188,7 @@ The curriculum she developed — "Reading Recovery" — was a runaway success. B
 
 ---
 
-![Train wreck](./images/images.019.JPEG)
+![Train wreck](./images/images.019.jpeg)
 
 The only problem was, it was a huge mistake. The "Reading Recovery" approach accelerated early reading, but as years passed, students who'd learned its techniques showed signs of trouble.
 
@@ -198,7 +198,7 @@ The amazing new tool to unlock the joy of reading was turning into a crisis; stu
 
 ---
 
-![Coping mechanisms can’t replace core skills](./images/images.020.JPEG)
+![Coping mechanisms can’t replace core skills](./images/images.020.jpeg)
 
 With the help of new brain imaging technologies and language research, the problem started to become clear. The boring basics — phonetic connections between spoken sounds and individual written letters — are actually critical for real fluency with complex material. Puzzle-solving, clue-hunting tactics aren’t inherently bad, but they aren’t really READING, and they don’t scale.
 
@@ -206,7 +206,7 @@ With the best of intentions, the system's proponents had taken a set of coping m
 
 ---
 
-![The page building bill is coming due](./images/images.021.JPEG)
+![The page building bill is coming due](./images/images.021.jpeg)
 
 I mentioned earlier that Karen McGrane, Ethan Marcotte, and I have been chewing on this problem a lot in our work at Autogram.
 
@@ -214,13 +214,13 @@ Our overlapping backgrounds — editorial UX, strategy and governance… content
 
 ---
 
-![What we’re seeing](./images/images.022.JPEG)
+![What we’re seeing](./images/images.022.jpeg)
 
 When we started comparing notes, it was kind of breathtaking. Since we founded Autogram, every single client we’ve worked with has come to us with an exploding inventory of “mystery meat” page builder content.
 
 ---
 
-![What we’re seeing](./images/images.023.JPEG)
+![What we’re seeing](./images/images.023.jpeg)
 
 The costs of this explosion are real.
 
@@ -236,7 +236,7 @@ And they can’t touch the design system without starting over, because changing
 
 ---
 
-![How are they responding?](./images/images.024.JPEG)
+![How are they responding?](./images/images.024.jpeg)
 
 For most of these companies, the tangible consequences fall on the teams maintaining the content. They’re eternally behind the ball and struggling to keep up. If they’re lucky, they get the headcount they need to stay on top of things. More realistically their inability to deliver as quickly as the vendor promised is held over their heads and they get ulcers.
 
@@ -248,7 +248,7 @@ Circle of life.
 
 ---
 
-![You know what? Fair.](./images/images.025.JPEG)
+![You know what? Fair.](./images/images.025.jpeg)
 
 When I talk to vendors, they say “Hey, this is what everyone asks for.” And to some extent that’s true. But it’s also what those clients are being sold. They come in with problems, and this is what they’re told will solve them. Page builders demo well. They let the bakeoff team avoid unpredictable complexity in favor of “just add your design patterns.” It pushes the consequences into the hazy, post-launch future.
 
@@ -256,7 +256,7 @@ I mean, to be clear, nobody does it out of spite — like I said at the beginnin
 
 ---
 
-![We know what it costs us.](./images/images.026.JPEG)
+![We know what it costs us.](./images/images.026.jpeg)
 
 We know the culprit: modular page building tools that crowd out structured, templated content with mystery meat in the name of “flexibility.”
 
@@ -266,19 +266,19 @@ We know what it’s costing us: the ability to build common stuff quickly, the a
 
 ---
 
-![There is a playbook.](./images/images.027.JPEG)
+![There is a playbook.](./images/images.027.jpeg)
 
 The question is, how do we fix it? There’s no one answer, but we’re going to walk through the core techniques that we start with.
 
 ---
 
-![Eliminate the mystery meat](./images/images.028.JPEG)
+![Eliminate the mystery meat](./images/images.028.jpeg)
 
 The absolute first priority is eliminating that “mystery meat” problem that we talked about early on. If you don’t know what kinds of content you have, and and what information is inside of those pieces of content, the whole process of managing and governing content falls apart.
 
 ---
 
-![Audit to group, interview to understand](./images/images.029.JPEG)
+![Audit to group, interview to understand](./images/images.029.jpeg)
 
 If you’re building a new site from scratch, or migrating from a legacy system, one of the first big steps is an inventory of your content and an audit to better understand it.
 
@@ -290,7 +290,7 @@ Your goal here isn’t to make final decisions about the content, just getting a
 
 ---
 
-![Capture intent, extrapolate type](./images/images.030.JPEG)
+![Capture intent, extrapolate type](./images/images.030.jpeg)
 
 Although it’s ultimately important, asking “what content type should this page be?” is often a mistake until until you have the big, BIG picture. You can sink a lot of time into carving out new content types and arguing about fields without really clarifying the deeper question: “What is this piece of content here for? What outcome is it expected to achieve?”
 
@@ -300,7 +300,7 @@ Working with them to establish a taxonomy of shared intentions that could be use
 
 ---
 
-![Monitor ongoing usage](./images/images.031.JPEG)
+![Monitor ongoing usage](./images/images.031.jpeg)
 
 This isn’t a one-shot deal; the goal is to get a better understanding of what’s there, why it’s there, and whether it’s succeeding — exactly the stuff that runaway page builder usage obscures.
 
@@ -308,11 +308,11 @@ Getting this information may not be possible using just your CMS; monitoring thi
 
 ---
 
-![Establish Observability](./images/images.032.JPEG)
+![Establish Observability](./images/images.032.jpeg)
 
 ---
 
-![Simpler choices, smarter templates](./images/images.033.JPEG)
+![Simpler choices, smarter templates](./images/images.033.jpeg)
 
 Once you’ve ironed out the mystery meat problem, and you understand what you have and what it’s for, consolidating custom pages into more explicitly modeled content types is possible.
 
@@ -320,7 +320,7 @@ Sometimes you’ll be able to map stuff to simple content types with fixed templ
 
 ---
 
-![Decisions that inform Design](./images/images.034.JPEG)
+![Decisions that inform Design](./images/images.034.jpeg)
 
 Design isn’t a decorative layer; it’s an additional tool for communicating meaning. Before giving content creators direct visual control, first look at what they’re trying to communicate with those visual tools. Often, it’s much more effective to let them capture the choice itself — what should be emphasized, what content comes next in a sequence, etc — and leave it up to the design system to translate that meaningful choice into visual presentation.
 
@@ -332,11 +332,11 @@ The editor isn’t choosing a layout, they’re choosing what to emphasize, or w
 
 ---
 
-![Templates can flex](./images/images.035.JPEG)
+![Templates can flex](./images/images.035.jpeg)
 
 ---
 
-![Custom pages are template R&D](./images/images.036.JPEG)
+![Custom pages are template R&D](./images/images.036.jpeg)
 
 Eric Von Hippel’s book: if you’re building and maintaining a system that’s used by other people, discovering and understanding their needs is expensive and difficult.
 
@@ -346,7 +346,7 @@ But you NEED that to be a system with guardrails that prevents the “experiment
 
 ---
 
-![Plan for complexity with composable](./images/images.037.JPEG)
+![Plan for complexity with composable](./images/images.037.jpeg)
 
 So far we’ve been talking about ways to organize and simplify. For a lot of projects that’s actually enough: Assuming that ‘Page builders are a coping mechanism for unclear requirements,’ the auditing work and more flexible templating approaches help us by bringing some of those requirements into focus and expanding how much “give” we have to fill new requirements without going all the way to “mystery meat.”
 
@@ -354,7 +354,7 @@ But. Sometimes there’s no getting around it. You really do need users to build
 
 ---
 
-![Composable content is languagelike](./images/images.038.JPEG)
+![Composable content is languagelike](./images/images.038.jpeg)
 
 There’s no way around this kind of complexity, but we can learn how to do some things better by looking at how actual languages work.
 
@@ -362,7 +362,7 @@ Mark Baker’s book Structured Writing: Rhetoric And Process is one of the best 
 
 ---
 
-![Components need roles and rules](./images/images.039.JPEG)
+![Components need roles and rules](./images/images.039.jpeg)
 
 One of the core features of a fully developed language is grammar; it categorizes words by the roles they can play in sentences.
 
@@ -374,19 +374,19 @@ Finally, the fourth sentence is gibberish; we can identify the pieces but it’s
 
 ---
 
-![Systems of composition](./images/images.040.JPEG)
+![Systems of composition](./images/images.040.jpeg)
 
 The idea isn’t to build your content model around actual parts of english sentences. It’s to think through how the combinatorial relationships work together to accomplish complex communication work.
 
 ---
 
-![Slide 41](./images/images.041.JPEG)
+![Slide 41](./images/images.041.jpeg)
 
 I’ll stop now, because I can rant about this for a long, long time. But I genuinely believe skimping on this “language-like complexity” is one of the reasons visual page builders go terribly wrong, and why composable content stymies a lot of organizations who try to do it at scale.
 
 ---
 
-![Slide 42](./images/images.042.JPEG)
+![Slide 42](./images/images.042.jpeg)
 
 
 ---

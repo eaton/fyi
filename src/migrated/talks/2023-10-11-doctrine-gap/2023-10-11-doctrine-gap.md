@@ -17,7 +17,7 @@ performances:
     url: 'https://www.contentstrategyseattle.org/events/the-doctrine-gap'
 ---
 
-![the half-life of a good job](./images/images.002.JPEG)
+![the half-life of a good job](./images/images.002.jpeg)
 
 One of the things that’s always intrigued me about digital projects — and these days, content strategy is a kind of digital project — is that I really, honestly believe that very few people are DOING A BAD JOB. There’s a lot of broken stuff, but for the most part our community has TONS of really smart and talented people in good teams doing great work.
 
@@ -25,7 +25,7 @@ The problem is that it is really, really hard to keep a good thing running smoot
 
 ---
 
-![Strategy, Tactics](./images/images.003.JPEG)
+![Strategy, Tactics](./images/images.003.jpeg)
 
 Since you’re here, you’re probably familiar with the idea of Strategy and Tactics working together.
 
@@ -37,7 +37,7 @@ Maybe that’s just skill, or experience, you know? Maybe it’s an ineffable, i
 
 ---
 
-![Strategy, Tactics, Doctrine](./images/images.004.JPEG)
+![Strategy, Tactics, Doctrine](./images/images.004.jpeg)
 
 It turns out there’s actually huge body of thinking and writing about this. One theory — a theory I like a lot — is that there is this third piece called “doctrine” that describes your beliefs about how things work — the constraints your strategy has to work within, the strengths and weaknesses of the tools at your disposal, the ways that your different teams support each other, and how your competitors pursue their goals. The idea is that unless everyone is on the same page with that doctrine, things inevitably run aground as soon as priorities shift or different people have to make judgement calls about how to solve new problems.
 The good news is that if your team isn’t completely in flames, you’re probably thinking about this stuff already. In most organizations, it’s not done as deliberately as strategy or tactics, but we can fix that.
@@ -46,7 +46,7 @@ I understand. And it’s okay, because instead of talking about military history
 
 ---
 
-![The case of the vegetarian MP3](./images/images.005.JPEG)
+![The case of the vegetarian MP3](./images/images.005.jpeg)
 
 Many years ago, around the time AOL was announcing a new set-top box for web browsing, I starting a new job with a nonprofit in the Chicago area. They did a lot of training events and sold lots of training materials via mail-order.
 
@@ -56,7 +56,7 @@ I was hired as "web employee number one," or the webmaster as we called it in th
 
 ---
 
-![Well, this should be easy!](./images/images.006.JPEG)
+![Well, this should be easy!](./images/images.006.jpeg)
 
 My first task was diving in to find out what kind of data we had about each one. Detailed descriptions? Excerpts? Date of publication? No, none of that stuff. But what we did have was a "Vegetarian flag."
 
@@ -64,7 +64,7 @@ After days of digging into our wonky, home-made CMS, I discovered that we didn't
 
 ---
 
-![The Plot Thickens](./images/images.007.JPEG)
+![The Plot Thickens](./images/images.007.jpeg)
 
 No one who'd built the web site was still there, so it took a couple of weeks asking around. Eventually one of the nonprofit's volunteers who happened to have gone to choir with the original webmaster clued me in.
 
@@ -74,7 +74,7 @@ As time went on, they added downloadable versions of the actual conference mater
 
 ---
 
-![The half life of a good Web Site](./images/images.008.JPEG)
+![The half life of a good Web Site](./images/images.008.jpeg)
 
 Now, we went on to rebuild the whole thing from scratch and make a our own different and innovative mistakes, but I learned a lot from the adventure. For years I thought it was an example of "not thinking ahead," but over time I realized there’s no way to predict EVERYTHING you might need in the future.
 
@@ -85,7 +85,7 @@ Every time, the team’s doctrine — their perspective on what tools will work 
 
 ---
 
-![A brief history of retired guys having strong opinions about tanks](./images/images.009.JPEG)
+![A brief history of retired guys having strong opinions about tanks](./images/images.009.jpeg)
 
 Alas, this brings us back to military theory.
 
@@ -97,7 +97,7 @@ If we really internalize that metaphoe, I’m pretty sure this makes CMS vendors
 
 ---
 
-![Sun Tzu](./images/images.010.JPEG)
+![Sun Tzu](./images/images.010.jpeg)
 
 That said, Sun Tzu wrote some BANGERS. To put it in perspective, he described the nuts and bolts of the “strategy versus tactics…” discussion 2500 years ago, a century before the Greeks invented actual nuts and bolts.
 War is a complicated group activity that humans have been doing and studying and theorizing about for a really, really long time. Armies have to train and coordinate large groups of people with varying levels of skill and experience to accomplish goals they didn’t choose in a rapidly changing environment while other groups try to stop them. Team sports have a lot of similar characteristics, but the stakes for war are usually a lot higher.
@@ -106,7 +106,7 @@ Staggering amounts of time, money, and human ingenuity have been focused on ques
 
 ---
 
-![Slide 11](./images/images.011.JPEG)
+![Slide 11](./images/images.011.jpeg)
 
 So, with that caveat, I find it really fascinating that the idea of “military doctrine” as a distinct field of study arrived in the 1700-1800s: despite our long history of talking about war in general, doctrine is a relatively new innovation that emerged during a period of VERY rapid change, when several independently important trends converged.
 First, European nations had spent a couple centuries colonizing the planet and stealing the world’s curry, spices, and relics. They were flush with money and also had a keen interest in maintaining large standing armies — they could afford them, they could justify them… but training them at scale was a nightmare.
@@ -117,19 +117,19 @@ Third, the ubiquity of the printing press and mass literacy meant that a new gen
 
 ---
 
-![A distinct Set of beliefs about how The Work Should be done](./images/images.012.JPEG)
+![A distinct Set of beliefs about how The Work Should be done](./images/images.012.jpeg)
 
 In short, the world was changing; money was flowing; demand exploded for a new class of trained, professional soldiers; and mass publishing made it possible for experienced practitioners to share their approaches and cross-pollinate. Over time, various nations began documenting “the way we run our army” in manuals that could be printed and given to every soldier as part of their training. The domain of “good judgement” and “hard-won lessons” transitioned from “lore and wisdom” to something systematic, something that could be taught at scale, evaluated regularly, and updated when circumstances changed. By the time the 20th century rolled around, it was possible to talk meaningfully about specific countries’ distinctive military doctrines, in part because they’d written and were using using standardized manuals to train their armies and leaders. You could literally get copies of those manuals to read, compare, and study how they changed over time.
 
 ---
 
-![ADP 1-01](./images/images.013.JPEG)
+![ADP 1-01](./images/images.013.jpeg)
 
 Which brings us to an actual specific example: the US Army’s ADP 1-01. It stands for ‘Army Doctrine Primer 1” and it was last updated around 2019. It’s not universal; the US Navy, Air Force, and Marine Corps also have their own “Doctrine Primers” but they share a lot foundational materials. For the rest of the talk, when I mention definitions and terminology, I’m going to lean pretty heavily on this book in particular.
 
 ---
 
-![Principles, Tactics, Techniques, Procedures, and Terminology](./images/images.014.JPEG)
+![Principles, Tactics, Techniques, Procedures, and Terminology](./images/images.014.jpeg)
 
 I like it a lot for this purpose, because the way ADP 1-01 breaks explains the elements of Doctrine and their application is particularly clear and conveniently compatible with the way we often talk about Content Strategy and Content Tactics.Even their grim jokes are familiar. In the introduction where they define “doctrine” they note that “Whatever 51% of the team is doing” and “The opinion of the most senior person in the meeting” are two common colloquial definitions of “doctrine.”
 
@@ -137,7 +137,7 @@ Then, helpfully, they proceed to break it down into five key pieces.
 
 ---
 
-![Principles](./images/images.015.JPEG)
+![Principles](./images/images.015.jpeg)
 
 Principles are shared perspectives that affect the decisions you make. Another way of saying it might be, they’re lenses you filter your goals through to determine what approaches are reasonable or acceptable.
 Some of your principles might be assumptions about the way the world works. Others might be be beliefs about what matters and what doesn't matter, or moral and ethical lines that you’re not willing to cross, no matter what the goal.
@@ -146,7 +146,7 @@ A good rule of thumb is that new goals shouldn't change your principles. If they
 
 ---
 
-![Tactics](./images/images.016.JPEG)
+![Tactics](./images/images.016.jpeg)
 
 So, according to the Army’s breakdown, the next element of Doctrine is tactics. This one actually made me scratch my head when I first read the definition, because in our community I was used to thinking of it as “strategy is planning, tactics is implementation.”
 
@@ -156,21 +156,21 @@ The other interesting element of this description of tactics is that it’s more
 
 ---
 
-![“We’re not doing ‘get help.’”](./images/images.017.JPEG)
+![“We’re not doing ‘get help.’”](./images/images.017.jpeg)
 
 In one of the good Thor movies, there’s a scene where the characters Thor and Loki are going up and elevator and quickly discussing how they’re going to get past some guards. Thor says, “We could do ‘get help…’” Loki says, “We’re not doing ‘get help.’” And the doors open and he sighs and goes limp, and Thor shouts, “Help! Help! My brother, he’s dying!”
 Using this definition, “Get help” is a tactic. It’s not the only way you could achieve a goal, and there are even lots of ways you could do “Get Help,” but it also has specific fundamental elements. You need two people, it requires you commit both of them, and it requires the element of surprise. You might come up with different variations on it that you can choose based on circumstances. But the tactic, the particular shared playbook everybody works from to understand how their individual role operates as part of the tactic to achieve the goal? That’s “get help.”
 
 ---
 
-![Techniques](./images/images.018.JPEG)
+![Techniques](./images/images.018.jpeg)
 
 The next piece of the puzzle is techniques. They’re basically like non-prescriptive ways of doing a particular task. “Here are five good ways to do X, and their strengths and weaknesses.”
 I like this way of capturing them, because as an industry it’s really easy to get invested in the idea of “Best practices” and “best in breed tools.” But the whole idea of Doctrine is that best is a trap. Awareness of strengths and weaknesses and contextual fit is where it’s at.Treating things like “Podcasts” or “sponsored content” or “AI chatbots” as techniques that can be used — if we understand their strengths and weaknesses in a given context — rather than THE FUTURE or THE BEST or THE NEXT PIVOT… that puts a lot of conversations with vendors in a different context. Stakeholders, too.
 
 ---
 
-![Procedures](./images/images.019.JPEG)
+![Procedures](./images/images.019.jpeg)
 
 So far we’ve touched on a couple of elements that inherently rely on judgement and context. On the flip side, good doctrine also captures the stuff that CAN’T vary. “Product returns happen THIS WAY. Period. full stop.” “Legal compliance requires pages go through these steps before they’re published.”
 
@@ -178,14 +178,14 @@ Capturing thee things explicitly allows newcomers to understand where they do an
 
 ---
 
-![Terminology](./images/images.020.JPEG)
+![Terminology](./images/images.020.jpeg)
 
 Finally, the fifth element is one that I’m guessing is familiar to everybody here: shared terminology, aka Taxonomy. I will say, one of the things that amused me deeply was that chapter four of that ADP 01-1 book is just a big ol’ taxonomy guide.
 Everybody loves them a taxonomy. And it matters, because part of coordinating is making sure we’re speaking the same language, that we don’t have different ways of talking about the same thing or confusingly similar ways of describing very different things.
 
 ---
 
-![Taxonomy](./images/images.021.JPEG)
+![Taxonomy](./images/images.021.jpeg)
 
 On of the things I find really fascinating — because I am a taxonomy nerd — is how the Army in particular breaks things down. They have internal-facing terms, like “what is a role” and “what is a capability”, and then they list a bunch of roles and capabilities. So when we they “we’re very good at X”, everyone knows what X means, and there’s an unambiguous definition of it that anyone who’s confused can be pointed to.
 They also have external terms, or words that are used to describe the context in which they exist and work. In business this could be different categories of competitor or different market cycles. For the Army, it’s different kinds of literal terrain and climate
@@ -193,7 +193,7 @@ And then like any good taxonomy, their shared terminology guide lists the five e
 
 ---
 
-![Zooming Out](./images/images.022.JPEG)
+![Zooming Out](./images/images.022.jpeg)
 
 So, zooming back out, we’ve got our five elements.
 
@@ -204,7 +204,7 @@ A way of describing our doctrine.
 
 ---
 
-![Doctrine about doctrine](./images/images.023.JPEG)
+![Doctrine about doctrine](./images/images.023.jpeg)
 
 Now, I know I’ve been a little cagey about a specific definition of “doctrine.” For better or worse, that goes with the territory. Every document that captures doctrine is, in and of itself, an opinionated take on what lessons and what guidelines and what ideas belong in “doctrine.”
 
@@ -212,13 +212,13 @@ The meta-discussion about what makes something ‘doctrine’ and not just opera
 
 ---
 
-![Descriptive vs. Prescriptive](./images/images.024.JPEG)
+![Descriptive vs. Prescriptive](./images/images.024.jpeg)
 
 In general, “doctrine” is descriptive rather than proscriptive; it describes what has been tried and tested and seen to work. There may be parts of it that are proscriptive (like procedures or taxonomy terms) but those are clearly called out, while the “playbook” parts people can choose from based on their judgement have a different role.
 
 ---
 
-![Institutional, not Individual](./images/images.025.JPEG)
+![Institutional, not Individual](./images/images.025.jpeg)
 
 Second, doctrine (in the sense that we’re talking about) is institution rather than individual.
 
@@ -230,7 +230,7 @@ One of the writers I came across said that doctrine is only really official when
 
 ---
 
-![Lessons learned, not ideas to try](./images/images.026.JPEG)
+![Lessons learned, not ideas to try](./images/images.026.jpeg)
 
 A third idea that comes up a lot — is that doctrine is based on lessons learned, not ideas we want to try.
 That distinction matters, because we’ve talked about about the capturing the strengths and weaknesses of different tools, how different techniques play out in different contexts, and so on — but those aren’t just theories, they’re are lessons that have to be learned. They can be learned by your team, or by studying what's happened in other teams, or by listening to folks who’ve been around longer and tried it themselves in the past…
@@ -239,7 +239,7 @@ But until SOMEONE actually attempts the tactics and applies the principles and u
 
 ---
 
-![Different rates of change](./images/images.027.JPEG)
+![Different rates of change](./images/images.027.jpeg)
 
 This next idea is one that I’ve talked about before in the context of content strategy — the idea that doctrine evolves over time, and that different parts of it evolve at different speeds. The different pieces have different rates of change.
 
@@ -253,7 +253,7 @@ This idea of pace layers existing in our doctrine is useful and important becaus
 
 ---
 
-![Doctrine is part of a feedback loop](./images/images.028.JPEG)
+![Doctrine is part of a feedback loop](./images/images.028.jpeg)
 
 That idea of iteration and re-examination brings us to the final point: that doctrine doesn’t stand alone. It’s part of a feedback loop in which we are continually learning what works, and remembering those lessons.
 
@@ -263,20 +263,20 @@ The idea of “doctrine” as a shared perspective is a challenge to move out of
 
 ---
 
-![One part of an interdependent system](./images/images.029.JPEG)
+![One part of an interdependent system](./images/images.029.jpeg)
 
 Sometimes I think of this like a feedback loop. The decisions you make about what tactics fit your available resources, what tools work well in the current environment… those decisions you make are rooted in doctrine.That, in turn, shapes what institutional capabilities you end making use of and investing in; it shapes what supporting tools end up being built; that reinforces the capabilities you invest in just like exercise builds muscle. And those shifts in institutional capability — driven by using and building the stuff you need — change what goals are easy or hard to accomplish the next time around.
 The tactical lessons aren’t a dead end; they feed back into your “doctrine” of what things work and don’t work, in what contexts. Tactics shape strategic decisions, just as much as strategic goals shape tactical choices.
 
 ---
 
-![please stop](./images/images.030.JPEG)
+![please stop](./images/images.030.jpeg)
 
 All right. I’ve been fire-hosing ideas for a while now, and it’s probably time to anchor them in reality.
 
 ---
 
-![Time for some real client doctrine](./images/images.031.JPEG)
+![Time for some real client doctrine](./images/images.031.jpeg)
 
 This story is a little like historical fiction: all of the events happened, but the client is a composite of several “real” clients, anonymized to protect the innocent and the guilty alike.
 
@@ -288,7 +288,7 @@ We had a chance to work with them as they examined and re-assessed these things,
 
 ---
 
-![Foundations](./images/images.032.JPEG)
+![Foundations](./images/images.032.jpeg)
 
 First, they were able to describe some foundational ideas about where they fit with other teams and departments. The product team was responsible for documentation, support, e-commerce. Marketing owned everything brand or event related, and the comms team was responsible for corporate messaging and outreach.
 
@@ -296,7 +296,7 @@ We were working with the comms team on their internet site and — as is the cas
 
 ---
 
-![Principles](./images/images.033.JPEG)
+![Principles](./images/images.033.jpeg)
 
 Once their place in the big picture was established, they explained some of the core principles that had shaped the kinds of content they produce.
 
@@ -308,7 +308,7 @@ Now, whether you agree or not, that was a useful principle because it wasn’t a
 
 ---
 
-![Tactics](./images/images.034.JPEG)
+![Tactics](./images/images.034.jpeg)
 
 They had some well-articulated tactics, too.
 
@@ -322,7 +322,7 @@ For them, features were high-profile essays and informational pages about a part
 
 ---
 
-![Techniques](./images/images.035.JPEG)
+![Techniques](./images/images.035.jpeg)
 
 Remember that idea of “techniques” as different ways of doing a particular task? This is where things started to get really interesting.
 
@@ -334,7 +334,7 @@ Described as specific techniques, rather than just “part of the work,” those
 
 ---
 
-![Procedures](./images/images.036.JPEG)
+![Procedures](./images/images.036.jpeg)
 
 Their procedures were primarily things like rules for publishing investor call summaries — they have to get published in specific formats at specific times, or the government will fine us, stuff like that.
 
@@ -342,7 +342,7 @@ It also included stuff like, “a new editor for the CMS requires this amount of
 
 ---
 
-![Terminology](./images/images.037.JPEG)
+![Terminology](./images/images.037.jpeg)
 
 When it comes to taxonomy, I have to share one of my favorite details.
 
@@ -352,7 +352,7 @@ And now when they talk to agency partners and one of them says, “we need this 
 
 ---
 
-![What was the payoff?](./images/images.038.JPEG)
+![What was the payoff?](./images/images.038.jpeg)
 
 What this gave them — this process of pulling together a clear articulation of their principles and their shared tactics and the techniques they used and so on — was a shared body of knowledge they could train with, build against, and review on the regular to be sure they still agreed about it.
 
@@ -362,7 +362,7 @@ It also allowed them to talk to other teams inside of the organization and highe
 
 ---
 
-![Build Your Own Doctrine](./images/images.039.JPEG)
+![Build Your Own Doctrine](./images/images.039.jpeg)
 
 (Thank you for the one and one-half people who got the slide’s joke.)
 
@@ -370,7 +370,7 @@ So, if you were to tackle this inside of your organization, what are some useful
 
 ---
 
-![Slide 40](./images/images.040.JPEG)
+![Slide 40](./images/images.040.jpeg)
 
 Naturally, you start by asking questions.
 
@@ -380,7 +380,7 @@ I also like poking at the question of what doesn’t change over time. Like: “
 
 ---
 
-![Slide 41](./images/images.041.JPEG)
+![Slide 41](./images/images.041.jpeg)
 
 For tactics, one useful starting point can be the ways teams coordinate and hand off work to each other when things cross organizational boundaries. It’s a place where decisions about resources and coordination are unavoidable — we have to grapple with the question of how we divide up complex work.
 
@@ -390,7 +390,7 @@ Are there common approaches that exist just inside your team? Or ones that you a
 
 ---
 
-![Slide 42](./images/images.042.JPEG)
+![Slide 42](./images/images.042.jpeg)
 
 Techniques can cover a lot of ground, which makes them kind of fuzzy, but we often start by looking at the kinds of tools that are being used, and the day-to-day work processes of the folks in the trenches. And we ask them “Why?” Why do you do it this way? Were you here when that approach was chosen? Who showed you the way to do it? Have you figured out ways to make it better? Are there other ways to do it? Why would you do one rather than the other?
 
@@ -400,7 +400,7 @@ Capturing these lessons also means you can sidestep a lot of “have you tried u
 
 ---
 
-![Slide 43](./images/images.043.JPEG)
+![Slide 43](./images/images.043.jpeg)
 
 Procedures are pretty simple on the surface; in theory a lot of organizations already have documentation and rules around anything that requires specific steps to be performed in specific ways, right? Somewhere, an engineer just said, “Sure, we have a wiki!” and an angel died.
 
@@ -410,7 +410,7 @@ Teasing out the details and mapping the big picture can be incredibly valuable, 
 
 ---
 
-![Slide 44](./images/images.044.JPEG)
+![Slide 44](./images/images.044.jpeg)
 
 I won’t spend too much time on this one, because particularly at Confab, we talk about this kind of stuff a lot. We may not have it all solved, but the importance of a shared vocabulary for communicating is… not news to many of us here.
 
@@ -420,7 +420,7 @@ When you spend the time to figure that stuff out, clearly documenting makes the 
 
 ---
 
-![Consensus at different scales](./images/images.045.JPEG)
+![Consensus at different scales](./images/images.045.jpeg)
 
 When you’re in the early phases of articulating and documenting doctrine, particularly in a big organization, the scale of it can be overwhelming. The good news is that the concept of doctrine, and the consensus that it relies on, isn’t one-size fits all; it can exist and be applied at different levels, with different kinds of focus.
 
@@ -432,7 +432,7 @@ You can start small by nailing down your project or your team’s doctrine; ofte
 
 ---
 
-![Study other teams](./images/images.046.JPEG)
+![Study other teams](./images/images.046.jpeg)
 
 Finally, that idea of teams learning from each other as they develop their internal doctrine is important. You can do that even if other teams haven’t consciously documented their doctrine in one place!
 
@@ -440,7 +440,7 @@ Core principles and perspectives are often trapped in places like the introducti
 
 ---
 
-![The Principles and assumptions that shape your decisions](./images/images.047.JPEG)
+![The Principles and assumptions that shape your decisions](./images/images.047.jpeg)
 
 If I were to wrap up this whole thing in one idea, it’s this: Doctrine matters, because the principles and assumptions that shape our decisions need to be preserved. So we can coordinate around them, so we can pass them on to others, and so we can quickly recognize when the world has changed around us.
 
