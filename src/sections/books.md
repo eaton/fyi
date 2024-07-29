@@ -3,6 +3,7 @@ id: page.books
 name: Reading
 description: The bookshelf, unfiltered.
 permalink: /books/
+status: draft
 
 eleventyNavigation:
   key: Reading

@@ -23,6 +23,7 @@
     "stage": "npx @11ty/eleventy",
     "index": "echo 'nothing to do here'",
     "start": "npx @11ty/eleventy --serve --quiet",
+    "media": "node ./scripts/media.js",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
     "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
     "benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"

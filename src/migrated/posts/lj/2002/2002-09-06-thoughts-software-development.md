@@ -27,6 +27,6 @@ This leads me to the conclusion that creating efficient, operable code isn't a v
 
 Perhaps this will end up changing the long-held (and often true) stereotype of the programmer as a reclusive genius who can't communicate with others.
 
-![](http://www.sonystyle.com/images/250x250/shots/pcggrx560.jpg)
+[Sony PCG-GRX 560](http://www.sonystyle.com/images/250x250/shots/pcggrx560.jpg)
 
 Oh, yes. I have a new laptop. Sony GRX560. I 0wnz0rz. w00t!

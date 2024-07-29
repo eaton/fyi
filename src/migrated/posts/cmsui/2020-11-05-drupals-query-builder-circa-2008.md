@@ -10,7 +10,7 @@ keywords:
 isPartOf: blog.cmsui
 date: 2020-11-05T00:00:00.000Z
 ---
-![](media://reprints/cmsui/drupal-query-builder-2008.png)
+![](/_media/reprints/cmsui/drupal-query-builder-2008.png)
 
 In the [previous post](https://cmsui.org/post/drupal-query-builder-2006), a quick tour of Drupal's earliest click-and-drag SQL query building tool turned into a history of the CMS's early years. Drupal's 4.7 and 5.0 releases (shipping in 2006 and 2007, respectively) were average launches in terms of core functionality and editorial UX, but the Views and CCK plugins were fueling a period of rapid evolution in the user and developer communities.
 

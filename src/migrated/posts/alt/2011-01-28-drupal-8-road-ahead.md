@@ -25,7 +25,7 @@ Obviously, pitting these different visions against each other is a false dilemma
 
 While everyone in the Drupal universe has their own pet demons (has webchick mentioned support for Signatures lately?) several recurring pain points have emerged over the past couple of years. These issues cause lost sleep, missed deadlines, and endless frustration for people at all levels of the comunity; from businesses switching to Drupal, to shops building distros, to hobbyists bootstrapping online communities.
 
-![](http://angrylittletree.com/sites/angrylittletree.com/files/d81.png)
+![](/_media/alt/d81.png)
 
 ### Missing APIs
 
@@ -51,7 +51,7 @@ Drupal's toolbox of UI elements conventions has been growing since the day it wa
 
 Finally, the addition of Bartik as a core theme has proven that Drupal is much more than a sidebar-content-sidebar cookie cutter. We need a complimentary "minimalist" theme in core for sites that require a no-nonsense, nothing-but-the-content approach. Customizable typography, color schemes, and imagery would take priority over lots of regions: we've proven that Drupal can handle complexity, and shipping with a "zero-cruft" theme would help us balance things out with zen simplicity.
 
-![](http://angrylittletree.com/sites/angrylittletree.com/files/d82.png)
+![](/_media/alt/d82.png)
 
 ### The goal: A better Drupal product
 
@@ -67,7 +67,7 @@ Many of the challenges that have plagued the D7UX team can be simplified by embr
 
 What's the most important principle? Drupal's need for ultimate flexibility shouldn't hold back the evolution of the default Drupal "product," and the default "product" shouldn't force its own requirements onto every other Drupal site. If we're willing to draw the line between the two, we can let them grow in tandem.
 
-![](http://angrylittletree.com/sites/angrylittletree.com/files/d83.png)
+![](/_media/alt/d83.png)
 
 ### Who will fill the gaps?
 

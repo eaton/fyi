@@ -15,7 +15,7 @@ In this installment, we're going to take a closer look at a simple example we en
 
 This year before DrupalCon Chicago, the Lullabot crew spent a few days getting valuable face-to-face time, planning for the coming year, and brainstorming about the challenges inherent in running a virtual company. One of the things we all agreed on was that the company web site (this one!) needed more fresh content on a regular basis. Coming up with material wasn't the problem; we all had ideas in the queue, and more than a dozen "almost finished" articles were already on the site, waiting for the finishing touches. In the scramble of day-to-day work, though, balls kept being dropped and we weren't getting them out the door in a timely fashion. Everyone was frustrated: it seemed like a simple problem, but repeating "We should just do it!" wasn't helping.
 
-![bot-retreat.jpeg](media://reprints/lullabot/bot-retreat.jpeg "bot-retreat.jpeg")
+![bot-retreat.jpeg](/_media/reprints/lullabot/bot-retreat.jpeg "bot-retreat.jpeg")
 
 Over lunch, we asked everyone who'd worked on one of those stalled articles what (other than time!) was blocking them. After just a few minutes, it became clear there were a couple of common stumbling blocks:
 
@@ -35,7 +35,7 @@ From our conversations, we knew that the early stages of actual article producti
 
 A few minutes with a pen and paper gave us one potential solution: an admin-only landing page that each of us would see on logging into Lullabot.com. It could list "unclaimed" article ideas, show the upcoming content that was ready for review or publication, and give us a starting point for common article types.
 
-![sketch.jpg](media://reprints/lullabot/sketch.jpg "sketch.jpg")
+![sketch.jpg](/_media/reprints/lullabot/sketch.jpg "sketch.jpg")
 
 Our ideas for a solution were pretty fuzzy at this point, and we knew it wouldn't solve all of our problems, but the proposed dashboard was simple and focused, easy to implement without a huge time investment, and easy to abandon if it didn't work out for us. Those factors made it the textbook definition of an "easy win," and we cracked open Views to start building.
 
@@ -47,7 +47,7 @@ The first, our *Published Articles* view, was the simplest. It listed the latest
 
 To help the Lullabots keep track of each articles' progress during the creation and editing process, we also added a custom [Flag](http://drupal.org/project/flag) called "Ready for Review" to the mix, and included the latest *revision message* for each article in the view. With those tools, anyone skimming the View can see what articles are completed and ready to be proofed, read notes on the latest edit to each article without clicking to another page, and see what the projected publish date is for each one.
 
-![dashboard.jpeg](media://reprints/lullabot/dashboard.jpeg "dashboard.jpeg")
+![dashboard.jpeg](/_media/reprints/lullabot/dashboard.jpeg "dashboard.jpeg")
 
 To tie it all together, we created a simple Panel that combines the two views and contains quick links to our most commonly used content types. On one screen, the site's editor can keep track of what's in the pipeline; writers can jump to their articles without wading through the normal Drupal admin screens; and other Lullabots proofing and tweaking the articles can quickly get to the screens they care about.
 

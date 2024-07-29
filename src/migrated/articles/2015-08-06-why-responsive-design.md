@@ -40,7 +40,7 @@ The most important principle is simple: responsive design plans for scenarios an
 
 Although device detection, tailored markup, and other techniques can be layered on top of a responsive design, a strong responsive foundation is the most reliable starting point.
 
-![Mobile and desktop versions of a responsive site](media://reprints/lullabot/responsive-side-by-side_0.jpg "responsive-side-by-side.jpg")
+![Mobile and desktop versions of a responsive site](/_media/reprints/lullabot/responsive-side-by-side_0.jpg "responsive-side-by-side.jpg")
 
 ## Complementary techniques
 

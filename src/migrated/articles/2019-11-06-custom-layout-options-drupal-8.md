@@ -20,7 +20,7 @@ Like most CMS products that provide structured content modeling tools, Drupal ex
 
 Before digging into solutions, it's important to understand the standard approach to layout that's baked into Drupal's theme system. Simply put, all content on a Drupal page—navigation menus, headers and footers, sidebars, etc.— is exposed as a "block." The site's theme provides a series of regions into which those blocks can be placed, and every page template provides markup to place those regions in the page's markup. One unique block—Main Page Content— is responsible for the primary piece of content associated with a given URL. On most pages, the Main Page Content is a node, but additional blocks with static content, dynamic lists, and custom design components can be created by site-builders or added by custom plug-in modules.
 
-![Main Page Content](media://reprints/lullabot/image-1_layout-builder_d8.png)  
+![Main Page Content](/_media/reprints/lullabot/image-1_layout-builder_d8.png)
 
 A sample article from the Rackspace website. Red outlines call out the Main Page Content block and two supporting blocks in the sidebar.
 
@@ -66,7 +66,7 @@ If the "quick fixes" are bound to backfire, what tools *do* make sense for build
 
 If the underlying structure of your special content is consistent, but you need to adjust the styling and layout of individual pages, Drupal's standard theming system can still do the heavy lifting. The markup that controls where content blocks appear on the page, and how individual fields are laid out inside of a node, is entirely reliant on theme templates. Custom code in your theme (specifically, [`hook_theme_suggestions_alter`](https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Render%21theme.api.php/function/hook_theme_suggestions_alter/8.8.x)) can examine a given piece of content before it's rendered and specify a different template if specific conditions are met. Similar techniques allow [custom CSS and JavaScript libraries to be added](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme#preprocess) if the current piece of content meets the right conditions.
 
-![Simple content structure on a website](media://reprints/lullabot/simple-content-structure.png)  
+![Simple content structure on a website](/_media/reprints/lullabot/simple-content-structure.png)
 
 An ideal candidate for template swapping: simple, consistent structure, with an occasional need to reposition or restyle specific elements.
 
@@ -89,7 +89,7 @@ If your editors need direct control over these styling and templating decisions,
 
 When the underlying structure of your unique content varies, simply swapping layout templates isn't enough. The next step up is a combination of component content types to handle the variation and a container content type to wrap different combinations of components. The component content types define the common structural patterns used across the site, like photo galleries, marketing-focused calls to action, event announcements, and so on. The container content type uses a multi-value reference field to tie multiple components together into a single collection. One container page might stack a "client testimonial" component on top of three "photo gallery" components, while another one alternates between "product feature" components and "call to action" components. Adding new component types is like adding new words to your editors' page-building vocabulary, expanding the "sentences" they can create inside of a container page.
 
-![Stacked components example](media://reprints/lullabot/stacked-components.png)  
+![Stacked components example](/_media/reprints/lullabot/stacked-components.png)
 
 An ideal candidate for stacked components: a linear list of modules containing distinct chunks of content.
 
@@ -115,7 +115,7 @@ Regardless of which Drupal modules are used to implement the stacked component a
 
 Some unique pages are straightforward text except for the complicated bits of structured content that need to live *inside* of that text. Long-form feature articles with supporting sidebars and media are a common case, and [the New York Time's famous *Snowfall* article](http://www.nytimes.com/projects/2012/snow-fall/index.html) illustrates how impressive it can be when it's done well. In Drupal, the best solution is similar to the "stacked components" approach described above: individual supporting elements like sidebars, callouts, infographics, and so on are defined as structured content types. Rather than stacking these components on top of each other, however, they're embedded inside of an article's body field using the [Entity Embed](https://www.drupal.org/project/entity_embed) module.
 
-![Entity embedding example](media://reprints/lullabot/entity-embedding.png)  
+![Entity embedding example](/_media/reprints/lullabot/entity-embedding.png)
 
 An ideal candidate for entity embedding: narrative text flowing around islands of modular content.
 
@@ -124,7 +124,7 @@ The philosophy behind this approach (as well as its benefits for content reuse) 
 #### Pros
 
 - Preserves narrative flow
-    
+
 - Keeps complex HTML out of body field
 - Create embeds inside a rich text editor
 - Control display mode, text wrap
@@ -141,7 +141,7 @@ The philosophy behind this approach (as well as its benefits for content reuse) 
 
 If your unique pages need grid-like layouts with multiple columns or need dynamic elements like views and custom blocks alongside more traditional "fielded" content, the next step is Drupal 8's Layout Builder. It combines the modular approach of stacked components and Entity Embedding with an extensible library of grid layouts: individual nodes can be switched into "Layout Mode," assigned a particular grid structure, then populated with other content components. It's a powerful tool, it's built into Drupal core, and it can be extended with custom plug-ins that add new layout grids, map existing content from structured fields to its library of layout components, and more.
 
-![layout builder content example](media://reprints/lullabot/layout-builer-example.png)  
+![layout builder content example](/_media/reprints/lullabot/layout-builer-example.png)
 
 A good candidate for Layout Builder: distinct content components in a unique grid layout.
 

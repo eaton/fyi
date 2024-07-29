@@ -23,7 +23,7 @@ Users may pick one part for each type of data they want to use--a favorite word 
 
 Users can assemble their own collection of parts--just like the components in an entertainment system--rather than buying a single, inefficient program or huge integrated suite that includes everything but the kitchen sink. In this sense, each user assembles their own "custom" software with OpenDoc.
 
-### Innovative Solutions to Common Problems 
+### Innovative Solutions to Common Problems
 
 Once a variety of OpenDoc parts reaches users, more innovative solutions will be possible. For an office presentation, an outliner part could be used to provide a "framework" while graphics, word processing and sound parts fill in the content. An internet connection part could allow a user to incorporate live data from web sites and other internet locations in a presentation; another part could add up-to-the minute stock quotes.
 
@@ -37,7 +37,7 @@ Apple's Cyber Dog project is an Internet access solution built on OpenDoc. Indiv
 
 Eclipse Services is currently developing a set of database access parts. Like any database environment, these parts can easily organize, store, and retrieve diverse kinds of information. Unlike other databases, these new parts allow users to create their own specialized solutions in conjunction with other Open Doc parts, even if the other parts were not explicitly designed to access database information.
 
-![](media://reprints/opendoc-figure-1.png "With Eclipse's Outliner part, users can utilize other OpenDoc parts to fill in the content with a variety of data types.")
+![](/_media/reprints/opendoc-figure-1.png "With Eclipse's Outliner part, users can utilize other OpenDoc parts to fill in the content with a variety of data types.")
 
 For instance, a stock broker who needed to store customer information including current values of stock holdings, a map showing the contacts location, a calendar of stock purchase dates, and a tickler file of communications could easily incorporate all these in an OpenDoc document using the database parts from Eclipse. If the map needed changes, an appropriate OpenDoc component would allow those changes to be made efficiently within the document, without importing or exporting the data, or opening any other application.
 

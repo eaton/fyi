@@ -11,7 +11,7 @@ keywords:
 isPartOf: blog.cmsui
 date: 2020-11-04T00:00:00.000Z
 ---
-![](media://reprints/cmsui/drupal-query-builder-2006.png)
+![](/_media/reprints/cmsui/drupal-query-builder-2006.png)
 
 In late 2005, Mambo (and its fork, Joomla!) dominated open-source content management; Wordpress had yet to dethrone [Movable Type](https://www.bowjamesbow.ca/2004/05/16/movable-type-30.shtml), and the "social" web was still ruled by community news portals and discussion boards. Drupal was an up-and-comer with promising ideas about flexible content organization, but few killer features to make it stand out in head to head evaluations.
 

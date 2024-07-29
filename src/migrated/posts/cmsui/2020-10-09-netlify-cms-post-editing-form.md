@@ -9,7 +9,7 @@ keywords:
 isPartOf: blog.cmsui
 date: 2020-10-09T00:00:00.000Z
 ---
-![](media://reprints/cmsui/netlify-cms-edit.png)
+![](/_media/reprints/cmsui/netlify-cms-edit.png)
 
 Static site generators — especially ones that operate on a relatively simple file-backed content store full of Markdown or YAML documents — exploded in popularity as the complexity of enterprise class CMSs rose.
 

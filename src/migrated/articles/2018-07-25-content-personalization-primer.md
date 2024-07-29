@@ -26,11 +26,11 @@ A lot of conversations about personalization focus on interesting and novel thin
 
 The simplest and most common kinds of signals are contextual information about a user's current interaction with your content. Their current web browser, the topic of the article they're reading, whether they're using a mobile device, their time zone, the current date, and so on are easy to determine in any publishing system worth its salt. These small bits of information are rarely enough to drive complex content targeting, but they can still be used effectively. Bestbuy.com, for example, uses visitor location data to enhance their navigation menu with information about their closest store, even if you've never visited before.
 
-![A picture of the Best Buy navigation bar, with the location of the closest store.](media://reprints/lullabot/signal-location.png "signal-location.png")
+![A picture of the Best Buy navigation bar, with the location of the closest store.](/_media/reprints/lullabot/signal-location.png "signal-location.png")
 
 ### Identity
 
-![A picture of the Netflix login page, with two user profiles to choose from.](media://reprints/lullabot/signal-profile.png "signal-profile.png")
+![A picture of the Netflix login page, with two user profiles to choose from.](/_media/reprints/lullabot/signal-profile.png "signal-profile.png")
 
 Moving beyond transient contextual cues requires knowing (and remembering) who the current visitor is. Tracking identity doesn't necessarily mean storing personal information about them: it can be as simple as storing a cookie on their browser to keep track of their last visit. At the other end of the spectrum, sites that want to encourage long-term return visits, or require payment information for products or services, usually allow users to create an account with a profile. That account becomes their identity, and tracking (or simply asking for) their preferences is a rich source of personalization signals. Employee intranets or campus networks that use single-sign on services for authentication have already solved the underlying "identity" problem — and usually have a large pool of user information accessible to personalization tools via APIs.
 
@@ -68,7 +68,7 @@ The ever-popular coupon code is a staple of e-Commerce sites, but offering your 
 
 Very little of the content on your site is meant to be a user's final destination. Whether you're steering them towards the purchase of a subscription service, trying to keep them reading and scrolling through an ad-supported site, or presenting a mall's worth of products on a shopping site, lists of "additional content" are a ubiquitous part of the web. Often, these lists are generated dynamically by a CMS or web publishing tool — and taking user behavior and signals into account can dramatically increase their effectiveness.
 
-![A picture of Amazon.com book recommendations based on user browsing history](media://reprints/lullabot/signal-behavior.png "signal-behavior.png")
+![A picture of Amazon.com book recommendations based on user browsing history](/_media/reprints/lullabot/signal-behavior.png "signal-behavior.png")
 
 The larger the pool of content and the more metadata that's used to categorize it, the better these automated recommendation systems perform. Amazon uses detailed analytics data to measure which products customers tend to purchase after viewing a category — and offers visitors quick links to those popular buys. Netflix hired taxonomists to tag their shows and movies based on director, genre, and even more obscure criteria. The intersections of those tags are the basis of their successful micro-genres, like "Suspenseful vacation movies" or "First films by award-winning directors."
 
@@ -78,7 +78,7 @@ One of the biggest dangers of personalization is making bad assumptions about wh
 
 ### Dynamic Assembly
 
-![A picture of a web page built from small components ](media://reprints/lullabot/reaction-assembly.png "reaction-assembly.png")
+![A picture of a web page built from small components ](/_media/reprints/lullabot/reaction-assembly.png "reaction-assembly.png")
 
 Hand-building custom content for each personalization scenario is rarely practical. Even with aggressively prioritized audience segments, it's easy to discover that key pages might require dozens or even hundreds of variations. Breaking up your content into smaller components and assembling it on the fly won't reduce the *final* number of permutations you're publishing, but it does make it possible to assemble them out of smaller, reusable components like calls to action, product data, and targeted recommendations. One of our earliest (and most ambitious) personalization projects used this approach to generate web-based company handbooks customized for hundreds of thousands of individual employees. It assembled insurance information, travel reimbursement instructions, localized text, and more based on each employee's Intranet profile, effectively building them a personalized HR portal.
 

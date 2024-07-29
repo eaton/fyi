@@ -12,13 +12,13 @@ publisher: org.eclipse-svc
 "A year and a half ago, we decided to make the jump into these new distribution technologies with a dial-up BBS Bulletin Board] version of the paper," says Schimmel.
 Setting up a BBS is no small task, and the changing content of a weekly publication made the task even more difficult.
 
-![city-paper-figure-1](media://reprints/city-paper-figure-1.png)
+![city-paper-figure-1](/_media/reprints/city-paper-figure-1.png)
 
 "One of the problems with cutting edge technology is finding someone who knows enough to help you use it," says Schimmel. "Fortunately for us, Eclipse Services has been helping us with technology implementation for over ten years. When we decided to publish an electronic version of the newspaper, we simply called Victor [Langelo, Eclipse senior programmer] and began discussing what it would take. As it turned out, he already had something in mind."
 
 Instead of simply using then-current BBS technology to put the paper's articles and event listings on-line, Eclipse modified the paper's editorial production system to include SGML (Standard Generalized Markup Language). See separate article for a detailed description of SGML. The paper needed to be able to update their editorial information every time a new issue was published, and Eclipse was looking forward to other possible publishing opportunities for the paper on the World Wide Web. Under the new system, editors continue to use the programs they are comfortable with (MS Word, Quark, etc.), but they now "mark up" their stories with invisible SGML codes that identify the title, author, pull-quote, etc. In addition, event listings are exported from the paper's database with SGML tags already embedded into the text for easy implementation on the BBS.
 
-![city-paper-figure-2](media://reprints/city-paper-figure-2.png)
+![city-paper-figure-2](/_media/reprints/city-paper-figure-2.png)
 
 With SGML, *City Paper** has been able to take advantage of other developments in the information publishing industry as well. HTML (HyperText Markup Language) is a subset of SGML and is used to create World Wide Web pages on the Internet. The publication was able to move smoothly from their print publishing to the new medium with a Web page, which debuted several months ago. Each time a new issue of City Paper is published, an Eclipse-developed subset of SGML interprets the imbedded codes and allows the paper to instantly update its Web page with the new information. And because of the use of SGML, the on-line paper is more interesting than simple text-users can click on the title of an article from the table of contents and the article appears, or click on the masthead and background information on the publication appears.
 

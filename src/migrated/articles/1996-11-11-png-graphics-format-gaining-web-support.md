@@ -27,7 +27,7 @@ For PNG to attain widespread use it must be supported within Web browsers and ap
 
 A Microsoft spokesman said the company plans to support PNG in a future version of Internet Explorer for Windows 95, but the spokesman said Mac support has not been determined. A Netscape representative said only that the company is looking closely at the PNG format.
 
-![macweek-figure-1](media://reprints/macweek-figure-1.png "The PNG Live plug-in can display and adjust images in the PNG format from within Netscape Navigator.")
+![macweek-figure-1](/_media/reprints/macweek-figure-1.png "The PNG Live plug-in can display and adjust images in the PNG format from within Netscape Navigator.")
 
 Adobe Photoshop 4.0, Macromedia FreeHand 7 Graphics Studio, and a number of popular freeware and shareware image-conversion utilities will also open and save PNG files. The Virtual Reality Modeling Language 2.0 standard, announced in August, also requires PNG support for compliance.
 

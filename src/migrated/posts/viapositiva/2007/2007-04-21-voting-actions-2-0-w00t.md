@@ -24,6 +24,6 @@ It has a bunch of improvements over the old 4.7 version, including but not limit
 
 I grabbed a quick screenshot of the user interface for the main Action Set editing screen, and hopefully it demonstrates how things have improved:
 
-![](http://jeff.viapositiva.net/sites/jeff.viapositiva.net/files/Firefox002.png)
+![](/_media/positiva/Firefox002.png)
 
 For those interested in taking a quick peek at it in action, I recorded a super-off-the-cuff videocast on my testing site and posted it to google video. Embedded video after the cut.

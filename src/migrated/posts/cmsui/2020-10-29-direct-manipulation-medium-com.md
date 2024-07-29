@@ -10,7 +10,7 @@ keywords:
 isPartOf: blog.cmsui
 date: 2020-10-29T00:00:00.000Z
 ---
-![](media://reprints/cmsui/medium-post-editing-2006.png)
+![](/_media/reprints/cmsui/medium-post-editing-2006.png)
 
 The magic of [Medium](https://medium.com/) is that it provides a one-size-fits-all approach to blogging, and polishes that experience to a sheen. Users have no control over the visual styling of their content beyond simple text formatting and image alignment; there is one and only one type of content; customization of presentation is impossible. It's closer to a simple WYSIWYG word processor than a traditional web publishing tool.
 

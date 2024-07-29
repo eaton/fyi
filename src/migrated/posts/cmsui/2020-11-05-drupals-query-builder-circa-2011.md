@@ -10,7 +10,7 @@ keywords:
 isPartOf: blog.cmsui
 date: 2020-11-05T00:00:00.000Z
 ---
-![](media://reprints/cmsui/drupal-query-builder-2011.png)
+![](/_media/reprints/cmsui/drupal-query-builder-2011.png)
 
 The past two posts have looked at the evolution of a particular administration screen in Drupal — the Views query-builder. From its birth as a third-party plugin during the early years of Drupal's evolution, to its current role as a foundation Drupal site architecture, it's gone through quite a few iterations.
 

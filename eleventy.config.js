@@ -6,6 +6,7 @@ import pluginYoutube from "eleventy-plugin-youtube-embed";
 import pluginVimeo from "eleventy-plugin-vimeo-embed";
 import pluginMarkdownFilter from "@jgarber/eleventy-plugin-markdown";
 
+import eleventyImage from "./_config/plugins/image.js";
 import * as dateFilters from './_config/filters/dates.js';
 
 export default async function(eleventyConfig) {
@@ -21,6 +22,7 @@ export default async function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginYoutube);
 
   eleventyConfig.addPlugin(pluginMarkdownFilter);
+  eleventyConfig.addPlugin(eleventyImage);
 
   // --------------------- Filters
   for (const [name, func] of Object.entries(dateFilters)) {

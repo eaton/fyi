@@ -21,7 +21,7 @@ But Team Chunk has a deadly weakness. When narrative text is mixed with embedded
 
 MSNBC.com is a perfect example. As part of its 2013 redesign, the cable news channel put more emphasis on in-depth, web-first news coverage. The design included several reusable modules that could be placed on template-driven pages: videos with accompanying playlists, photo galleries, polling widgets, and teasers for related articles. That standardization delivered all the benefits of CMS content modeling: it made the design more consistent, simplified the process of reusing rich multimedia elements across different stories, and kept the responsive CSS rules manageable.
 
-![MSNBC news story, where rich media elements must appear at specific spots in stories and include captions, titles, related links, etc.](media://reprints/msnbc-screenshot_edit.jpg "MSNBC news story, where rich media elements must appear at specific spots in stories and include captions, titles, related links, etc.")
+![MSNBC news story, where rich media elements must appear at specific spots in stories and include captions, titles, related links, etc.](/_media/reprints/msnbc-screenshot_edit.jpg "MSNBC news story, where rich media elements must appear at specific spots in stories and include captions, titles, related links, etc.")
 
 Unfortunately, reporters and editors insisted it would cripple their work. They needed to mix in multiple videos, a gallery and a poll, or several related article teasers, *at specific points in each article*. Carving out these elements into separate CMS fields or standalone pieces of content *would* make storing and remixing them easier. However, relying on rule-based CMS templates to display them would also break their connection to the specific sentences, paragraphs, and sections they were meant to enhance.
 
@@ -107,7 +107,7 @@ This approach turns an article or a post into a kind of manifest, with narrative
 
 Editors and creators who work with complex content need tools that manipulate that content's native vocabulary, not the final visual design or the browser-specific nuances of HTML. Wikipedia recently rolled out an assistive editing tool to help new users navigate the complexity of the site's content. It offers a limited set of formatting tools, but gives editors one-click access to Wikipedia-specific markup standards like inline journal citations, boilerplate text, and calls for editorial review.
 
-![Screenshot of Wikipedia's custom rich-text editor, with assistive tools for Wiki-specific markup](media://reprints/wikipedia-wysiwyg.jpg "Screenshot of Wikipedia's custom rich-text editor, with assistive tools for Wiki-specific markup")
+![Screenshot of Wikipedia's custom rich-text editor, with assistive tools for Wiki-specific markup](/_media/reprints/wikipedia-wysiwyg.jpg "Screenshot of Wikipedia's custom rich-text editor, with assistive tools for Wiki-specific markup")
 
 Those kinds of decisions aren't universal: they're tailored to the peculiarities of a specific project's content. Disabling all but the most basic HTML tags and adding one-click buttons for a site's custom elements can turn a "stock" WYSIWYG editor into a structure-friendly tool. It's also the best way to avoid the click-buttons-till-it-looks-right markup mess.
 

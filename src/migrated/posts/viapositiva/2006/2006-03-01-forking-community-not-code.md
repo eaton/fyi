@@ -27,6 +27,6 @@ Others have blogged about the idea of streamlining Drupal's core even more than 
 
 As we in the Drupal community move forward, I think that managing expectations for each group, pointing them to contextually helpful resources, and admitting when Drupal isn't yet ready for their needs, is extremely important.In my dream world, Drupal would have a splash screen of sorts, channeling them in the right direction before they get swamped in newbie questions, theming tutorials, or geeky arguments about optimizing tree sorting algorithms that really belong to another group entirely.
 
-[![](http://jeff.viapositiva.net/files/drupal.png)](http://jeff.viapositiva.net/files/drupal.png)
+[![](/_media/positiva/drupal.png)](/_media/positiva/drupal.png)
 
 This doesn't mean "splitting" Drupal's community. Those three groups of users will have overlap, obviously, and there's no reason they can't all coexist on the same site using the same resources. It's more about how we think of Drupal, and how we approach it.

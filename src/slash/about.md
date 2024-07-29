@@ -21,7 +21,7 @@ He's worked with clients like Sony/BMG Music, IBM, World Wrestling Entertainment
 
 ### Headshot
 
-![Jeff Eaton headshot](https://live.staticflickr.com/3311/4596891392_f0087df77b_c_d.jpg)
+![Jeff Eaton headshot](/_media/headshot.jpg)
 
 This batch of photos doesn't have quite enough grey, but I'll be taking some new ones soon. In the mean time, these should do the trick.
 

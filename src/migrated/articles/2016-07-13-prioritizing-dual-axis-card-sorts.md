@@ -21,7 +21,7 @@ Inspired by [Alberta Soranzo](https://twitter.com/albertatrebla) and [Dave Cooks
 
 In addition, we used the "Delphi Card Sorting" technique described in the same presentation. Instead of giving each participant a blank slate and a pile of cards, we started them out with the results of the previous participant's card sort. Each person was encouraged to make (and explain) any changes they felt were necessary, and we recorded the differences after each 15-minute session.
 
-![Example of a dual-axis card sort](media://reprints/lullabot/dual-axis-sort.jpg "dual-axis-sort.jpg")
+![Example of a dual-axis card sort](/_media/reprints/lullabot/dual-axis-sort.jpg "dual-axis-sort.jpg")
 
 The results were dramatic. The hands-on, spatial aspect of card sorting made it fast and easy for participants to pick up the basics, and mapping the two kinds of "value" to different axis made each stakeholder's perspectives much clearer. Using the Delphi sorting method, we quickly spotted what features everyone agreed on, and which required additional investigation. Within an hour, we'd gathered enough information to make some initial decisions.
 
