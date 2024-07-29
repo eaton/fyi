@@ -1,0 +1,47 @@
+{"id":"place.wheaton-il","type":"Place","name":"Wheaton, IL","isPartOf":"place.O_Ye4b08E2suTApFEhHqB","latitude":41.856111,"longitude":-88.108333,"population":53970}
+{"id":"place.antwerp","type":"Place","name":"Antwerp","isPartOf":"place.flsKPGfDGby2uODWEbPR4","latitude":51.2194,"longitude":4.4025,"population":529247}
+{"id":"place.vancouver","type":"Place","name":"Vancouver","isPartOf":"place.hO9VvtLpU9ldvPmUqon4f","latitude":49.2827,"longitude":-123.1207,"population":675218}
+{"id":"place.amsterdam","type":"Place","name":"Amsterdam","isPartOf":"place.qjh0uqF-B6qk6cq1QODWM","latitude":52.3676,"longitude":4.9041,"population":905234}
+{"id":"place.brussels","type":"Place","name":"Brussels","isPartOf":"place.EvSjB2VwcFYQRrUHlRIQU","latitude":50.8503,"longitude":4.3517,"population":1208542}
+{"id":"place.barcelona","type":"Place","name":"Barcelona","isPartOf":"place.0VxXmyz5gdfFl67aM5t7y","latitude":41.3851,"longitude":2.1734,"population":1620343}
+{"id":"place.boston","type":"Place","name":"Boston","isPartOf":"place.DIWpxfBQ2eFpCOm6cdWWj","latitude":42.3601,"longitude":-71.0589,"population":675647}
+{"id":"place.sunnyvale","type":"Place","name":"Sunnyvale","isPartOf":"place.D675gZSKV7L5bwB2OgsGR","latitude":37.3688,"longitude":-122.0363,"population":155805}
+{"id":"place.paris","type":"Place","name":"Paris","isPartOf":"place.suSONi-hGe-1UUGziwgYU","latitude":48.8566,"longitude":2.3522,"population":2165423}
+{"id":"place.szeged","type":"Place","name":"Szeged","isPartOf":"place.SerhGU2gacBQI8aVBS3di","latitude":46.253,"longitude":20.1414,"population":161837}
+{"id":"place.sf","type":"Place","name":"San Fransisco","isPartOf":"place.MDy5GJX9q_G-7xT_0KjdS","latitude":37.7749,"longitude":-122.4194,"population":873965}
+{"id":"place.chicago","type":"Place","name":"Chicago","isPartOf":"place.q50xjAp4uDRmdvL8VGyfV","latitude":41.8781,"longitude":-87.6298,"population":2670406}
+{"id":"place.copenhagen","type":"Place","name":"Copenhagen","isPartOf":"place.RYBD77HBiUqsvpnoNWMmw","latitude":55.6761,"longitude":12.5683,"population":602481}
+{"id":"place.toronto","type":"Place","name":"Toronto","isPartOf":"place.Dym6LTrnP_IyaCoScs12Q","latitude":43.6511,"longitude":-79.3839,"population":2930000}
+{"id":"place.london","type":"Place","name":"London","isPartOf":"place.hdrzILcWnZicE58UHr5t1","latitude":51.5074,"longitude":-0.1278,"population":8982000}
+{"id":"place.mpls","type":"Place","name":"Minneapolis","isPartOf":"place.uWl2b16RwBdhTupdG0ibX","latitude":44.9778,"longitude":-93.265,"population":429606}
+{"id":"place.nyc","type":"Place","name":"New York City","isPartOf":"place.bcGcyODrGeYsKUcAkstRj","latitude":40.7128,"longitude":-74.006,"population":8419600}
+{"id":"place.west-greenwich","type":"Place","name":"West Greenwich, RI","isPartOf":"place.7hreQR7sX1nRwE6Jguy_9","latitude":41.6287,"longitude":-71.654,"population":6092}
+{"id":"place.denver","type":"Place","name":"Denver","isPartOf":"place.CuIWqTVqrBgDA23K-46qk","latitude":39.7392,"longitude":-104.9903,"population":735538}
+{"id":"place.portland","type":"Place","name":"Portland","isPartOf":"place.dwOPjZT5FpmAx63arV7Hy","latitude":43.6591,"longitude":-70.2568,"population":68318}
+{"id":"place.cancun","type":"Place","name":"Cancún","isPartOf":"place.98ArrPFSl6roQgNJ03fua","latitude":21.160556,"longitude":-86.8475,"population":628306}
+{"id":"place.munich","type":"Place","name":"Munich","isPartOf":"place.upnUjueDOVVv7Nh1empoI","latitude":48.1351,"longitude":11.582,"population":1471508}
+{"id":"place.sydney","type":"Place","name":"Sydney","isPartOf":"place.xL1WfFsuqoJrmSH-HHks5","latitude":-33.8688,"longitude":151.2093,"population":5373000}
+{"id":"place.aurora","type":"Place","name":"Aurora, IL","isPartOf":"place.tQ6Gv4L3-OSuQEaoaFoDS","latitude":41.7606,"longitude":-88.3201,"population":180542}
+{"id":"place.helsinki","type":"Place","name":"Helsinki","isPartOf":"place.1VK0QV9m_hN6patGdlv-b","latitude":60.1699,"longitude":24.9384,"population":656920}
+{"id":"place.prague","type":"Place","name":"Prague","isPartOf":"place.2tgTwCdcXGc3oTf_ep8LC","latitude":50.0755,"longitude":14.4378,"population":1309000}
+{"id":"place.palmsprings-ca","type":"Place","name":"Palm Springs, CA","isPartOf":"place.uj-daAK0b3IIr7vN19qbN","latitude":33.830278,"longitude":-116.545278,"population":44575}
+{"id":"place.austin","type":"Place","name":"Austin","isPartOf":"place.4SpCnmw0aE7jj-nJZdRBW","latitude":30.2672,"longitude":-97.7431,"population":974447}
+{"id":"place.siouxfalls","type":"Place","name":"Sioux Falls","isPartOf":"place.pI5tD4WSvHB8b5hrQmGp9","latitude":43.5446,"longitude":-96.7311,"population":202223}
+{"id":"place.crawley","type":"Place","name":"Crawley","isPartOf":"place.PNCFM3wMjLSxCh3z0C5H2","latitude":51.109167,"longitude":-0.187222,"population":119509}
+{"id":"place.bogota","type":"Place","name":"Bogota","isPartOf":"place.sItUIouC8AbSjQTHq9BWO","latitude":4.711,"longitude":-74.0721,"population":7743955}
+{"id":"place.la","type":"Place","name":"Los Angeles","isPartOf":"place.P8_wd1YbRcPLVgjdi8zF6","latitude":34.0522,"longitude":-118.2437,"population":3949776}
+{"id":"place.dublin","type":"Place","name":"Dublin","isPartOf":"place.xHtuqGzgwEwT55SbOQk9r","latitude":53.3498,"longitude":-6.2603,"population":553165}
+{"id":"place.mumbai","type":"Place","name":"Mumbai","isPartOf":"place.uRCdrWEKiFzWWbnRpcbtV","latitude":19.076,"longitude":72.8777,"population":12442373}
+{"id":"place.nola","type":"Place","name":"New Orleans","isPartOf":"place.UIVsjRbexg5fnOKL76syn","latitude":29.9511,"longitude":-90.0715,"population":383997}
+{"id":"place.baltimore","type":"Place","name":"Baltimore","isPartOf":"place.qiKW1gJ7yWO1Ptj-0-9do","latitude":39.2904,"longitude":-76.6122,"population":593490}
+{"id":"place.wash-dc","type":"Place","name":"Washington, DC","isPartOf":"place.FlPf0y5BhRm31by6iOMgI","latitude":38.9072,"longitude":-77.0369,"population":689545}
+{"id":"place.vienna","type":"Place","name":"Vienna","isPartOf":"place.ud_YcEjn0GUoFPolExZxN","latitude":48.2082,"longitude":16.3738,"population":1911191}
+{"id":"place.nashville","type":"Place","name":"Nashville","isPartOf":"place.d4D6FE_ZUqvwLGQNAiHv1","latitude":36.1627,"longitude":-86.7816,"population":694144}
+{"id":"place.darmstadt","type":"Place","name":"Darmstadt","isPartOf":"place.OI6zkIyIplcybB-AXJiDh","latitude":49.8728,"longitude":8.6512,"population":159207}
+{"id":"place.orlando","type":"Place","name":"Orlando","isPartOf":"place.QMNT7X8khqab-aTWzip1I","latitude":28.5383,"longitude":-81.3792,"population":307573}
+{"id":"place.seattle","type":"Place","name":"Seattle","isPartOf":"place.v5WVW51c1I42NzZ5wwbNX","latitude":47.6062,"longitude":-122.3321,"population":753675}
+{"id":"place.atlanta","type":"Place","name":"Atlanta","isPartOf":"place.zMIXu5Mr-ft0bO-1Tu2By","latitude":33.749,"longitude":-84.388,"population":498715}
+{"id":"place.pittsburgh","type":"Place","name":"Pittsburgh","isPartOf":"place.oaytLZAhdvmhvGlbngEye","latitude":40.4406,"longitude":-79.9959,"population":302205}
+{"id":"place.tampa","type":"Place","name":"Tampa","isPartOf":"place.-U3niLKx11EiYJ5K3oFKr","latitude":27.9506,"longitude":-82.4572,"population":413704}
+{"id":"place.miami","type":"Place","name":"Miami","isPartOf":"place.FTF10RVLr1gdkY7h5tUt9","latitude":25.7617,"longitude":-80.1918,"population":454279}
+{"id":"place.lille","type":"Place","name":"Lille","isPartOf":"place.-y1_nMTuP98g9Yh6o-VqY","latitude":50.6292,"longitude":3.0573,"population":232741}

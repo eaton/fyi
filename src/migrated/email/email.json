@@ -1,0 +1,5 @@
+{
+  "layout": "email",
+  "tags": ["writing", "textfiles"],
+  "permalink": "/{{ date | year }}/{{ name | slugify }}/index.html"
+}

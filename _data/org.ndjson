@@ -1,0 +1,36 @@
+{"id":"org.bmug","type":"Organization","name":"Berkely Macintosh User's Group","url":"https://en.wikipedia.org/wiki/Berkeley_Macintosh_Users_Group"}
+{"id":"org.macweek","type":"Organization","name":"MacWeek Magazine","url":"https://en.wikipedia.org/wiki/MacWEEK"}
+{"id":"org.smashing-mag","type":"Organization","name":"Smashing Magazine","url":"https://www.smashingmagazine.com"}
+{"id":"org.a-list-apart","type":"Organization","name":"A List Apart","url":"https://alistapart.com"}
+{"id":"org.ora","type":"Organization","name":"O'Reilly Media","url":"https://www.oreilly.com"}
+{"id":"org.the-interconnected","type":"Organization","name":"The Interconnected","url":"https://theinterconnected.net"}
+{"id":"org.cmsui","type":"Organization","name":"The CMS UI Database","description":"Images, descriptions, and commentary of CMS interfaces.","url":"http://cmsui.org/","archivedAt":"https://deanebarker.net/tech/cmsui/"}
+{"id":"org.city-paper","type":"NewsMediaOrganization","name":"City Paper","url":"http://www.cpcn.com","archivedAt":"https://philadelphiaweekly.com/sections/city-paper/"}
+{"id":"org.eclipse-svc","type":"Organization","name":"Eclipse Services","url":"https://www.eclipseservices.com"}
+{"id":"org.daily-penn","type":"NewsMediaOrganization","name":"The Daily Pennsylvanian","url":"https://www.thedp.com"}
+{"id":"org.bungie-software","type":"Organization","name":"Bungie","url":"https://en.wikipedia.org/wiki/Bungie"}
+{"id":"org.mac-action","type":"Organization","name":"Mac Action Magazine","url":"https://www.cix.co.uk/~macaction/"}
+{"id":"org.eclipse","type":"Organization","name":"Eclipse Services","url":"http://www.eclipseservices.com/"}
+{"id":"org.img","type":"Organization","name":"Inside Mac Games","url":"https://www.insidemacgames.com/historical/archives/index.html"}
+{"id":"org.robis","type":"Organization","name":"Robis Marketing","url":"https://robismarketing.com/"}
+{"id":"org.wca","type":"Organization","name":"The Willow Creek Association","url":"https://www.willowcreek.com/"}
+{"id":"org.geneer","type":"Organization","name":"Geneer, Inc.","url":"http://www.geneer.com/"}
+{"id":"org.mtvuk","type":"Organization","name":"MTV UK","url":"http://mtv.co.uk/"}
+{"id":"org.sony","type":"Organization","name":"Sony","url":"https://www.sony.com/"}
+{"id":"org.lullabot","type":"Organization","name":"Lullabot","url":"https://www.lullabot.com/"}
+{"id":"org.dccomics","type":"Organization","name":"DC Comics","url":"https://www.dc.com/"}
+{"id":"org.wpni","type":"Organization","name":"Washington Post Newsweek International","url":"https://en.wikipedia.org/wiki/Washingtonpost.Newsweek_Interactive"}
+{"id":"org.amerch","type":"Organization","name":"Anderson Merchandisers","url":"https://amerch.com/"}
+{"id":"org.stanford","type":"Organization","name":"Stanford University","url":"https://www.stanford.edu/"}
+{"id":"org.verizon","type":"Organization","name":"Verizon Wireless","url":"https://www.verizon.com/"}
+{"id":"org.wwe","type":"Organization","name":"World Wrestling Entertainment","url":"https://www.wwe.com/"}
+{"id":"org.apple","type":"Organization","name":"Apple","url":"https://www.apple.com/"}
+{"id":"org.ge","type":"Organization","name":"General Electric"}
+{"id":"org.hotwire","type":"Organization","name":"Hotwire"}
+{"id":"org.ibm","type":"Organization","name":"IBM"}
+{"id":"org.cmu","type":"Organization","name":"Carnegie Mellon University"}
+{"id":"org.pantheon","type":"Organization","name":"Pantheon Systems","url":"https://pantheon.io/"}
+{"id":"org.autogram","type":"Organization","name":"Autogram","url":"https://autogram.is/"}
+{"id":"org.nbcu","type":"Organization","name":"NBC Universal","url":"https://www.nbcuniversal.com/"}
+{"id":"org.nerdhaus","type":"Organization","name":"Nerdhaus Industries","url":"https://nerdhaus.net/"}
+{"id":"org.intel","type":"Organization","name":"Intel","url":"https://www.intel.com/"}

@@ -1,26 +1,47 @@
 import pluginWebc from "@11ty/eleventy-plugin-webc";
-import dataExtensions from './_lib/data-extensions.js';
+import dataExtensions from './_config/data-extensions.js';
+import pluginNavigation from "@11ty/eleventy-navigation";
+import pluginTwitter from "eleventy-plugin-embed-twitter";
+import pluginYoutube from "eleventy-plugin-youtube-embed";
+import pluginVimeo from "eleventy-plugin-vimeo-embed";
+import pluginMarkdownFilter from "@jgarber/eleventy-plugin-markdown";
+
+import * as dateFilters from './_config/filters/dates.js';
 
 export default async function(eleventyConfig) {
-	// Plugins
+  // --------------------- Plugins
 	eleventyConfig.addPlugin(pluginWebc, {
 		components: "_components/**/*.webc",
 	});
+  eleventyConfig.addPlugin(pluginNavigation);
+
+  // Remote resource embedding. There are probably others, but.
+  eleventyConfig.addPlugin(pluginTwitter);
+  eleventyConfig.addPlugin(pluginVimeo);
+  eleventyConfig.addPlugin(pluginYoutube);
+
+  eleventyConfig.addPlugin(pluginMarkdownFilter);
+
+  // --------------------- Filters
+  for (const [name, func] of Object.entries(dateFilters)) {
+    eleventyConfig.addFilter(name, func);
+  }
 
   eleventyConfig.addPassthroughCopy({
-    "./_static/": "/",
+    "./src/_static/": "/static/",
   })
 
   eleventyConfig.addLayoutAlias('base', 'layouts/base.njk')
+  eleventyConfig.addLayoutAlias('page', 'layouts/base.njk')
   eleventyConfig.addLayoutAlias('post', 'layouts/base.njk')
-  eleventyConfig.addLayoutAlias('entry', 'layouts/base.njk')
-  eleventyConfig.addLayoutAlias('thread', 'layouts/base.njk')
-  eleventyConfig.addLayoutAlias('article', 'layouts/base.njk')
+  eleventyConfig.addLayoutAlias('social', 'layouts/base.njk')
   eleventyConfig.addLayoutAlias('textfile', 'layouts/base.njk')
-  eleventyConfig.addLayoutAlias('slash', 'layouts/base.njk')
-  eleventyConfig.addLayoutAlias('splat', 'layouts/splat.njk')
+  eleventyConfig.addLayoutAlias('email', 'layouts/base.njk')
+  eleventyConfig.addLayoutAlias('article', 'layouts/base.njk')
+  eleventyConfig.addLayoutAlias('talk', 'layouts/base.njk')
 
   // Custom data extensions
+  // We add .csv, .tsv, .ndjson, and .json5
   for (const [exts, func] of Object.entries(dataExtensions)) {
     eleventyConfig.addDataExtension(exts, func);
   }

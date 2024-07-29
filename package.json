@@ -16,7 +16,7 @@
   "main": "index.js",
   "type": "module",
   "engines": {
-    "node": ">=20.10.0"
+    "node": ">=22.5.1"
   },
   "scripts": {
     "build": "npx @11ty/eleventy",
@@ -36,9 +36,15 @@
     "@11ty/eleventy-plugin-webc": "^0.11.2",
     "@eatonfyi/fs-jetpack": "github:eaton/fs-jetpack",
     "@eatonfyi/ids": "github:eaton/ids",
+    "@eatonfyi/schema": "github:eaton/schema",
     "@eatonfyi/serializers": "github:eaton/serializers",
     "@eatonfyi/urls": "github:eaton/urls",
+    "@jgarber/eleventy-plugin-markdown": "^1.0.0",
+    "dayjs": "^1.11.12",
     "dotenv": "^16.4.5",
+    "eleventy-plugin-embed-twitter": "^1.4.0",
+    "eleventy-plugin-vimeo-embed": "^1.3.8",
+    "eleventy-plugin-youtube-embed": "^1.10.2",
     "emptier": "^1.2.0",
     "empty-deep": "^1.0.0",
     "netlify-plugin-cache": "^1.0.3",

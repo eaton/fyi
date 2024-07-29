@@ -1,0 +1,5 @@
+{
+  "layout": "social",
+  "tags": ["social", "writing"],
+  "permalink": "/{{ date | year }}/{{ id | slugify }}/index.html"
+}

@@ -1,0 +1,5 @@
+{
+  "layout": "talk",
+  "tags": "talks",
+  "permalink": "/talks/{{ name | slugify }}/index.html"
+}

@@ -1,0 +1,11 @@
+{"id":"app.ie4","type":"SoftwareApplication","name":"Internet Explorer 4"}
+{"id":"app.firefox","type":"SoftwareApplication","name":"Firefox"}
+{"id":"app.chrome","type":"SoftwareApplication","name":"Google Chrome"}
+{"id":"app.ramdoubler","type":"SoftwareApplication","name":"RamDoubler","publisher":"Connectix","requirements":"Macintosh computer with 4 megs of RAM, a hard drive, a 68030 CPU or greater, and System 7.","review":{"rating":4.5},"version":"1.0.2"}
+{"id":"app.swes-es","type":"SoftwareApplication","name":"Strunk & White's Elements Of Style","edition":"Electronic Edition","publisher":"Microlytics","requirements":"Mac Plus or greater, System 6 or greater, hard disk drive; PCs require PCs require 640K RAM, DOS 3.0.","review":{"rating":5}}
+{"id":"app.disktop","type":"SoftwareApplication","name":"DiskTop","archivedAt":"https://www.macintoshrepository.org/1924-disktop","publisher":"PrairieSoft","requirements":"Mac Plus or better, System 6.0.4 or higher, 1 MB RAM","version":"4.5.1"}
+{"id":"app.pt-sat","type":"SoftwareApplication","name":"Personal Trainer for the SAT","publisher":"Davidson Publishing","requirements":"Mac SE or greater, hard drive. Color monitor required for color graphics.","review":{"rating":4.5}}
+{"id":"app.cliff-sat","type":"SoftwareApplication","name":"Cliff's Studyware for the SAT I","publisher":"Cliff's Notes Software","requirements":"Mac Plus or greater, hard drive.","review":{"rating":3}}
+{"id":"app.adobe-acrobat","type":"SoftwareApplication","name":"Acrobat","url":"https://en.wikipedia.org/wiki/Adobe_Acrobat","publisher":"Adobe","version":2}
+{"id":"app.opendoc","type":"SoftwareApplication","name":"OpenDoc","url":"https://en.wikipedia.org/wiki/OpenDoc"}
+{"id":"app.netlink-remote","type":"SoftwareApplication","name":"Netlink Remote","url":"http://www.amug.org/~marathon/NetLink"}

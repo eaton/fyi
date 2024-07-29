@@ -1,0 +1,5 @@
+{
+  "layout": "post",
+  "tags": ["blog", "writing"],
+  "permalink": "/{{ date | year }}/{{ id | slugify }}/index.html"
+}

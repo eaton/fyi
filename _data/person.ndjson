@@ -1,0 +1,1632 @@
+{"id":"person.devin-hunt","type":"Person","name":"Devin Hunt"}
+{"id":"person.yoko-ogawa","type":"Person","name":"Yoko Ogawa"}
+{"id":"person.stephen-snyder","type":"Person","name":"Stephen Snyder"}
+{"id":"person.genevieve-cogman","type":"Person","name":"Genevieve Cogman"}
+{"id":"person.ashley-jardina","type":"Person","name":"Ashley Jardina"}
+{"id":"person.lee-lefever","type":"Person","name":"Lee LeFever"}
+{"id":"person.jon-duckett","type":"Person","name":"Jon Duckett"}
+{"id":"person.ann-handley","type":"Person","name":"Ann Handley"}
+{"id":"person.charlie-wing","type":"Person","name":"Charlie Wing"}
+{"id":"person.anthony-hodgson","type":"Person","name":"Anthony Hodgson"}
+{"id":"person.christopher-paolini","type":"Person","name":"Christopher Paolini"}
+{"id":"person.brittney-williams","type":"Person","name":"Brittney Williams"}
+{"id":"person.kate-leth","type":"Person","name":"Kate Leth"}
+{"id":"person.brittney-l-williams","type":"Person","name":"Brittney L Williams"}
+{"id":"person.ibrahim-moustafa","type":"Person","name":"Ibrahim Moustafa"}
+{"id":"person.chelsea-cain","type":"Person","name":"Chelsea Cain"}
+{"id":"person.katie-kubert","type":"Person","name":"Katie Kubert"}
+{"id":"person.kate-niemczyk","type":"Person","name":"Kate Niemczyk"}
+{"id":"person.sean-parsons","type":"Person","name":"Sean Parsons"}
+{"id":"person.rachelle-rosenberg","type":"Person","name":"Rachelle Rosenberg"}
+{"id":"person.jonathan-hickman","type":"Person","name":"Jonathan Hickman"}
+{"id":"person.pepe-larraz","type":"Person","name":"Pepe Larraz"}
+{"id":"person.matt-fraction","type":"Person","name":"Matt Fraction"}
+{"id":"person.marvel-various","type":"Person","name":"Marvel Various"}
+{"id":"person.alex-ross","type":"Person","name":"Alex Ross"}
+{"id":"person.georgi-gospodinov","type":"Person","name":"Georgi Gospodinov"}
+{"id":"person.angela-rodel","type":"Person","name":"Angela Rodel"}
+{"id":"person.valerie-hobbs","type":"Person","name":"Valerie Hobbs"}
+{"id":"person.rachel-gertz","type":"Person","name":"Rachel Gertz"}
+{"id":"person.daniel-gilbert","type":"Person","name":"Daniel Gilbert"}
+{"id":"person.kazuo-ishiguro","type":"Person","name":"Kazuo Ishiguro"}
+{"id":"person.kevin-oneill","type":"Person","name":"Kevin O'Neill"}
+{"id":"person.ben-dimagmaliw","type":"Person","name":"Ben Dimagmaliw"}
+{"id":"person.craig-hamilton","type":"Person","name":"Craig Hamilton"}
+{"id":"person.steve-leialoha","type":"Person","name":"Steve Leialoha"}
+{"id":"person.p-craig-russell","type":"Person","name":"P. Craig Russell"}
+{"id":"person.steven-t-seagle","type":"Person","name":"Steven T. Seagle"}
+{"id":"person.ed-brubaker","type":"Person","name":"Ed Brubaker"}
+{"id":"person.robbie-morrison","type":"Person","name":"Robbie Morrison"}
+{"id":"person.micah-ian-wright","type":"Person","name":"Micah Ian Wright"}
+{"id":"person.lee-bermejo","type":"Person","name":"Lee Bermejo"}
+{"id":"person.chris-sprouse","type":"Person","name":"Chris Sprouse"}
+{"id":"person.david-lloyd","type":"Person","name":"David Lloyd"}
+{"id":"person.jon-davis-hunt","type":"Person","name":"Jon Davis-Hunt"}
+{"id":"person.tessa-smith-mcgovern","type":"Person","name":"Tessa Smith McGovern"}
+{"id":"person.joseph-maxwell","type":"Person","name":"Joseph A. Maxwell"}
+{"id":"person.deborah-howe","type":"Person","name":"Deborah Howe"}
+{"id":"person.james-howe","type":"Person","name":"James Howe"}
+{"id":"person.jeremy-zerfoss","type":"Person","name":"Jeremy Zerfoss"}
+{"id":"person.dave-addey","type":"Person","name":"Dave Addey"}
+{"id":"person.matt-zoller-seitz","type":"Person","name":"Matt Zoller Seitz"}
+{"id":"person.naomi-pollock","type":"Person","name":"Naomi Pollock"}
+{"id":"person.michael-e-porter","type":"Person","name":"Michael E. Porter"}
+{"id":"person.peter-f-drucker","type":"Person","name":"Peter F. Drucker"}
+{"id":"person.clayton-m-christensen","type":"Person","name":"Clayton M. Christensen"}
+{"id":"person.john-p-kotter","type":"Person","name":"John P. Kotter"}
+{"id":"person.jon-r-katzenbach","type":"Person","name":"Jon R. Katzenbach"}
+{"id":"person.w-chan-kim","type":"Person","name":"W. Chan Kim"}
+{"id":"person.ren-e-mauborgne","type":"Person","name":"Renée A. Mauborgne"}
+{"id":"person.michael-blaha","type":"Person","name":"Michael Blaha"}
+{"id":"person.andrew-hinton","type":"Person","name":"Andrew Hinton"}
+{"id":"person.scott-murray","type":"Person","name":"Scott Murray"}
+{"id":"person.jaime-levy","type":"Person","name":"Jaime Levy"}
+{"id":"person.dave-gray","type":"Person","name":"Dave Gray"}
+{"id":"person.sunni-brown","type":"Person","name":"Sunni Brown"}
+{"id":"person.james-macanufo","type":"Person","name":"James Macanufo"}
+{"id":"person.gary-larson","type":"Person","name":"Gary Larson"}
+{"id":"person.taisia-kitaiskaia","type":"Person","name":"Taisia Kitaiskaia"}
+{"id":"person.john-w-creswell","type":"Person","name":"John W. Creswell"}
+{"id":"person.eric-evans","type":"Person","name":"Eric Evans"}
+{"id":"person.dk","type":"Person","name":"DK"}
+{"id":"person.smithsonian-institution","type":"Person","name":"Smithsonian Institution"}
+{"id":"person.paolo-puggioni","type":"Person","name":"Paolo Puggioni"}
+{"id":"person.mike-hutchinson","type":"Person","name":"Mike Hutchinson"}
+{"id":"person.peter-david","type":"Person","name":"Peter David"}
+{"id":"person.boaventura-de-sousa-santos","type":"Person","name":"Boaventura de Sousa Santos"}
+{"id":"person.safiya-umoja-noble","type":"Person","name":"Safiya Umoja Noble"}
+{"id":"person.jeff-patton","type":"Person","name":"Jeff Patton"}
+{"id":"person.peter-economy","type":"Person","name":"Peter Economy"}
+{"id":"person.alan-cooper","type":"Person","name":"Alan Cooper"}
+{"id":"person.marty-cagan","type":"Person","name":"Marty Cagan"}
+{"id":"person.jorge-arango","type":"Person","name":"Jorge Arango"}
+{"id":"person.kathy-sierra","type":"Person","name":"Kathy Sierra"}
+{"id":"person.tom-greever","type":"Person","name":"Tom Greever"}
+{"id":"person.james-kalbach","type":"Person","name":"James Kalbach"}
+{"id":"person.peter-merholz","type":"Person","name":"Peter Merholz"}
+{"id":"person.kristin-skinner","type":"Person","name":"Kristin Skinner"}
+{"id":"person.anthony-gray","type":"Person","name":"Anthony Gray"}
+{"id":"person.richard-banfield","type":"Person","name":"Richard Banfield"}
+{"id":"person.martin-eriksson","type":"Person","name":"Martin Eriksson"}
+{"id":"person.nate-walkingshaw","type":"Person","name":"Nate Walkingshaw"}
+{"id":"person.jesmyn-ward","type":"Person","name":"Jesmyn Ward"}
+{"id":"person.matthew-newton","type":"Person","name":"Matthew Newton"}
+{"id":"person.christopher-schaberg","type":"Person","name":"Christopher Schaberg"}
+{"id":"person.ian-bogost","type":"Person","name":"Ian Bogost"}
+{"id":"person.dennis-tenen","type":"Person","name":"Dennis Tenen"}
+{"id":"person.nicole-gonzalez-van-cleve","type":"Person","name":"Nicole Gonzalez Van Cleve"}
+{"id":"person.adam-kotsko","type":"Person","name":"Adam Kotsko"}
+{"id":"person.nintendo","type":"Person","name":"Nintendo"}
+{"id":"person.james-d-amato","type":"Person","name":"James D’Amato"}
+{"id":"person.ruha-benjamin","type":"Person","name":"Ruha Benjamin"}
+{"id":"person.michael-c-andrews","type":"Person","name":"Michael C Andrews"}
+{"id":"person.andy-clark","type":"Person","name":"Andy Clark"}
+{"id":"person.emma-smith","type":"Person","name":"Emma Smith"}
+{"id":"person.bill-watterson","type":"Person","name":"Bill Watterson"}
+{"id":"person.bill-watterson-john-kascht","type":"Person","name":"Bill Watterson and John Kascht"}
+{"id":"person.sarah-richards","type":"Person","name":"Sarah Richards"}
+{"id":"person.chris-burnham","type":"Person","name":"Chris Burnham"}
+{"id":"person.peter-pomerantsev","type":"Person","name":"Peter Pomerantsev"}
+{"id":"person.james-r-davis","type":"Person","name":"James R. Davis"}
+{"id":"person.zsuzsi-gartner","type":"Person","name":"Zsuzsi Gartner"}
+{"id":"person.yann-martel","type":"Person","name":"Yann Martel"}
+{"id":"person.timothy-taylor","type":"Person","name":"Timothy Taylor"}
+{"id":"person.fasa-corporation","type":"Person","name":"FASA Corporation"}
+{"id":"person.steve-mcconnell","type":"Person","name":"Steve McConnell"}
+{"id":"person.steve-maguire","type":"Person","name":"Steve Maguire"}
+{"id":"person.robert-goodspeed","type":"Person","name":"Robert Goodspeed"}
+{"id":"person.michael-young","type":"Person","name":"Michael Young"}
+{"id":"person.sam-kieth","type":"Person","name":"Sam Kieth"}
+{"id":"person.mike-dringenberg","type":"Person","name":"Mike Dringenberg"}
+{"id":"person.malcolm-jones-iii","type":"Person","name":"Malcolm Jones III"}
+{"id":"person.frank-miller","type":"Person","name":"Frank Miller"}
+{"id":"person.klaus-janson","type":"Person","name":"Klaus Janson"}
+{"id":"person.lynn-varley","type":"Person","name":"Lynn Varley"}
+{"id":"person.john-costanza","type":"Person","name":"John Costanza"}
+{"id":"person.bob-kane","type":"Person","name":"Bob Kane"}
+{"id":"person.darick-roberston","type":"Person","name":"Darick Roberston"}
+{"id":"person.rodney-ramos","type":"Person","name":"Rodney Ramos"}
+{"id":"person.patrick-stewart","type":"Person","name":"Patrick Stewart"}
+{"id":"person.phil-jimenez","type":"Person","name":"Phil Jimenez"}
+{"id":"person.steve-yeowell","type":"Person","name":"Steve Yeowell"}
+{"id":"person.john-layman","type":"Person","name":"John Layman"}
+{"id":"person.john-mccrea","type":"Person","name":"John McCrea"}
+{"id":"person.james-hodgkins","type":"Person","name":"James Hodgkins"}
+{"id":"person.ian-hannin","type":"Person","name":"Ian Hannin"}
+{"id":"person.mark-millar","type":"Person","name":"Mark Millar"}
+{"id":"person.chris-weston","type":"Person","name":"Chris Weston"}
+{"id":"person.gene-ha","type":"Person","name":"Gene Ha"}
+{"id":"person.zander-cannon","type":"Person","name":"Zander Cannon"}
+{"id":"person.ed-decker","type":"Person","name":"Ed Decker"}
+{"id":"person.dave-hunt","type":"Person","name":"Dave Hunt"}
+{"id":"person.paul-mandelbaum","type":"Person","name":"Paul Mandelbaum"}
+{"id":"person.bill-kennedy","type":"Person","name":"Bill Kennedy"}
+{"id":"person.chuck-musciano","type":"Person","name":"Chuck Musciano"}
+{"id":"person.jennifer-fleming","type":"Person","name":"Jennifer Fleming"}
+{"id":"person.hermann-hesse","type":"Person","name":"Hermann Hesse"}
+{"id":"person.hilda-rosner","type":"Person","name":"Hilda Rosner"}
+{"id":"person.arkon-daraul","type":"Person","name":"Arkon Daraul"}
+{"id":"person.david-siegel","type":"Person","name":"David Siegel"}
+{"id":"person.doug-millison","type":"Person","name":"Doug Millison"}
+{"id":"person.jim-munroe","type":"Person","name":"Jim Munroe"}
+{"id":"person.max-blumenthal","type":"Person","name":"Max Blumenthal"}
+{"id":"person.tony-millionaire","type":"Person","name":"Tony Millionaire"}
+{"id":"person.john-cassaday","type":"Person","name":"John Cassaday"}
+{"id":"person.joe-casey","type":"Person","name":"Joe Casey"}
+{"id":"person.jason-pearson","type":"Person","name":"Jason Pearson"}
+{"id":"person.mike-mignola","type":"Person","name":"Mike Mignola"}
+{"id":"person.alastair-brotchie","type":"Person","name":"Alastair Brotchie"}
+{"id":"person.mel-gooding","type":"Person","name":"Mel Gooding"}
+{"id":"person.elisabeth-schussler-fiorenza","type":"Person","name":"Elisabeth Schussler Fiorenza"}
+{"id":"person.l-ron-hubbard","type":"Person","name":"L. Ron Hubbard"}
+{"id":"person.kathleen-norris","type":"Person","name":"Kathleen Norris"}
+{"id":"person.arbinger-institute","type":"Person","name":"The Arbinger Institute"}
+{"id":"person.jennifer-bothamley","type":"Person","name":"Jennifer Bothamley"}
+{"id":"person.jaclyn-friedman","type":"Person","name":"Jaclyn Friedman"}
+{"id":"person.jessica-valenti","type":"Person","name":"Jessica Valenti"}
+{"id":"person.ijeoma-oluo","type":"Person","name":"Ijeoma Oluo"}
+{"id":"person.jason-gorder","type":"Person","name":"Jason Gorder"}
+{"id":"person.j-michael-straczynski","type":"Person","name":"J. Michael Straczynski"}
+{"id":"person.ken-lashley","type":"Person","name":"Ken Lashley"}
+{"id":"person.christian-zanier","type":"Person","name":"Christian Zanier"}
+{"id":"person.stuart-immonen","type":"Person","name":"Stuart Immonen"}
+{"id":"person.brent-anderson","type":"Person","name":"Brent Anderson"}
+{"id":"person.john-livesay","type":"Person","name":"John Livesay"}
+{"id":"person.brett-evans","type":"Person","name":"Brett Evans"}
+{"id":"person.dan-kemp","type":"Person","name":"Dan Kemp"}
+{"id":"person.brian-kiteley","type":"Person","name":"Brian Kiteley"}
+{"id":"person.marshall-mcluhan","type":"Person","name":"Marshall McLuhan"}
+{"id":"person.quentin-fiore","type":"Person","name":"Quentin Fiore"}
+{"id":"person.shepard-fairey","type":"Person","name":"Shepard Fairey"}
+{"id":"person.alexander-levitsky","type":"Person","name":"Alexander Levitsky"}
+{"id":"person.david-boyle","type":"Person","name":"David Boyle"}
+{"id":"person.jacques-bertin","type":"Person","name":"Jacques Bertin"}
+{"id":"person.ravi-zacharias","type":"Person","name":"Ravi Zacharias"}
+{"id":"person.ken-macleod","type":"Person","name":"Ken MacLeod"}
+{"id":"person.brenda-cooper","type":"Person","name":"Brenda Cooper"}
+{"id":"person.robert-charles-wilson","type":"Person","name":"Robert Charles Wilson"}
+{"id":"person.bo-burlingham","type":"Person","name":"Bo Burlingham"}
+{"id":"person.simon-sinek","type":"Person","name":"Simon Sinek"}
+{"id":"person.dan-roam","type":"Person","name":"Dan Roam"}
+{"id":"person.sue-apfelbaum","type":"Person","name":"Sue Apfelbaum"}
+{"id":"person.juliette-cezzar","type":"Person","name":"Juliette Cezzar"}
+{"id":"person.john-baichtal","type":"Person","name":"John Baichtal"}
+{"id":"person.joe-meno","type":"Person","name":"Joe Meno"}
+{"id":"person.norman-wirzba","type":"Person","name":"Norman Wirzba"}
+{"id":"person.carrie-brownstein","type":"Person","name":"Carrie Brownstein"}
+{"id":"person.jane-austen","type":"Person","name":"Jane Austen"}
+{"id":"person.seth-grahame-smith","type":"Person","name":"Seth Grahame-Smith"}
+{"id":"person.grady-hendrix","type":"Person","name":"Grady Hendrix"}
+{"id":"person.anne-elizabeth-moore","type":"Person","name":"Anne Elizabeth Moore"}
+{"id":"person.gene-sharp","type":"Person","name":"Gene Sharp"}
+{"id":"person.glen-cook","type":"Person","name":"Glen Cook"}
+{"id":"person.lisa-yaszek","type":"Person","name":"Lisa Yaszek"}
+{"id":"person.jason-bulmahn","type":"Person","name":"Jason Bulmahn"}
+{"id":"person.donella-h-meadows","type":"Person","name":"Donella H. Meadows"}
+{"id":"person.diana-wright","type":"Person","name":"Diana Wright"}
+{"id":"person.kathryn-aalto","type":"Person","name":"Kathryn Aalto"}
+{"id":"person.thomas-j-chermack","type":"Person","name":"Thomas J. Chermack"}
+{"id":"person.angela-y-davis","type":"Person","name":"Angela Y. Davis"}
+{"id":"person.frank-barat","type":"Person","name":"Frank Barat"}
+{"id":"person.cornel-west","type":"Person","name":"Cornel West"}
+{"id":"person.andrew-bloomfield","type":"Person","name":"Andrew Bloomfield"}
+{"id":"person.luke-crane","type":"Person","name":"Luke Crane"}
+{"id":"person.matthew-david-goodwin","type":"Person","name":"Matthew David Goodwin"}
+{"id":"person.frederick-luis-aldama","type":"Person","name":"Frederick Luis Aldama"}
+{"id":"person.leslie-bedford","type":"Person","name":"Leslie Bedford"}
+{"id":"person.jonathan-j-edwards","type":"Person","name":"Jonathan J. Edwards"}
+{"id":"person.w-ross-ashby","type":"Person","name":"W. Ross Ashby"}
+{"id":"person.alex-bellos","type":"Person","name":"Alex Bellos"}
+{"id":"person.patrick-thorpe","type":"Person","name":"Patrick Thorpe"}
+{"id":"person.michael-gombos","type":"Person","name":"Michael Gombos"}
+{"id":"person.takahiro-moriki","type":"Person","name":"Takahiro Moriki"}
+{"id":"person.heidi-plechl","type":"Person","name":"Heidi Plechl"}
+{"id":"person.kumar-sivasubramanian","type":"Person","name":"Kumar Sivasubramanian"}
+{"id":"person.aria-tanner","type":"Person","name":"Aria Tanner"}
+{"id":"person.john-thomas","type":"Person","name":"John Thomas"}
+{"id":"person.alex-de-campi","type":"Person","name":"Alex De Campi"}
+{"id":"person.igor-kordey","type":"Person","name":"Igor Kordey"}
+{"id":"person.daniel-rosenberg","type":"Person","name":"Daniel Rosenberg"}
+{"id":"person.anthony-grafton","type":"Person","name":"Anthony Grafton"}
+{"id":"person.ben-shneiderman","type":"Person","name":"Ben Shneiderman"}
+{"id":"person.manuel-lima","type":"Person","name":"Manuel Lima"}
+{"id":"person.sandra-rendgen","type":"Person","name":"Sandra Rendgen"}
+{"id":"person.n-w-e-b-du-bois-center-university-massachusetts-amherst","type":"Person","name":"n/a The W.E.B. Du Bois Center at the University of Massachusetts Amherst"}
+{"id":"person.whitney-battle-baptiste","type":"Person","name":"Whitney Battle-Baptiste"}
+{"id":"person.britt-rusert","type":"Person","name":"Britt Rusert"}
+{"id":"person.j-abbott-miller","type":"Person","name":"J. Abbott Miller"}
+{"id":"person.ellen-lupton","type":"Person","name":"Ellen Lupton"}
+{"id":"person.sean-adams","type":"Person","name":"Sean Adams"}
+{"id":"person.nicole-kornher-stace","type":"Person","name":"Nicole Kornher-Stace"}
+{"id":"person.abby-smith-rumsey","type":"Person","name":"Abby Smith Rumsey"}
+{"id":"person.jan-v-white","type":"Person","name":"Jan V. White"}
+{"id":"person.alex-w-white","type":"Person","name":"Alex W. White"}
+{"id":"person.edgar-h-schein","type":"Person","name":"Edgar H. Schein"}
+{"id":"person.richard-rothstein","type":"Person","name":"Richard Rothstein"}
+{"id":"person.marjorie-liu","type":"Person","name":"Marjorie Liu"}
+{"id":"person.sana-takeda","type":"Person","name":"Sana Takeda"}
+{"id":"person.paola-antonelli","type":"Person","name":"Paola Antonelli"}
+{"id":"person.anna-burckhardt","type":"Person","name":"Anna Burckhardt"}
+{"id":"person.hadas-steiner","type":"Person","name":"Hadas A. Steiner"}
+{"id":"person.neri-oxman","type":"Person","name":"Neri Oxman"}
+{"id":"person.ellen-langer","type":"Person","name":"Ellen Langer"}
+{"id":"person.christina-congleton","type":"Person","name":"Christina Congleton"}
+{"id":"person.annie-mckee","type":"Person","name":"Annie McKee"}
+{"id":"person.adam-waytz","type":"Person","name":"Adam Waytz"}
+{"id":"person.philip-kotler","type":"Person","name":"Philip Kotler"}
+{"id":"person.andris-zoltners","type":"Person","name":"Andris Zoltners"}
+{"id":"person.manish-goyal","type":"Person","name":"Manish Goyal"}
+{"id":"person.james-c-anderson","type":"Person","name":"James C. Anderson"}
+{"id":"person.nick-morgan","type":"Person","name":"Nick Morgan"}
+{"id":"person.robert-b-cialdini","type":"Person","name":"Robert B. Cialdini"}
+{"id":"person.linda-hill","type":"Person","name":"Linda A. Hill"}
+{"id":"person.tony-schwartz","type":"Person","name":"Tony Schwartz"}
+{"id":"person.mark-gerzon","type":"Person","name":"Mark Gerzon"}
+{"id":"person.holly-weeks","type":"Person","name":"Holly Weeks"}
+{"id":"person.amy-gallo","type":"Person","name":"Amy Gallo"}
+{"id":"person.amy-j-c-cuddy","type":"Person","name":"Amy J.C. Cuddy"}
+{"id":"person.deborah-tannen","type":"Person","name":"Deborah Tannen"}
+{"id":"person.john-beeson","type":"Person","name":"John Beeson"}
+{"id":"person.heidi-grant","type":"Person","name":"Heidi Grant"}
+{"id":"person.maura-nevel-thomas","type":"Person","name":"Maura Nevel Thomas"}
+{"id":"person.daniel-goleman","type":"Person","name":"Daniel Goleman"}
+{"id":"person.robert-steven-kaplan","type":"Person","name":"Robert Steven Kaplan"}
+{"id":"person.susan-david","type":"Person","name":"Susan David"}
+{"id":"person.tasha-eurich","type":"Person","name":"Tasha Eurich"}
+{"id":"person.tomas-chamorro-premuzic","type":"Person","name":"Tomas Chamorro-Premuzic"}
+{"id":"person.rosabeth-moss-kanter","type":"Person","name":"Rosabeth Moss Kanter"}
+{"id":"person.amy-jen-su","type":"Person","name":"Amy Jen Su"}
+{"id":"person.jack-zenger","type":"Person","name":"Jack Zenger"}
+{"id":"person.rasmus-hougaard","type":"Person","name":"Rasmus Hougaard"}
+{"id":"person.jacqueline-carter","type":"Person","name":"Jacqueline Carter"}
+{"id":"person.peter-bregman","type":"Person","name":"Peter Bregman"}
+{"id":"person.harvard-business-review","type":"Person","name":"Harvard Business Review"}
+{"id":"person.roma-agrawal","type":"Person","name":"Roma Agrawal"}
+{"id":"person.guido-morselli","type":"Person","name":"Guido Morselli"}
+{"id":"person.frederika-randall","type":"Person","name":"Frederika Randall"}
+{"id":"person.george-r-stewart","type":"Person","name":"George R. Stewart"}
+{"id":"person.nathaniel-rich","type":"Person","name":"Nathaniel Rich"}
+{"id":"person.dino-buzzati","type":"Person","name":"Dino Buzzati"}
+{"id":"person.anne-milano-appel","type":"Person","name":"Anne Milano Appel"}
+{"id":"person.george-zarkadakis","type":"Person","name":"George Zarkadakis"}
+{"id":"person.kevin-brennan","type":"Person","name":"Kevin Brennan"}
+{"id":"person.jim-davies","type":"Person","name":"Jim Davies"}
+{"id":"person.zoe-bran","type":"Person","name":"Zoe Bran"}
+{"id":"person.jamal-campbell","type":"Person","name":"Jamal Campbell"}
+{"id":"person.deron-bennett","type":"Person","name":"Deron Bennett"}
+{"id":"person.greg-smallwood","type":"Person","name":"Greg Smallwood"}
+{"id":"person.len-wein","type":"Person","name":"Len Wein"}
+{"id":"person.carmine-infantino","type":"Person","name":"Carmine Infantino"}
+{"id":"person.clayton-cowles","type":"Person","name":"Clayton Cowles"}
+{"id":"person.cath-caldwell","type":"Person","name":"Cath Caldwell"}
+{"id":"person.david-ogilvy","type":"Person","name":"David Ogilvy"}
+{"id":"person.miles-young","type":"Person","name":"Miles Young"}
+{"id":"person.james-bridle","type":"Person","name":"James Bridle"}
+{"id":"person.jeff-waldman","type":"Person","name":"Jeff Waldman"}
+{"id":"person.james-wallis","type":"Person","name":"James Wallis"}
+{"id":"person.damien-thompson","type":"Person","name":"Damien Thompson"}
+{"id":"person.franco-moretti","type":"Person","name":"Franco Moretti"}
+{"id":"person.alberto-piazza","type":"Person","name":"Alberto Piazza"}
+{"id":"person.steve-s-skiena","type":"Person","name":"Steve S. Skiena"}
+{"id":"person.forsyth-mark","type":"Person","name":"forsyth-mark"}
+{"id":"person.mark-forsyth","type":"Person","name":"Mark Forsyth"}
+{"id":"person.frank-egholm","type":"Person","name":"Frank Egholm"}
+{"id":"person.milan-rai","type":"Person","name":"Milan Rai"}
+{"id":"person.ian-lambot-ed","type":"Person","name":"Ian Lambot Ed."}
+{"id":"person.larry-kreider","type":"Person","name":"Larry Kreider"}
+{"id":"person.wendell-berry","type":"Person","name":"Wendell Berry"}
+{"id":"person.patrick-kapera","type":"Person","name":"Patrick Kapera"}
+{"id":"person.kevin-wilson","type":"Person","name":"Kevin Wilson"}
+{"id":"person.robert-j-defendi","type":"Person","name":"Robert J. Defendi"}
+{"id":"person.b-d-flory","type":"Person","name":"B. D. Flory"}
+{"id":"person.scott-gearin","type":"Person","name":"Scott Gearin"}
+{"id":"person.clayton-oliver","type":"Person","name":"Clayton A. Oliver"}
+{"id":"person.joey-anuff","type":"Person","name":"Joey Anuff"}
+{"id":"person.ana-marie-cox","type":"Person","name":"Ana Marie Cox"}
+{"id":"person.terry-colon","type":"Person","name":"Terry Colon"}
+{"id":"person.bradley-jersak","type":"Person","name":"Bradley Jersak"}
+{"id":"person.graham-blackburn","type":"Person","name":"Graham Blackburn"}
+{"id":"person.avram-joel-spolsky","type":"Person","name":"Avram Joel Spolsky"}
+{"id":"person.stuart-m-matlins","type":"Person","name":"Stuart M. Matlins"}
+{"id":"person.arthur-j-magida","type":"Person","name":"Arthur J. Magida"}
+{"id":"person.reuters-photographers","type":"Person","name":"Reuters Photographers"}
+{"id":"person.julius-perdana","type":"Person","name":"Julius Perdana"}
+{"id":"person.kieron-gillen","type":"Person","name":"Kieron Gillen"}
+{"id":"person.tom-jackson","type":"Person","name":"Tom Jackson"}
+{"id":"person.david-shaked","type":"Person","name":"David Shaked"}
+{"id":"person.c-lustig","type":"Person","name":"C. Lustig"}
+{"id":"person.b-tollec","type":"Person","name":"B. Tollec"}
+{"id":"person.gerry-mcgovern","type":"Person","name":"Gerry McGovern"}
+{"id":"person.tsana-dolichva","type":"Person","name":"Tsana Dolichva"}
+{"id":"person.andy-wachowski","type":"Person","name":"Andy Wachowski"}
+{"id":"person.larry-wachowski","type":"Person","name":"Larry Wachowski"}
+{"id":"person.geof-darrow","type":"Person","name":"Geof Darrow"}
+{"id":"person.bill-sienkiewicz","type":"Person","name":"Bill Sienkiewicz"}
+{"id":"person.ted-mckeever","type":"Person","name":"Ted McKeever"}
+{"id":"person.john-van-fleet","type":"Person","name":"John Van Fleet"}
+{"id":"person.david-lapham","type":"Person","name":"David Lapham"}
+{"id":"person.peter-bagge","type":"Person","name":"Peter Bagge"}
+{"id":"person.troy-nixey","type":"Person","name":"Troy Nixey"}
+{"id":"person.paul-chadwick","type":"Person","name":"Paul Chadwick"}
+{"id":"person.ryder-windham","type":"Person","name":"Ryder Windham"}
+{"id":"person.kilian-plunkett","type":"Person","name":"Kilian Plunkett"}
+{"id":"person.gregory-ruth","type":"Person","name":"Gregory Ruth"}
+{"id":"person.spencer-lamm","type":"Person","name":"Spencer Lamm"}
+{"id":"person.victor-lombardi","type":"Person","name":"Victor Lombardi"}
+{"id":"person.leah-buley","type":"Person","name":"Leah Buley"}
+{"id":"person.louis-rosenfeld","type":"Person","name":"Louis Rosenfeld"}
+{"id":"person.todd-zaki-warfel","type":"Person","name":"Todd Zaki Warfel"}
+{"id":"person.kevin-cheng","type":"Person","name":"Kevin Cheng"}
+{"id":"person.tomer-sharon","type":"Person","name":"Tomer Sharon"}
+{"id":"person.donna-lichaw","type":"Person","name":"Donna Lichaw"}
+{"id":"person.andy-polaine","type":"Person","name":"Andy Polaine"}
+{"id":"person.lavrans-l-vlie","type":"Person","name":"Lavrans Løvlie"}
+{"id":"person.ben-reason","type":"Person","name":"Ben Reason"}
+{"id":"person.kevin-m-hoffman","type":"Person","name":"Kevin M. Hoffman"}
+{"id":"person.matt-sutter","type":"Person","name":"Matt Sutter"}
+{"id":"person.jeff-gothelf","type":"Person","name":"Jeff Gothelf"}
+{"id":"person.whitney-quesenbery","type":"Person","name":"Whitney Quesenbery"}
+{"id":"person.kevin-brooks","type":"Person","name":"Kevin Brooks"}
+{"id":"person.indi-young","type":"Person","name":"Indi Young"}
+{"id":"person.tony-byrne","type":"Person","name":"Tony Byrne"}
+{"id":"person.jarrod-gingras","type":"Person","name":"Jarrod Gingras"}
+{"id":"person.laura-klein","type":"Person","name":"Laura Klein"}
+{"id":"person.michael-j-metts","type":"Person","name":"Michael J. Metts"}
+{"id":"person.andy-welfle","type":"Person","name":"Andy Welfle"}
+{"id":"person.nick-madden","type":"Person","name":"Nick Madden"}
+{"id":"person.steve-diller","type":"Person","name":"Steve Diller"}
+{"id":"person.nathan-shedroff","type":"Person","name":"Nathan Shedroff"}
+{"id":"person.sean-sauber","type":"Person","name":"Sean Sauber"}
+{"id":"person.theresa-regli","type":"Person","name":"Theresa Regli"}
+{"id":"person.nate-bolt","type":"Person","name":"Nate Bolt"}
+{"id":"person.tony-bolt","type":"Person","name":"Tony Bolt"}
+{"id":"person.lisa-welchman","type":"Person","name":"Lisa Welchman"}
+{"id":"person.stephen-p-anderson","type":"Person","name":"Stephen P. Anderson"}
+{"id":"person.karl-fast","type":"Person","name":"Karl Fast"}
+{"id":"person.steve-kenson","type":"Person","name":"Steve Kenson"}
+{"id":"person.david-petersen","type":"Person","name":"David Petersen"}
+{"id":"person.shane-hensley","type":"Person","name":"Shane Hensley"}
+{"id":"person.barry-saiff","type":"Person","name":"Barry Saiff"}
+{"id":"person.val-swisher","type":"Person","name":"Val Swisher"}
+{"id":"person.regina-lynn-preciado","type":"Person","name":"Regina Lynn Preciado"}
+{"id":"person.dan-mall","type":"Person","name":"Dan Mall"}
+{"id":"person.remy-sharp","type":"Person","name":"Remy Sharp"}
+{"id":"person.craig-hockenberry","type":"Person","name":"Craig Hockenberry"}
+{"id":"person.rachel-nabors","type":"Person","name":"Rachel Nabors"}
+{"id":"person.bram-stein","type":"Person","name":"Bram Stein"}
+{"id":"person.mat-wilto-marquis","type":"Person","name":"Mat “Wilto” Marquis"}
+{"id":"person.scott-kubie","type":"Person","name":"Scott Kubie"}
+{"id":"person.donna-spencer","type":"Person","name":"Donna Spencer"}
+{"id":"person.senongo-akpem","type":"Person","name":"Senongo Akpem"}
+{"id":"person.jason-garber","type":"Person","name":"Jason Garber"}
+{"id":"person.denis-wood","type":"Person","name":"Denis Wood"}
+{"id":"person.albert-mobilio","type":"Person","name":"Albert Mobilio"}
+{"id":"person.ander-monson","type":"Person","name":"Ander Monson"}
+{"id":"person.ira-glass","type":"Person","name":"Ira Glass"}
+{"id":"person.blake-butler","type":"Person","name":"Blake Butler"}
+{"id":"person.bruce-cook-monte-cordell","type":"Person","name":"Bruce Cook, Monte; Cordell"}
+{"id":"person.monte-cook","type":"Person","name":"Monte Cook"}
+{"id":"person.monte-author-cook","type":"Person","name":"Monte (Author) Cook"}
+{"id":"person.fred-scharmen","type":"Person","name":"Fred Scharmen"}
+{"id":"person.konami-kanata","type":"Person","name":"Konami Kanata"}
+{"id":"person.john-lewis-gaddis","type":"Person","name":"John Lewis Gaddis"}
+{"id":"person.kenneth-pomeranz","type":"Person","name":"Kenneth Pomeranz"}
+{"id":"person.jeremy-sabloff","type":"Person","name":"Jeremy A. Sabloff"}
+{"id":"person.paula-l-w-sabloff","type":"Person","name":"Paula L. W. Sabloff"}
+{"id":"person.hilliard-s-kaplan","type":"Person","name":"Hilliard S. Kaplan"}
+{"id":"person.timothy-kohler","type":"Person","name":"Timothy A. Kohler"}
+{"id":"person.scott-g-ortman","type":"Person","name":"Scott G. Ortman"}
+{"id":"person.peter-n-peregrine","type":"Person","name":"Peter N. Peregrine"}
+{"id":"person.eric-alden-smith","type":"Person","name":"Eric Alden Smith"}
+{"id":"person.henry-t-wright","type":"Person","name":"Henry T. Wright"}
+{"id":"person.lily-blair","type":"Person","name":"Lily Blair"}
+{"id":"person.r-kyle-bocinsky","type":"Person","name":"R. Kyle Bocinsky"}
+{"id":"person.david-c-krakauer","type":"Person","name":"David C. Krakauer"}
+{"id":"person.murray-gell-mann","type":"Person","name":"Murray Gell-Mann"}
+{"id":"person.kenneth-arrow","type":"Person","name":"Kenneth Arrow"}
+{"id":"person.w-brian-arthur","type":"Person","name":"W. Brian Arthur"}
+{"id":"person.john-h-holland","type":"Person","name":"John H. Holland"}
+{"id":"person.richard-lewontin","type":"Person","name":"Richard Lewontin"}
+{"id":"person.harold-morowitz","type":"Person","name":"Harold Morowitz"}
+{"id":"person.jessica-c-flack","type":"Person","name":"Jessica C. Flack"}
+{"id":"person.jennifer-dunne","type":"Person","name":"Jennifer Dunne"}
+{"id":"person.geoffrey-west","type":"Person","name":"Geoffrey West"}
+{"id":"person.andrew-hand","type":"Person","name":"Andrew Hand"}
+{"id":"person.monte-cook-games","type":"Person","name":"Monte Cook Games"}
+{"id":"person.tom-greenwood","type":"Person","name":"Tom Greenwood"}
+{"id":"person.david-dylan-thomas","type":"Person","name":"David Dylan Thomas"}
+{"id":"person.beth-dunn","type":"Person","name":"Beth Dunn"}
+{"id":"person.rebekah-baggs","type":"Person","name":"Rebekah Baggs"}
+{"id":"person.chris-corak","type":"Person","name":"Chris Corak"}
+{"id":"person.yesenia-perez-cruz","type":"Person","name":"Yesenia Perez-Cruz"}
+{"id":"person.eva-penzeymoog","type":"Person","name":"Eva Penzeymoog"}
+{"id":"person.jeremy-wagner","type":"Person","name":"Jeremy Wagner"}
+{"id":"person.katel-led","type":"Person","name":"Katel Ledû"}
+{"id":"person.sameera-kapila","type":"Person","name":"Sameera Kapila"}
+{"id":"person.rachel-mcconnell","type":"Person","name":"Rachel McConnell"}
+{"id":"person.lisa-maria-marquis","type":"Person","name":"Lisa Maria Marquis"}
+{"id":"person.jason-grigsby","type":"Person","name":"Jason Grigsby"}
+{"id":"person.tim-brown","type":"Person","name":"Tim Brown"}
+{"id":"person.yael-ben-david","type":"Person","name":"Yael Ben-David"}
+{"id":"person.laura-kalbag","type":"Person","name":"Laura Kalbag"}
+{"id":"person.dan-brown","type":"Person","name":"Dan Brown"}
+{"id":"person.mat-marquis","type":"Person","name":"Mat Marquis"}
+{"id":"person.chris-coyier","type":"Person","name":"Chris Coyier"}
+{"id":"person.eric-meyer","type":"Person","name":"Eric Meyer"}
+{"id":"person.mike-monteiro","type":"Person","name":"Mike Monteiro"}
+{"id":"person.jason-santa-maria","type":"Person","name":"Jason Santa Maria"}
+{"id":"person.erika-hall","type":"Person","name":"Erika Hall"}
+{"id":"person.karen-mcgrane","type":"Person","name":"Karen McGrane"}
+{"id":"person.luke-wroblewski","type":"Person","name":"Luke Wroblewski"}
+{"id":"person.aarron-walter","type":"Person","name":"Aarron Walter"}
+{"id":"person.erin-kissane","type":"Person","name":"Erin Kissane"}
+{"id":"person.jeremy-keith","type":"Person","name":"Jeremy Keith"}
+{"id":"person.michael-angeles","type":"Person","name":"Michael Angeles"}
+{"id":"person.leon-barnard","type":"Person","name":"Leon Barnard"}
+{"id":"person.billy-carlson","type":"Person","name":"Billy Carlson"}
+{"id":"person.elizabeth-mcguane","type":"Person","name":"Elizabeth McGuane"}
+{"id":"person.ethan-marcotte","type":"Person","name":"Ethan Marcotte"}
+{"id":"person.httpaladin","type":"Person","name":"HTTPaladin"}
+{"id":"person.kiersten-bell","type":"Person","name":"Kiersten Bell"}
+{"id":"person.lucia-versprille","type":"Person","name":"Lucia Versprille"}
+{"id":"person.corey-vilhauer","type":"Person","name":"Corey Vilhauer"}
+{"id":"person.deane-barker","type":"Person","name":"Deane Barker"}
+{"id":"person.sam-otis","type":"Person","name":"Sam Otis"}
+{"id":"person.carlos-evia","type":"Person","name":"Carlos Evia"}
+{"id":"person.steve-portigal","type":"Person","name":"Steve Portigal"}
+{"id":"person.jamika-d-burge-phd","type":"Person","name":"Jamika D. Burge PhD"}
+{"id":"person.jason-cordova","type":"Person","name":"Jason Cordova"}
+{"id":"person.simon-st-lenhag","type":"Person","name":"Simon Stålenhag"}
+{"id":"person.keith-ammann","type":"Person","name":"Keith Ammann"}
+{"id":"person.maureen-johnson","type":"Person","name":"Maureen Johnson"}
+{"id":"person.jay-cooper","type":"Person","name":"Jay Cooper"}
+{"id":"person.timothy-snyder","type":"Person","name":"Timothy Snyder"}
+{"id":"person.nora-krug","type":"Person","name":"Nora Krug"}
+{"id":"person.taylor-kay-phillips","type":"Person","name":"Taylor Kay Phillips"}
+{"id":"person.matthew-christopher","type":"Person","name":"Matthew Christopher"}
+{"id":"person.james-howard-kunstler","type":"Person","name":"James Howard Kunstler"}
+{"id":"person.theo-deutinger","type":"Person","name":"Theo Deutinger"}
+{"id":"person.lars-m-ller","type":"Person","name":"Lars Müller"}
+{"id":"person.karl-gerstner","type":"Person","name":"Karl Gerstner"}
+{"id":"person.josef-m-ller-brockmann","type":"Person","name":"Josef Müller-Brockmann"}
+{"id":"person.alla-kholmatova","type":"Person","name":"Alla Kholmatova"}
+{"id":"person.jennifer-george","type":"Person","name":"Jennifer George"}
+{"id":"person.rube-goldberg","type":"Person","name":"Rube Goldberg"}
+{"id":"person.geoff-spear","type":"Person","name":"Geoff Spear"}
+{"id":"person.adam-gopnik","type":"Person","name":"Adam Gopnik"}
+{"id":"person.al-jaffee","type":"Person","name":"Al Jaffee"}
+{"id":"person.carl-linich","type":"Person","name":"Carl Linich"}
+{"id":"person.peter-maresca","type":"Person","name":"Peter Maresca"}
+{"id":"person.paul-tumey","type":"Person","name":"Paul Tumey"}
+{"id":"person.brian-walker","type":"Person","name":"Brian Walker"}
+{"id":"person.alex-wiltshire","type":"Person","name":"Alex Wiltshire"}
+{"id":"person.john-short","type":"Person","name":"John Short"}
+{"id":"person.william-lidwell","type":"Person","name":"William Lidwell"}
+{"id":"person.sam-killermann","type":"Person","name":"Sam Killermann"}
+{"id":"person.meg-bolger","type":"Person","name":"Meg Bolger"}
+{"id":"person.carol-emshwiller","type":"Person","name":"Carol Emshwiller"}
+{"id":"person.elizabeth-hand","type":"Person","name":"Elizabeth Hand"}
+{"id":"person.paul-park","type":"Person","name":"Paul Park"}
+{"id":"person.gene-wolfe","type":"Person","name":"Gene Wolfe"}
+{"id":"person.paulo-freire","type":"Person","name":"Paulo Freire"}
+{"id":"person.donaldo-macedo","type":"Person","name":"Donaldo Macedo"}
+{"id":"person.myra-bergman-ramos","type":"Person","name":"Myra Bergman Ramos"}
+{"id":"person.mikael-krogerus","type":"Person","name":"Mikael Krogerus"}
+{"id":"person.roman-tsch-ppeler","type":"Person","name":"Roman Tschäppeler"}
+{"id":"person.philip-earnhart","type":"Person","name":"Philip Earnhart"}
+{"id":"person.jenny-piening","type":"Person","name":"Jenny Piening"}
+{"id":"person.david-mitchell","type":"Person","name":"David Mitchell"}
+{"id":"person.rainer-maria-rilke","type":"Person","name":"Rainer Maria Rilke"}
+{"id":"person.walter-arndt","type":"Person","name":"Walter Arndt"}
+{"id":"person.cyrus-hamlin","type":"Person","name":"Cyrus Hamlin"}
+{"id":"person.richard-cytowic","type":"Person","name":"Richard Cytowic"}
+{"id":"person.chris-sims","type":"Person","name":"Chris Sims"}
+{"id":"person.hillary-louise-johnson","type":"Person","name":"Hillary Louise Johnson"}
+{"id":"person.yuval-noah-harari","type":"Person","name":"Yuval Noah Harari"}
+{"id":"person.thomas-l-friedman","type":"Person","name":"Thomas L. Friedman"}
+{"id":"person.james-emery-white","type":"Person","name":"James Emery White"}
+{"id":"person.jer-thorp","type":"Person","name":"Jer Thorp"}
+{"id":"person.simon-strantzas","type":"Person","name":"Simon Strantzas"}
+{"id":"person.gino-wickman","type":"Person","name":"Gino Wickman"}
+{"id":"person.chris-keeney","type":"Person","name":"Chris Keeney"}
+{"id":"person.mary-ellen-ashcroft","type":"Person","name":"Mary Ellen Ashcroft"}
+{"id":"person.david-de-rousseau","type":"Person","name":"David De Rousseau"}
+{"id":"person.peter-kropotkin","type":"Person","name":"Peter Kropotkin"}
+{"id":"person.potter-gift","type":"Person","name":"Potter Gift"}
+{"id":"person.damico","type":"Person","name":"A. D'Amico"}
+{"id":"person.amy-einsohn","type":"Person","name":"Amy Einsohn"}
+{"id":"person.jonathan-schwabish","type":"Person","name":"Jonathan Schwabish"}
+{"id":"person.paul-smith","type":"Person","name":"Paul Smith"}
+{"id":"person.hp-newquist","type":"Person","name":"HP Newquist"}
+{"id":"person.rich-maloof","type":"Person","name":"Rich Maloof"}
+{"id":"person.jim-shinnick","type":"Person","name":"Jim Shinnick"}
+{"id":"person.bill-mcguinness","type":"Person","name":"Bill McGuinness"}
+{"id":"person.peter-m-fitzpatrick-md","type":"Person","name":"Peter M. Fitzpatrick MD"}
+{"id":"person.michael-flocker","type":"Person","name":"Michael Flocker"}
+{"id":"person.michael-del-vecchio","type":"Person","name":"Michael Del Vecchio"}
+{"id":"person.henry-petroski","type":"Person","name":"Henry Petroski"}
+{"id":"person.matthew-avery-sutton","type":"Person","name":"Matthew Avery Sutton"}
+{"id":"person.randall-balmer","type":"Person","name":"Randall Balmer"}
+{"id":"person.stross-charles","type":"Person","name":"Stross Charles"}
+{"id":"person.dan-jurafsky","type":"Person","name":"Dan Jurafsky"}
+{"id":"person.matthew-g-kirschenbaum","type":"Person","name":"Matthew G. Kirschenbaum"}
+{"id":"person.janice-kim","type":"Person","name":"Janice Kim"}
+{"id":"person.jeong-soo-hyun","type":"Person","name":"Jeong Soo-Hyun"}
+{"id":"person.lee","type":"Person","name":"a lee"}
+{"id":"person.marie-yovanovitch","type":"Person","name":"Marie Yovanovitch"}
+{"id":"person.rob-fitzpatrick","type":"Person","name":"Rob Fitzpatrick"}
+{"id":"person.adam-rosen","type":"Person","name":"Adam Rosen"}
+{"id":"person.matthew-gabriele","type":"Person","name":"Matthew Gabriele"}
+{"id":"person.david-m-perry","type":"Person","name":"David M. Perry"}
+{"id":"person.graham-harman","type":"Person","name":"Graham Harman"}
+{"id":"person.albert-homer-cook","type":"Person","name":"Albert Homer; Cook"}
+{"id":"person.david-liss","type":"Person","name":"David Liss"}
+{"id":"person.richard-powers","type":"Person","name":"Richard Powers"}
+{"id":"person.pete-hamill","type":"Person","name":"Pete Hamill"}
+{"id":"person.kelley-eskridge","type":"Person","name":"Kelley Eskridge"}
+{"id":"person.richard-k-morgan","type":"Person","name":"Richard K. Morgan"}
+{"id":"person.susan-hubbard","type":"Person","name":"Susan Hubbard"}
+{"id":"person.mary-doria-russell","type":"Person","name":"Mary Doria Russell"}
+{"id":"person.michael-rubens","type":"Person","name":"Michael Rubens"}
+{"id":"person.erin-morgenstern","type":"Person","name":"Erin Morgenstern"}
+{"id":"person.colson-whitehead","type":"Person","name":"Colson Whitehead"}
+{"id":"person.g-willow-wilson","type":"Person","name":"G. Willow Wilson"}
+{"id":"person.max-barry","type":"Person","name":"Max Barry"}
+{"id":"person.andy-weir","type":"Person","name":"Andy Weir"}
+{"id":"person.karl-taro-greenfeld","type":"Person","name":"Karl Taro Greenfeld"}
+{"id":"person.scott-hawkins","type":"Person","name":"Scott Hawkins"}
+{"id":"person.robert-brockway","type":"Person","name":"Robert Brockway"}
+{"id":"person.ted-kosmatka","type":"Person","name":"Ted Kosmatka"}
+{"id":"person.v-e-schwab","type":"Person","name":"V. E. Schwab"}
+{"id":"person.han-kang","type":"Person","name":"Han Kang"}
+{"id":"person.daniel-omalley","type":"Person","name":"Daniel O'Malley"}
+{"id":"person.indra-das","type":"Person","name":"Indra Das"}
+{"id":"person.blake-crouch","type":"Person","name":"Blake Crouch"}
+{"id":"person.robert-jackson-bennett","type":"Person","name":"Robert Jackson Bennett"}
+{"id":"person.patricia-lockwood","type":"Person","name":"Patricia Lockwood"}
+{"id":"person.tamara-shopsin","type":"Person","name":"Tamara Shopsin"}
+{"id":"person.ray-nayler","type":"Person","name":"Ray Nayler"}
+{"id":"person.gene-kim","type":"Person","name":"Gene Kim"}
+{"id":"person.kevin-behr","type":"Person","name":"Kevin Behr"}
+{"id":"person.george-spafford","type":"Person","name":"George Spafford"}
+{"id":"person.melissa-f-olson","type":"Person","name":"Melissa F. Olson"}
+{"id":"person.ayad-akhtar","type":"Person","name":"Ayad Akhtar"}
+{"id":"person.sunny-moraine","type":"Person","name":"Sunny Moraine"}
+{"id":"person.sofia-samatar","type":"Person","name":"Sofia Samatar"}
+{"id":"person.sandra-mcdonald","type":"Person","name":"Sandra McDonald"}
+{"id":"person.fabio-fernandes","type":"Person","name":"Fabio Fernandes"}
+{"id":"person.djibril-al-ayad","type":"Person","name":"Djibril al-Ayad"}
+{"id":"person.kathy-baxter","type":"Person","name":"Kathy Baxter"}
+{"id":"person.catherine-courage","type":"Person","name":"Catherine Courage"}
+{"id":"person.kelly-caine","type":"Person","name":"Kelly Caine"}
+{"id":"person.kevin-driscoll","type":"Person","name":"Kevin Driscoll"}
+{"id":"person.edwin-abbott","type":"Person","name":"Edwin A. Abbott"}
+{"id":"person.leonie-swann","type":"Person","name":"Leonie Swann"}
+{"id":"person.anthea-bell","type":"Person","name":"Anthea Bell"}
+{"id":"person.joseph-mazur","type":"Person","name":"Joseph Mazur"}
+{"id":"person.daniel-orozco","type":"Person","name":"Daniel Orozco"}
+{"id":"person.ruth-c-clark","type":"Person","name":"Ruth C. Clark"}
+{"id":"person.art-spiegelman","type":"Person","name":"Art Spiegelman"}
+{"id":"person.tom-clancy","type":"Person","name":"Tom Clancy"}
+{"id":"person.matt-taibbi","type":"Person","name":"Matt Taibbi"}
+{"id":"person.constella-espj","type":"Person","name":"Constella Espj"}
+{"id":"person.eileen-gunn","type":"Person","name":"Eileen Gunn"}
+{"id":"person.harry-turtledove","type":"Person","name":"Harry Turtledove"}
+{"id":"person.damien-broderick","type":"Person","name":"Damien Broderick"}
+{"id":"person.leigh-bardugo","type":"Person","name":"Leigh Bardugo"}
+{"id":"person.ann-aguirre","type":"Person","name":"Ann Aguirre"}
+{"id":"person.kali-wallace","type":"Person","name":"Kali Wallace"}
+{"id":"person.genevieve-valentine","type":"Person","name":"Genevieve Valentine"}
+{"id":"person.gregory-benford","type":"Person","name":"Gregory Benford"}
+{"id":"person.priya-sharma","type":"Person","name":"Priya Sharma"}
+{"id":"person.cecil-castellucci","type":"Person","name":"Cecil Castellucci"}
+{"id":"person.anna-banks","type":"Person","name":"Anna Banks"}
+{"id":"person.marissa-lingen","type":"Person","name":"Marissa Lingen"}
+{"id":"person.tina-connolly","type":"Person","name":"Tina Connolly"}
+{"id":"person.dennis-danvers","type":"Person","name":"Dennis Danvers"}
+{"id":"person.brian-evenson","type":"Person","name":"Brian Evenson"}
+{"id":"person.miles-harvey","type":"Person","name":"Miles Harvey"}
+{"id":"person.ann-rockley","type":"Person","name":"Ann Rockley"}
+{"id":"person.charles-cooper","type":"Person","name":"Charles Cooper"}
+{"id":"person.james-pannafino","type":"Person","name":"James Pannafino"}
+{"id":"person.benjamin-noys","type":"Person","name":"Benjamin Noys"}
+{"id":"person.al-sarrantonio","type":"Person","name":"Al Sarrantonio"}
+{"id":"person.claudia-rankine","type":"Person","name":"Claudia Rankine"}
+{"id":"person.david-g-hartwell","type":"Person","name":"David G. Hartwell"}
+{"id":"person.kathryn-cramer","type":"Person","name":"Kathryn Cramer"}
+{"id":"person.alison-wilgus","type":"Person","name":"Alison Wilgus"}
+{"id":"person.meg-belviso","type":"Person","name":"Meg Belviso"}
+{"id":"person.miriam-oudin","type":"Person","name":"Miriam Oudin"}
+{"id":"person.jenifer-k-leigh","type":"Person","name":"Jenifer K. Leigh"}
+{"id":"person.meredith-mckenzie","type":"Person","name":"Meredith McKenzie"}
+{"id":"person.john-leavitt","type":"Person","name":"John Leavitt"}
+{"id":"person.laura-blackwell","type":"Person","name":"Laura Blackwell"}
+{"id":"person.paul-tuttle-starr","type":"Person","name":"Paul Tuttle Starr"}
+{"id":"person.tim-waggoner","type":"Person","name":"Tim Waggoner"}
+{"id":"person.william-f-nolan","type":"Person","name":"William F. Nolan"}
+{"id":"person.benjamin-kane-ethridge","type":"Person","name":"Benjamin Kane Ethridge"}
+{"id":"person.jason-v-brock","type":"Person","name":"Jason V Brock"}
+{"id":"person.james-s-dorr","type":"Person","name":"James S. Dorr"}
+{"id":"person.jonathan-templar","type":"Person","name":"Jonathan Templar"}
+{"id":"person.robert-s-wilson","type":"Person","name":"Robert S. Wilson"}
+{"id":"person.l-sprague-sprague-de-camp","type":"Person","name":"L. Sprague Sprague De Camp"}
+{"id":"person.paul-dourish","type":"Person","name":"Paul Dourish"}
+{"id":"person.douglas-r-hofstadter","type":"Person","name":"Douglas R Hofstadter"}
+{"id":"person.robert-m-pirsig","type":"Person","name":"Robert M. Pirsig"}
+{"id":"person.daniel-hunter","type":"Person","name":"Daniel Hunter"}
+{"id":"person.kitty-kelley","type":"Person","name":"Kitty Kelley"}
+{"id":"person.benjamin-dreyer","type":"Person","name":"Benjamin Dreyer"}
+{"id":"person.david-diringer","type":"Person","name":"David Diringer"}
+{"id":"person.barbara-f-walter","type":"Person","name":"Barbara F. Walter"}
+{"id":"person.beverly-daniel-tatum","type":"Person","name":"Beverly Daniel Tatum"}
+{"id":"person.daniel-h-wilson","type":"Person","name":"Daniel H. Wilson"}
+{"id":"person.michael-j-sullivan","type":"Person","name":"Michael J. Sullivan"}
+{"id":"person.jason-gurley","type":"Person","name":"Jason Gurley"}
+{"id":"person.bradley-beaulieu","type":"Person","name":"Bradley Beaulieu"}
+{"id":"person.lawrence-lessig","type":"Person","name":"Lawrence Lessig"}
+{"id":"person.karen-russell","type":"Person","name":"Karen Russell"}
+{"id":"person.vandana-singh","type":"Person","name":"Vandana Singh"}
+{"id":"person.michel-foucault","type":"Person","name":"Michel Foucault"}
+{"id":"person.sharan-newman","type":"Person","name":"Sharan Newman"}
+{"id":"person.m-d-bolen-jean-shinoda","type":"Person","name":"M.D. Bolen, Jean Shinoda"}
+{"id":"person.bob-sorge","type":"Person","name":"Bob Sorge"}
+{"id":"person.connie-willis","type":"Person","name":"Connie Willis"}
+{"id":"person.cynthia-montgomery","type":"Person","name":"Cynthia Montgomery"}
+{"id":"person.c-rose","type":"Person","name":"C. Rose"}
+{"id":"person.michael-lopp","type":"Person","name":"Michael Lopp"}
+{"id":"person.k-eason","type":"Person","name":"K. Eason"}
+{"id":"person.sergei-lukyanenko","type":"Person","name":"Sergei Lukyanenko"}
+{"id":"person.daniel-vaca","type":"Person","name":"Daniel Vaca"}
+{"id":"person.ayelet-even-ezra","type":"Person","name":"Ayelet Even-Ezra"}
+{"id":"person.lara-hogan","type":"Person","name":"Lara Hogan"}
+{"id":"person.norman-j-w-thrower","type":"Person","name":"Norman J. W. Thrower"}
+{"id":"person.francesco-franchi","type":"Person","name":"Francesco Franchi"}
+{"id":"person.geoffrey-c-bowker","type":"Person","name":"Geoffrey C. Bowker"}
+{"id":"person.susan-leigh-star","type":"Person","name":"Susan Leigh Star"}
+{"id":"person.gail-simone","type":"Person","name":"Gail Simone"}
+{"id":"person.walter-geovani","type":"Person","name":"Walter Geovani"}
+{"id":"person.sanya-anwar","type":"Person","name":"Sanya Anwar"}
+{"id":"person.leena-krohn","type":"Person","name":"Leena Krohn"}
+{"id":"person.joe-gillard","type":"Person","name":"Joe Gillard"}
+{"id":"person.patti-sanchez","type":"Person","name":"Patti Sanchez"}
+{"id":"person.todd-rogers","type":"Person","name":"Todd Rogers"}
+{"id":"person.jessica-lasky-fink","type":"Person","name":"Jessica Lasky-Fink"}
+{"id":"person.franky-schaeffer","type":"Person","name":"Franky Schaeffer"}
+{"id":"person.kurt-mitchell","type":"Person","name":"Kurt Mitchell"}
+{"id":"person.sarah-t-roberts","type":"Person","name":"Sarah T. Roberts"}
+{"id":"person.john-sundstrom","type":"Person","name":"John Sundstrom"}
+{"id":"person.profusely-illustrated","type":"Person","name":"Profusely illustrated"}
+{"id":"person.stan","type":"Person","name":"Stan!"}
+{"id":"person.bill-slavicsek","type":"Person","name":"Bill Slavicsek"}
+{"id":"person.jeff-grubb","type":"Person","name":"Jeff Grubb"}
+{"id":"person.rich-redman","type":"Person","name":"Rich Redman"}
+{"id":"person.preston-so","type":"Person","name":"Preston So"}
+{"id":"person.kees-dorst","type":"Person","name":"Kees Dorst"}
+{"id":"person.terence-parr","type":"Person","name":"Terence Parr"}
+{"id":"person.harold-innis","type":"Person","name":"Harold A. Innis"}
+{"id":"person.staff-humanoid-games","type":"Person","name":"Staff of Humanoid Games"}
+{"id":"person.dennis-detwiller","type":"Person","name":"Dennis Detwiller"}
+{"id":"person.paul-buckley","type":"Person","name":"Paul Buckley"}
+{"id":"person.chris-ware","type":"Person","name":"Chris Ware"}
+{"id":"person.john-m-carroll","type":"Person","name":"John M. Carroll"}
+{"id":"person.stephen-few","type":"Person","name":"Stephen Few"}
+{"id":"person.ian-wilson","type":"Person","name":"Ian Wilson"}
+{"id":"person.bill-ralston","type":"Person","name":"Bill Ralston"}
+{"id":"person.dan-m-brown","type":"Person","name":"Dan M. Brown"}
+{"id":"person.liz-danzico","type":"Person","name":"Liz Danzico"}
+{"id":"person.jason-m-hough","type":"Person","name":"Jason M. Hough"}
+{"id":"person.jason-rosenhouse","type":"Person","name":"Jason Rosenhouse"}
+{"id":"person.brent-curtis","type":"Person","name":"Brent Curtis"}
+{"id":"person.john-eldredge","type":"Person","name":"John Eldredge"}
+{"id":"person.erich-gamma","type":"Person","name":"Erich Gamma"}
+{"id":"person.richard-helm","type":"Person","name":"Richard Helm"}
+{"id":"person.ralph-johnson","type":"Person","name":"Ralph Johnson"}
+{"id":"person.john-vlissides","type":"Person","name":"John Vlissides"}
+{"id":"person.grady-booch","type":"Person","name":"Grady Booch"}
+{"id":"person.edward-hutchings","type":"Person","name":"Edward Hutchings"}
+{"id":"person.albert-r-hibbs","type":"Person","name":"Albert R. Hibbs"}
+{"id":"person.meghan-ogieblyn","type":"Person","name":"Meghan O'Gieblyn"}
+{"id":"person.j-b-harley","type":"Person","name":"J. B. Harley"}
+{"id":"person.paul-laxton","type":"Person","name":"Paul Laxton"}
+{"id":"person.j-h-andrews","type":"Person","name":"J. H. Andrews"}
+{"id":"person.elizabeth-sandifer","type":"Person","name":"Elizabeth Sandifer"}
+{"id":"person.alastair-mcewen","type":"Person","name":"Alastair McEwen"}
+{"id":"person.frederick-p-brooks-jr","type":"Person","name":"Frederick P. Brooks Jr."}
+{"id":"person.alan-weiss","type":"Person","name":"Alan Weiss"}
+{"id":"person.ann-vandermeer","type":"Person","name":"Ann VanderMeer"}
+{"id":"person.mark-ovenden","type":"Person","name":"Mark Ovenden"}
+{"id":"person.matthew-l-harris","type":"Person","name":"Matthew L Harris"}
+{"id":"person.gary-j-bergera","type":"Person","name":"Gary J. Bergera"}
+{"id":"person.matthew-bowman","type":"Person","name":"Matthew Bowman"}
+{"id":"person.newell-g-bringhurst","type":"Person","name":"Newell G. Bringhurst"}
+{"id":"person.brian-q-cannon","type":"Person","name":"Brian Q. Cannon"}
+{"id":"person.robert-goldberg","type":"Person","name":"Robert A Goldberg"}
+{"id":"person.j-b-haws","type":"Person","name":"J B Haws"}
+{"id":"person.andrea-g-radke-moss","type":"Person","name":"Andrea G Radke-Moss"}
+{"id":"person.editors-popular-science","type":"Person","name":"The Editors of Popular Science"}
+{"id":"person.vanessa-gennarelli","type":"Person","name":"Vanessa Gennarelli"}
+{"id":"person.james-r-akerman","type":"Person","name":"James R. Akerman"}
+{"id":"person.robert-w-karrow-jr","type":"Person","name":"Robert W. Karrow Jr."}
+{"id":"person.john-mccarter","type":"Person","name":"John McCarter"}
+{"id":"person.chris-stedman","type":"Person","name":"Chris Stedman"}
+{"id":"person.joel-grus","type":"Person","name":"Joel Grus"}
+{"id":"person.aaw-games","type":"Person","name":"AAW Games"}
+{"id":"person.patrick-hoverstadt","type":"Person","name":"Patrick Hoverstadt"}
+{"id":"person.edward-hollis","type":"Person","name":"Edward Hollis"}
+{"id":"person.daniel-gu-rin","type":"Person","name":"Daniel Guérin"}
+{"id":"person.mary-klopper","type":"Person","name":"Mary Klopper"}
+{"id":"person.noam-chomsky","type":"Person","name":"Noam Chomsky"}
+{"id":"person.richard-p-feynman","type":"Person","name":"Richard P. Feynman"}
+{"id":"person.ralph-leighton","type":"Person","name":"Ralph Leighton"}
+{"id":"person.paco-de-leon","type":"Person","name":"Paco de Leon"}
+{"id":"person.jessica-farrell","type":"Person","name":"Jessica Farrell"}
+{"id":"person.nate-dias","type":"Person","name":"Nate Dias"}
+{"id":"person.hannah-dolan","type":"Person","name":"Hannah Dolan"}
+{"id":"person.jeremy-keller","type":"Person","name":"Jeremy Keller"}
+{"id":"person.john-holzmann","type":"Person","name":"John Holzmann"}
+{"id":"person.eugene-thacker","type":"Person","name":"Eugene Thacker"}
+{"id":"person.torie-bosch","type":"Person","name":"Torie Bosch"}
+{"id":"person.kelly-chudler","type":"Person","name":"Kelly Chudler"}
+{"id":"person.ellen-ullman","type":"Person","name":"Ellen Ullman"}
+{"id":"person.joanne-mcneil","type":"Person","name":"Joanne McNeil"}
+{"id":"person.dennis-yi-tenen","type":"Person","name":"Dennis Yi Tenen"}
+{"id":"person.kevin-kruse","type":"Person","name":"Kevin Kruse"}
+{"id":"person.corrina-laughlin","type":"Person","name":"Corrina Laughlin"}
+{"id":"person.david-c-baker","type":"Person","name":"David C. Baker"}
+{"id":"person.david-clark","type":"Person","name":"David Clark"}
+{"id":"person.amy-chua","type":"Person","name":"Amy Chua"}
+{"id":"person.l-michael-white","type":"Person","name":"L. Michael White"}
+{"id":"person.zo-quinn","type":"Person","name":"Zoë Quinn"}
+{"id":"person.marc-levinson","type":"Person","name":"Marc Levinson"}
+{"id":"person.virginia-eubanks","type":"Person","name":"Virginia Eubanks"}
+{"id":"person.frank-schaeffer","type":"Person","name":"Frank Schaeffer"}
+{"id":"person.william-lobdell","type":"Person","name":"William Lobdell"}
+{"id":"person.naomi-wolf","type":"Person","name":"Naomi Wolf"}
+{"id":"person.jonathan-gottschall","type":"Person","name":"Jonathan Gottschall"}
+{"id":"person.byron-tau","type":"Person","name":"Byron Tau"}
+{"id":"person.nicco-mele","type":"Person","name":"Nicco Mele"}
+{"id":"person.jonathan-metzl","type":"Person","name":"Jonathan Metzl"}
+{"id":"person.gregory-boyd","type":"Person","name":"Gregory A. Boyd"}
+{"id":"person.ted-c-fishman","type":"Person","name":"Ted C. Fishman"}
+{"id":"person.anastacia-marx-de-salcedo","type":"Person","name":"Anastacia Marx de Salcedo"}
+{"id":"person.michael-silverman","type":"Person","name":"Michael Silverman"}
+{"id":"person.andrea-phillips","type":"Person","name":"Andrea Phillips"}
+{"id":"person.sherry-seethaler","type":"Person","name":"Sherry Seethaler"}
+{"id":"person.david-frum","type":"Person","name":"David Frum"}
+{"id":"person.richard-perle","type":"Person","name":"Richard Perle"}
+{"id":"person.marcia-riefer-johnston","type":"Person","name":"Marcia Riefer Johnston"}
+{"id":"person.scott-abel","type":"Person","name":"Scott Abel"}
+{"id":"person.brooks-landon","type":"Person","name":"Brooks Landon"}
+{"id":"person.kristin-kobes-du-mez","type":"Person","name":"Kristin Kobes Du Mez"}
+{"id":"person.victor-papanek","type":"Person","name":"Victor Papanek"}
+{"id":"person.kate-esme-unver","type":"Person","name":"Kate Esme Unver"}
+{"id":"person.julie-j-ingersoll","type":"Person","name":"Julie J. Ingersoll"}
+{"id":"person.alicia-juarrero","type":"Person","name":"Alicia Juarrero"}
+{"id":"person.david-k-shipler","type":"Person","name":"David K. Shipler"}
+{"id":"person.rebecca-romney","type":"Person","name":"Rebecca Romney"}
+{"id":"person.j-p-romney","type":"Person","name":"J. P. Romney"}
+{"id":"person.soren-kierkegaard","type":"Person","name":"Soren Kierkegaard"}
+{"id":"person.julia-momos","type":"Person","name":"Julia Momosé"}
+{"id":"person.emma-janzen","type":"Person","name":"Emma Janzen"}
+{"id":"person.jordan-mechner","type":"Person","name":"Jordan Mechner"}
+{"id":"person.stefan-ulstein","type":"Person","name":"Stefan Ulstein"}
+{"id":"person.patricia-hill-collins","type":"Person","name":"Patricia Hill Collins"}
+{"id":"person.gregory-j-downey","type":"Person","name":"Gregory J. Downey"}
+{"id":"person.jack-modzelewski","type":"Person","name":"Jack Modzelewski"}
+{"id":"person.diamond-comic-distributors-inc","type":"Person","name":"Diamond Comic Distributors Inc."}
+{"id":"person.geoffrey-engelstein","type":"Person","name":"Geoffrey Engelstein"}
+{"id":"person.alford-young","type":"Person","name":"Alford A. Young"}
+{"id":"person.zac-bissonnette","type":"Person","name":"Zac Bissonnette"}
+{"id":"person.anne-nelson","type":"Person","name":"Anne Nelson"}
+{"id":"person.meghan-casey","type":"Person","name":"Meghan Casey"}
+{"id":"person.michael-huth","type":"Person","name":"Michael Huth"}
+{"id":"person.mark-ryan","type":"Person","name":"Mark Ryan"}
+{"id":"person.heather-haveman","type":"Person","name":"Heather A. Haveman"}
+{"id":"person.mark-c-taylor","type":"Person","name":"Mark C. Taylor"}
+{"id":"person.ursula-vernon","type":"Person","name":"Ursula Vernon"}
+{"id":"person.david-steffen","type":"Person","name":"David Steffen"}
+{"id":"person.saladin-ahmed","type":"Person","name":"Saladin Ahmed"}
+{"id":"person.gemma-files","type":"Person","name":"Gemma Files"}
+{"id":"person.kelly-barnhill","type":"Person","name":"Kelly Barnhill"}
+{"id":"person.claude-lalumi-re","type":"Person","name":"Claude Lalumière"}
+{"id":"person.talia-lavin","type":"Person","name":"Talia Lavin"}
+{"id":"person.michael-wolff","type":"Person","name":"Michael Wolff"}
+{"id":"person.atsuhiro-okada","type":"Person","name":"Atsuhiro Okada"}
+{"id":"person.andy-kitkowski","type":"Person","name":"Andy Kitkowski"}
+{"id":"person.matt-sanchez","type":"Person","name":"Matt Sanchez"}
+{"id":"person.timothy-ware","type":"Person","name":"Timothy Ware"}
+{"id":"person.brad-jersak","type":"Person","name":"Brad Jersak"}
+{"id":"person.michael-hardin","type":"Person","name":"Michael Hardin"}
+{"id":"person.mikki-kendall","type":"Person","name":"Mikki Kendall"}
+{"id":"person.jason-fried","type":"Person","name":"Jason Fried"}
+{"id":"person.david-heinemeier-hansson","type":"Person","name":"David Heinemeier Hansson"}
+{"id":"person.eric-prum","type":"Person","name":"Eric Prum"}
+{"id":"person.josh-williams","type":"Person","name":"Josh Williams"}
+{"id":"person.gillian-thomas","type":"Person","name":"Gillian Thomas"}
+{"id":"person.masaji-ishikawa","type":"Person","name":"Masaji Ishikawa"}
+{"id":"person.risa-kobayashi","type":"Person","name":"Risa Kobayashi"}
+{"id":"person.martin-brown","type":"Person","name":"Martin Brown"}
+{"id":"person.r-f-kuang","type":"Person","name":"R. F. Kuang"}
+{"id":"person.geoff-ryman","type":"Person","name":"Geoff Ryman"}
+{"id":"person.tobias-s-buckell","type":"Person","name":"Tobias S. Buckell"}
+{"id":"person.kathleen-alcala","type":"Person","name":"Kathleen Alcala"}
+{"id":"person.minsoo-kang","type":"Person","name":"Minsoo Kang"}
+{"id":"person.steven-barnes","type":"Person","name":"Steven Barnes"}
+{"id":"person.darcie-little-badger","type":"Person","name":"Darcie Little Badger"}
+{"id":"person.levar-burton","type":"Person","name":"LeVar Burton"}
+{"id":"person.kenneth-tanner","type":"Person","name":"Kenneth Tanner"}
+{"id":"person.christopher-hall","type":"Person","name":"Christopher A. Hall"}
+{"id":"person.bell-hooks","type":"Person","name":"bell hooks"}
+{"id":"person.alex-wright","type":"Person","name":"Alex Wright"}
+{"id":"person.timothy-morton","type":"Person","name":"Timothy Morton"}
+{"id":"person.carrie-hane","type":"Person","name":"Carrie Hane"}
+{"id":"person.mike-atherton","type":"Person","name":"Mike Atherton"}
+{"id":"person.dante-alighieri","type":"Person","name":"Dante Alighieri"}
+{"id":"person.barbara-reynolds","type":"Person","name":"Barbara Reynolds"}
+{"id":"person.emma-acker","type":"Person","name":"Emma Acker"}
+{"id":"person.sue-canterbury","type":"Person","name":"Sue Canterbury"}
+{"id":"person.adrian-daub","type":"Person","name":"Adrian Daub"}
+{"id":"person.lauren-palmor","type":"Person","name":"Lauren Palmor"}
+{"id":"person.mark-waid","type":"Person","name":"Mark Waid"}
+{"id":"person.peter-krause","type":"Person","name":"Peter Krause"}
+{"id":"person.christian-crumlish","type":"Person","name":"Christian Crumlish"}
+{"id":"person.erin-malone","type":"Person","name":"Erin Malone"}
+{"id":"person.greg-geracie","type":"Person","name":"Greg Geracie"}
+{"id":"person.steven-d-eppinger","type":"Person","name":"Steven D. Eppinger"}
+{"id":"person.paul-boyer","type":"Person","name":"Paul Boyer"}
+{"id":"person.bruce-schneier","type":"Person","name":"Bruce Schneier"}
+{"id":"person.weston-la-barre","type":"Person","name":"Weston La Barre"}
+{"id":"person.eve-l-ewing","type":"Person","name":"Eve L. Ewing"}
+{"id":"person.margot-bloomstein","type":"Person","name":"Margot Bloomstein"}
+{"id":"person.william-j-brown","type":"Person","name":"William J. Brown"}
+{"id":"person.raphael-c-malveau","type":"Person","name":"Raphael C. Malveau"}
+{"id":"person.hays-w-skip-mccormick","type":"Person","name":"Hays W. \"Skip\" McCormick"}
+{"id":"person.thomas-j-mowbray","type":"Person","name":"Thomas J. Mowbray"}
+{"id":"person.laura-shapiro","type":"Person","name":"Laura Shapiro"}
+{"id":"person.kevin-p-phillips","type":"Person","name":"Kevin P Phillips"}
+{"id":"person.michael-translated-von-daniken-erich-heron","type":"Person","name":"Michael (translated by) Von Daniken, Erich. , Heron"}
+{"id":"person.mark-baker","type":"Person","name":"Mark Baker"}
+{"id":"person.s-partridge","type":"Person","name":"S.A. Partridge"}
+{"id":"person.chinelo-onwualu","type":"Person","name":"Chinelo Onwualu"}
+{"id":"person.cristy-zinn","type":"Person","name":"Cristy Zinn"}
+{"id":"person.ashley-jacobs","type":"Person","name":"Ashley Jacobs"}
+{"id":"person.sarah-lotz","type":"Person","name":"Sarah Lotz"}
+{"id":"person.tendai-huchu","type":"Person","name":"Tendai Huchu"}
+{"id":"person.walidah-imarisha","type":"Person","name":"Walidah Imarisha"}
+{"id":"person.adrienne-maree-brown","type":"Person","name":"adrienne maree brown"}
+{"id":"person.sheree-renee-thomas","type":"Person","name":"Sheree Renee Thomas"}
+{"id":"person.clifford-stoll","type":"Person","name":"Clifford Stoll"}
+{"id":"person.randall-munroe","type":"Person","name":"Randall Munroe"}
+{"id":"person.ben-bova","type":"Person","name":"Ben Bova"}
+{"id":"person.eric-choi","type":"Person","name":"Eric Choi"}
+{"id":"person.peter-hajinian","type":"Person","name":"Peter Hajinian"}
+{"id":"person.anne-ulku","type":"Person","name":"Anne Ulku"}
+{"id":"person.david-golumbia","type":"Person","name":"David Golumbia"}
+{"id":"person.anne-lamott","type":"Person","name":"Anne Lamott"}
+{"id":"person.lesley-nneka-arimah","type":"Person","name":"Lesley Nneka Arimah"}
+{"id":"person.charles-yu","type":"Person","name":"Charles Yu"}
+{"id":"person.victor-lavalle","type":"Person","name":"Victor LaValle"}
+{"id":"person.jared-blando","type":"Person","name":"Jared Blando"}
+{"id":"person.kelly-link","type":"Person","name":"Kelly Link"}
+{"id":"person.china-mi-ville","type":"Person","name":"China Miéville"}
+{"id":"person.abbey-mei-otis","type":"Person","name":"Abbey Mei Otis"}
+{"id":"person.sarah-pinsker","type":"Person","name":"Sarah Pinsker"}
+{"id":"person.scott-lynch","type":"Person","name":"Scott Lynch"}
+{"id":"person.mike-resnick","type":"Person","name":"Mike Resnick"}
+{"id":"person.paul-cornell","type":"Person","name":"Paul Cornell"}
+{"id":"person.paul-di-filippo","type":"Person","name":"Paul di Filippo"}
+{"id":"person.c-wise","type":"Person","name":"A.C. Wise"}
+{"id":"person.kristine-ong-muslim","type":"Person","name":"Kristine Ong Muslim"}
+{"id":"person.nisi-shawl","type":"Person","name":"Nisi Shawl"}
+{"id":"person.iona-sharma","type":"Person","name":"Iona Sharma"}
+{"id":"person.jaymee-goh","type":"Person","name":"Jaymee Goh"}
+{"id":"person.phoebe-wagner","type":"Person","name":"Phoebe Wagner"}
+{"id":"person.bront-christopher-wieland","type":"Person","name":"Brontë Christopher Wieland"}
+{"id":"person.andrew-dincher","type":"Person","name":"Andrew Dincher"}
+{"id":"person.bill-willingham","type":"Person","name":"Bill Willingham"}
+{"id":"person.mark-buckingham","type":"Person","name":"Mark Buckingham"}
+{"id":"person.lan-medina","type":"Person","name":"Lan Medina"}
+{"id":"person.bryan-talbot","type":"Person","name":"Bryan Talbot"}
+{"id":"person.linda-medley","type":"Person","name":"Linda Medley"}
+{"id":"person.john-scott-tynes","type":"Person","name":"John Scott Tynes"}
+{"id":"person.kenneth-hite","type":"Person","name":"Kenneth Hite"}
+{"id":"person.sara-wachter-boettcher","type":"Person","name":"Sara Wachter-Boettcher"}
+{"id":"person.krystal-higgins","type":"Person","name":"Krystal Higgins"}
+{"id":"person.tanith-lee","type":"Person","name":"Tanith Lee"}
+{"id":"person.laird-barron","type":"Person","name":"Laird Barron"}
+{"id":"person.john-grant","type":"Person","name":"John Grant"}
+{"id":"person.leah-bobet","type":"Person","name":"Leah Bobet"}
+{"id":"person.erin-hoffman","type":"Person","name":"Erin Hoffman"}
+{"id":"person.mike-allen","type":"Person","name":"Mike Allen"}
+{"id":"person.roger-strunk","type":"Person","name":"Roger Strunk"}
+{"id":"person.ed-zitron","type":"Person","name":"Ed Zitron"}
+{"id":"person.irene-gallo","type":"Person","name":"Irene Gallo"}
+{"id":"person.robert-geary","type":"Person","name":"Robert Geary"}
+{"id":"person.molly-tanzer","type":"Person","name":"Molly Tanzer"}
+{"id":"person.inc-apple-computer","type":"Person","name":"Inc. Apple Computer"}
+{"id":"person.jerry-weissman","type":"Person","name":"Jerry Weissman"}
+{"id":"person.christopher-moeller","type":"Person","name":"Christopher Moeller"}
+{"id":"person.marcus-griffin","type":"Person","name":"Marcus Griffin"}
+{"id":"person.william-schafer","type":"Person","name":"William Schafer"}
+{"id":"person.glenn-fleishman","type":"Person","name":"Glenn Fleishman"}
+{"id":"person.hal-duncan","type":"Person","name":"Hal Duncan"}
+{"id":"person.jasper-fforde","type":"Person","name":"Jasper Fforde"}
+{"id":"person.paolo-soleri","type":"Person","name":"Paolo Soleri"}
+{"id":"person.grant-howitt","type":"Person","name":"Grant Howitt"}
+{"id":"person.christopher-taylor","type":"Person","name":"Christopher Taylor"}
+{"id":"person.salam-pax","type":"Person","name":"Salam Pax"}
+{"id":"person.maria-tatar","type":"Person","name":"Maria Tatar"}
+{"id":"person.s-byatt","type":"Person","name":"A. S. Byatt"}
+{"id":"person.tom-king","type":"Person","name":"Tom King"}
+{"id":"person.gabriel-hernandez-walta","type":"Person","name":"Gabriel Hernandez Walta"}
+{"id":"person.michael-walsh","type":"Person","name":"Michael Walsh"}
+{"id":"person.mike-del-mundo","type":"Person","name":"Mike Del Mundo"}
+{"id":"person.william-faulkner","type":"Person","name":"William Faulkner"}
+{"id":"person.greg-bear","type":"Person","name":"Greg Bear"}
+{"id":"person.lewis-shiner","type":"Person","name":"Lewis Shiner"}
+{"id":"person.tom-maddox","type":"Person","name":"Tom Maddox"}
+{"id":"person.paul-di-filipo","type":"Person","name":"Paul Di Filipo"}
+{"id":"person.benjamin-lorr","type":"Person","name":"Benjamin Lorr"}
+{"id":"person.mike-carey","type":"Person","name":"Mike Carey"}
+{"id":"person.peter-morville","type":"Person","name":"Peter Morville"}
+{"id":"person.richard-rumelt","type":"Person","name":"Richard Rumelt"}
+{"id":"person.geoffrey-kabaservice","type":"Person","name":"Geoffrey Kabaservice"}
+{"id":"person.pekka-h-m-l-inen","type":"Person","name":"Pekka Hämäläinen"}
+{"id":"person.chicago-editorial-staff","type":"Person","name":"Chicago Editorial Staff"}
+{"id":"person.emily-prokop","type":"Person","name":"Emily Prokop"}
+{"id":"person.david-graeber","type":"Person","name":"David Graeber"}
+{"id":"person.evgeny-morozov","type":"Person","name":"Evgeny Morozov"}
+{"id":"person.milton-sanford-mayer","type":"Person","name":"Milton Sanford Mayer"}
+{"id":"person.richard-j-evans","type":"Person","name":"Richard J. Evans"}
+{"id":"person.jason-arnopp","type":"Person","name":"Jason Arnopp"}
+{"id":"person.tom-benner","type":"Person","name":"Tom Benner"}
+{"id":"person.matthew-hart","type":"Person","name":"Matthew Hart"}
+{"id":"person.barbara-goldsmith","type":"Person","name":"Barbara Goldsmith"}
+{"id":"person.ben-mezrich","type":"Person","name":"Ben Mezrich"}
+{"id":"person.scott-mccloud","type":"Person","name":"Scott McCloud"}
+{"id":"person.robert-p-jones","type":"Person","name":"Robert P. Jones"}
+{"id":"person.kate-manne","type":"Person","name":"Kate Manne"}
+{"id":"person.steven-pinker","type":"Person","name":"Steven Pinker"}
+{"id":"person.timothy-gloege","type":"Person","name":"Timothy Gloege"}
+{"id":"person.martha-wells","type":"Person","name":"Martha Wells"}
+{"id":"person.dean-buonomano","type":"Person","name":"Dean Buonomano"}
+{"id":"person.howard-rheingold","type":"Person","name":"Howard Rheingold"}
+{"id":"person.peter-godfrey-smith","type":"Person","name":"Peter Godfrey-Smith"}
+{"id":"person.thich-nhat-hanh","type":"Person","name":"Thich Nhat Hanh"}
+{"id":"person.arnold-kotler","type":"Person","name":"Arnold Kotler"}
+{"id":"person.h-h-dalai-lama","type":"Person","name":"H. H. the Dalai Lama"}
+{"id":"person.anthea-d-butler","type":"Person","name":"Anthea D. Butler"}
+{"id":"person.zeynep-tufekci","type":"Person","name":"Zeynep Tufekci"}
+{"id":"person.gene-roberts","type":"Person","name":"Gene Roberts"}
+{"id":"person.hank-klibanoff","type":"Person","name":"Hank Klibanoff"}
+{"id":"person.amy-e-lerman","type":"Person","name":"Amy E. Lerman"}
+{"id":"person.china-mieville","type":"Person","name":"China Mieville"}
+{"id":"person.sarah-monette","type":"Person","name":"Sarah Monette"}
+{"id":"person.kim-newman","type":"Person","name":"Kim Newman"}
+{"id":"person.cherie-priest","type":"Person","name":"Cherie Priest"}
+{"id":"person.michael-marshall-smith","type":"Person","name":"Michael Marshall Smith"}
+{"id":"person.paula-guran","type":"Person","name":"Paula Guran"}
+{"id":"person.daniel-taylor","type":"Person","name":"Daniel Taylor"}
+{"id":"person.angela-saini","type":"Person","name":"Angela Saini"}
+{"id":"person.wolfgang-simson","type":"Person","name":"Wolfgang Simson"}
+{"id":"person.p-w-singer","type":"Person","name":"P. W. Singer"}
+{"id":"person.kory-stamper","type":"Person","name":"Kory Stamper"}
+{"id":"person.keith-houston","type":"Person","name":"Keith Houston"}
+{"id":"person.william-hertling","type":"Person","name":"William Hertling"}
+{"id":"person.john-j-thompson","type":"Person","name":"John J. Thompson"}
+{"id":"person.mario-livio","type":"Person","name":"Mario Livio"}
+{"id":"person.simon-winchester","type":"Person","name":"Simon Winchester"}
+{"id":"person.liza-mundy","type":"Person","name":"Liza Mundy"}
+{"id":"person.matthew-hongoltz-hetling","type":"Person","name":"Matthew Hongoltz-Hetling"}
+{"id":"person.ernest-hogan","type":"Person","name":"Ernest Hogan"}
+{"id":"person.paul-d-meier","type":"Person","name":"Paul D. Meier"}
+{"id":"person.robert-wise","type":"Person","name":"Robert Wise"}
+{"id":"person.c-j-peters","type":"Person","name":"C. J. Peters"}
+{"id":"person.mark-olshaker","type":"Person","name":"Mark Olshaker"}
+{"id":"person.eric-hoffer","type":"Person","name":"Eric Hoffer"}
+{"id":"person.mr-anatol-lieven","type":"Person","name":"Mr. Anatol Lieven"}
+{"id":"person.lisa-gitelman","type":"Person","name":"Lisa Gitelman"}
+{"id":"person.john-durham-peters","type":"Person","name":"John Durham Peters"}
+{"id":"person.christopher-alexander","type":"Person","name":"Christopher Alexander"}
+{"id":"person.sara-ishikawa","type":"Person","name":"Sara Ishikawa"}
+{"id":"person.murray-silverstein","type":"Person","name":"Murray Silverstein"}
+{"id":"person.max-jacobson","type":"Person","name":"Max Jacobson"}
+{"id":"person.ingrid-fiksdahl-king","type":"Person","name":"Ingrid Fiksdahl-King"}
+{"id":"person.shlomo-angel","type":"Person","name":"Shlomo Angel"}
+{"id":"person.darick-robertson","type":"Person","name":"Darick Robertson"}
+{"id":"person.marshall-brain","type":"Person","name":"Marshall Brain"}
+{"id":"person.gretchen-mcculloch","type":"Person","name":"Gretchen McCulloch"}
+{"id":"person.sarrah-vesselov","type":"Person","name":"Sarrah Vesselov"}
+{"id":"person.taurie-davis","type":"Person","name":"Taurie Davis"}
+{"id":"person.carrie-cuinn","type":"Person","name":"Carrie Cuinn"}
+{"id":"person.jeffrey-thomas","type":"Person","name":"Jeffrey Thomas"}
+{"id":"person.d-l-snell","type":"Person","name":"D.L. Snell"}
+{"id":"person.pete-rawlik","type":"Person","name":"Pete Rawlik"}
+{"id":"person.lois-fresh","type":"Person","name":"Lois Fresh"}
+{"id":"person.c-j-henderson","type":"Person","name":"C.J. Henderson"}
+{"id":"person.robert-m-price","type":"Person","name":"Robert M. Price"}
+{"id":"person.sam-stone","type":"Person","name":"Sam Stone"}
+{"id":"person.brian-m-simmons","type":"Person","name":"Brian M. Simmons"}
+{"id":"person.glynn-owen-barrass","type":"Person","name":"Glynn Owen Barrass"}
+{"id":"person.lou-adler","type":"Person","name":"Lou Adler"}
+{"id":"person.robert-bringhurst","type":"Person","name":"Robert Bringhurst"}
+{"id":"person.elaine-pagels","type":"Person","name":"Elaine Pagels"}
+{"id":"person.johanna-drucker","type":"Person","name":"Johanna Drucker"}
+{"id":"person.lynn-geldof","type":"Person","name":"Lynn Geldof"}
+{"id":"person.s-p-somtow","type":"Person","name":"S.P. Somtow"}
+{"id":"person.zoran-zivkovic","type":"Person","name":"Zoran Zivkovic"}
+{"id":"person.aliette-de-bodard","type":"Person","name":"Aliette De Bodard"}
+{"id":"person.tunku-halim","type":"Person","name":"Tunku Halim"}
+{"id":"person.kaaron-warren","type":"Person","name":"Kaaron Warren"}
+{"id":"person.jetse-de-vries","type":"Person","name":"Jetse De Vries"}
+{"id":"person.guy-hasson","type":"Person","name":"Guy Hasson"}
+{"id":"person.han-song","type":"Person","name":"Han Song"}
+{"id":"person.yang-ping","type":"Person","name":"Yang Ping"}
+{"id":"person.will-elliott","type":"Person","name":"Will Elliott"}
+{"id":"person.ekaterina-sedia","type":"Person","name":"Ekaterina Sedia"}
+{"id":"person.karin-tidbeck","type":"Person","name":"Karin Tidbeck"}
+{"id":"person.lavie-tidhar","type":"Person","name":"Lavie Tidhar"}
+{"id":"person.richard-n-rosecrance","type":"Person","name":"Richard N Rosecrance"}
+{"id":"person.david-kinnaman","type":"Person","name":"David Kinnaman"}
+{"id":"person.gabe-lyons","type":"Person","name":"Gabe Lyons"}
+{"id":"person.stewart-brand","type":"Person","name":"Stewart Brand"}
+{"id":"person.john-loengard","type":"Person","name":"John Loengard"}
+{"id":"person.os-guinness","type":"Person","name":"Os Guinness"}
+{"id":"person.arika-okrent","type":"Person","name":"Arika Okrent"}
+{"id":"person.sean-oneill","type":"Person","name":"Sean O'Neill"}
+{"id":"person.maria-konnikova","type":"Person","name":"Maria Konnikova"}
+{"id":"person.johann-hari","type":"Person","name":"Johann Hari"}
+{"id":"person.lightspeed-magazine","type":"Person","name":"Lightspeed Magazine"}
+{"id":"person.christie-yant","type":"Person","name":"Christie Yant"}
+{"id":"person.maria-dahvana-headley","type":"Person","name":"Maria Dahvana Headley"}
+{"id":"person.eleanor-arnason","type":"Person","name":"Eleanor Arnason"}
+{"id":"person.noah-berlatsky","type":"Person","name":"Noah Berlatsky"}
+{"id":"person.nicole-fenton","type":"Person","name":"Nicole Fenton"}
+{"id":"person.kate-lee","type":"Person","name":"Kate Lee"}
+{"id":"person.stephen-king","type":"Person","name":"Stephen King"}
+{"id":"person.robert-silverberg","type":"Person","name":"Robert Silverberg"}
+{"id":"person.anne-mccaffrey","type":"Person","name":"Anne McCaffrey"}
+{"id":"person.carrie-vaughn","type":"Person","name":"Carrie Vaughn"}
+{"id":"person.c-w-anderson","type":"Person","name":"C.W. Anderson"}
+{"id":"person.stephen-h-roberts","type":"Person","name":"Stephen H. Roberts"}
+{"id":"person.william-golding","type":"Person","name":"William Golding"}
+{"id":"person.paul-tillich","type":"Person","name":"Paul Tillich"}
+{"id":"person.werner-jaeger","type":"Person","name":"Werner Jaeger"}
+{"id":"person.barry-james","type":"Person","name":"Barry James"}
+{"id":"person.judith-merril","type":"Person","name":"Judith Merril"}
+{"id":"person.jane-converse","type":"Person","name":"Jane Converse"}
+{"id":"person.hal-lindsey","type":"Person","name":"Hal Lindsey"}
+{"id":"person.richard-day","type":"Person","name":"Richard Day"}
+{"id":"person.margaret-pargeter","type":"Person","name":"Margaret Pargeter"}
+{"id":"person.flannery-oconnor","type":"Person","name":"Flannery Oconnor"}
+{"id":"person.d-carey","type":"Person","name":"D. Carey"}
+{"id":"person.shusaku-endo","type":"Person","name":"Shusaku Endo"}
+{"id":"person.william-johnston","type":"Person","name":"William Johnston"}
+{"id":"person.raymond-queneau","type":"Person","name":"Raymond Queneau"}
+{"id":"person.barbara-wright","type":"Person","name":"Barbara Wright"}
+{"id":"person.ted-hughes","type":"Person","name":"Ted Hughes"}
+{"id":"person.aiden-w-tozer","type":"Person","name":"Aiden W. Tozer"}
+{"id":"person.c-everett-koop","type":"Person","name":"C. Everett Koop"}
+{"id":"person.ernest-gellner","type":"Person","name":"Ernest Gellner"}
+{"id":"person.m-john-harrison","type":"Person","name":"M. John Harrison"}
+{"id":"person.milton-dank","type":"Person","name":"Milton Dank"}
+{"id":"person.gloria-dank","type":"Person","name":"Gloria Dank"}
+{"id":"person.frank-ching","type":"Person","name":"Frank Ching"}
+{"id":"person.david-e-aune","type":"Person","name":"David E. Aune"}
+{"id":"person.h-g-wells","type":"Person","name":"H.G. Wells"}
+{"id":"person.isaac-asimov","type":"Person","name":"Isaac Asimov"}
+{"id":"person.stephen-r-lawhead","type":"Person","name":"Stephen R. Lawhead"}
+{"id":"person.john-le-carre","type":"Person","name":"John Le Carre"}
+{"id":"person.michael-youssef","type":"Person","name":"Michael Youssef"}
+{"id":"person.stephen-cosgrove","type":"Person","name":"Stephen Cosgrove"}
+{"id":"person.wendy-edelson","type":"Person","name":"Wendy Edelson"}
+{"id":"person.amin-maalouf","type":"Person","name":"Amin Maalouf"}
+{"id":"person.john-gardner","type":"Person","name":"John Gardner"}
+{"id":"person.steve-lawhead","type":"Person","name":"Steve Lawhead"}
+{"id":"person.steven-r-lawhead","type":"Person","name":"Steven R. Lawhead"}
+{"id":"person.joan-orme","type":"Person","name":"Joan Orme"}
+{"id":"person.antoine-de-saint-exupery","type":"Person","name":"Antoine De Saint-Exupery"}
+{"id":"person.pat-robertson","type":"Person","name":"Pat Robertson"}
+{"id":"person.graham-greene","type":"Person","name":"Graham Greene"}
+{"id":"person.lois-lowry","type":"Person","name":"Lois Lowry"}
+{"id":"person.tom-stoppard","type":"Person","name":"Tom Stoppard"}
+{"id":"person.catherine-kohler-riessman","type":"Person","name":"Catherine Kohler Riessman"}
+{"id":"person.donald-norman","type":"Person","name":"Donald A. Norman"}
+{"id":"person.douglas-coupland","type":"Person","name":"Douglas Coupland"}
+{"id":"person.dave-gibbons","type":"Person","name":"Dave Gibbons"}
+{"id":"person.william-weaver","type":"Person","name":"William Weaver"}
+{"id":"person.guy-debord","type":"Person","name":"Guy Debord"}
+{"id":"person.donald-nicholson-smith","type":"Person","name":"Donald Nicholson-Smith"}
+{"id":"person.alan-moore","type":"Person","name":"Alan Moore"}
+{"id":"person.roger-hicks","type":"Person","name":"Roger Hicks"}
+{"id":"person.frances-schultz","type":"Person","name":"Frances Schultz"}
+{"id":"person.jefferson-scott","type":"Person","name":"Jefferson Scott"}
+{"id":"person.franz-kafka","type":"Person","name":"Franz Kafka"}
+{"id":"person.willa-muir","type":"Person","name":"Willa Muir"}
+{"id":"person.edwin-muir","type":"Person","name":"Edwin Muir"}
+{"id":"person.klaus-mann","type":"Person","name":"Klaus Mann"}
+{"id":"person.e-l-doctorow","type":"Person","name":"E. L. Doctorow"}
+{"id":"person.jonathan-lethem","type":"Person","name":"Jonathan Lethem"}
+{"id":"person.ayn-rand","type":"Person","name":"Ayn Rand"}
+{"id":"person.leonard-peikoff","type":"Person","name":"Leonard Peikoff"}
+{"id":"person.joseph-heller","type":"Person","name":"Joseph Heller"}
+{"id":"person.james-charlton","type":"Person","name":"James Charlton"}
+{"id":"person.w-tozer","type":"Person","name":"A. W. Tozer"}
+{"id":"person.jean-chevalier","type":"Person","name":"Jean Chevalier"}
+{"id":"person.alain-gheerbrant","type":"Person","name":"Alain Gheerbrant"}
+{"id":"person.john-buchanan-brown","type":"Person","name":"John Buchanan-Brown"}
+{"id":"person.maureen-f-mchugh","type":"Person","name":"Maureen F. McHugh"}
+{"id":"person.samuel-p-huntington","type":"Person","name":"Samuel P. Huntington"}
+{"id":"person.margaret-atwood","type":"Person","name":"Margaret Atwood"}
+{"id":"person.dan-simmons","type":"Person","name":"Dan Simmons"}
+{"id":"person.ernesto-che-guevara","type":"Person","name":"Ernesto \"Che\" Guevara"}
+{"id":"person.marc-becker","type":"Person","name":"Marc Becker"}
+{"id":"person.aldous-huxley","type":"Person","name":"Aldous Huxley"}
+{"id":"person.jakob-nielsen","type":"Person","name":"Jakob Nielsen"}
+{"id":"person.graham-evans","type":"Person","name":"Graham Evans"}
+{"id":"person.richard-newnham","type":"Person","name":"Richard Newnham"}
+{"id":"person.sally-morgenthaler","type":"Person","name":"Sally Morgenthaler"}
+{"id":"person.guy-kawasaki","type":"Person","name":"Guy Kawasaki"}
+{"id":"person.michele-moreno","type":"Person","name":"Michele Moreno"}
+{"id":"person.rita-carter","type":"Person","name":"Rita Carter"}
+{"id":"person.dean-maccannell","type":"Person","name":"Dean MacCannell"}
+{"id":"person.lucy-r-lippard","type":"Person","name":"Lucy R. Lippard"}
+{"id":"person.gene-edwards","type":"Person","name":"Gene Edwards"}
+{"id":"person.jorge-luis-borges","type":"Person","name":"Jorge Luis Borges"}
+{"id":"person.andrew-hurley","type":"Person","name":"Andrew Hurley"}
+{"id":"person.niccolo-machiavelli","type":"Person","name":"Niccolo Machiavelli"}
+{"id":"person.luigi-ricci","type":"Person","name":"Luigi Ricci"}
+{"id":"person.christian-gauss","type":"Person","name":"Christian Gauss"}
+{"id":"person.suzette-haden-elgin","type":"Person","name":"Suzette Haden Elgin"}
+{"id":"person.jean-aitchison","type":"Person","name":"Jean Aitchison"}
+{"id":"person.richard-saul-wurman","type":"Person","name":"Richard Saul Wurman"}
+{"id":"person.loring-leifer","type":"Person","name":"Loring Leifer"}
+{"id":"person.david-sume","type":"Person","name":"David Sume"}
+{"id":"person.karen-whitehouse","type":"Person","name":"Karen Whitehouse"}
+{"id":"person.eric-s-nylund","type":"Person","name":"Eric S. Nylund"}
+{"id":"person.eric-idle","type":"Person","name":"Eric Idle"}
+{"id":"person.eric-garcia","type":"Person","name":"Eric Garcia"}
+{"id":"person.david-sedaris","type":"Person","name":"David Sedaris"}
+{"id":"person.francis-schaeffer","type":"Person","name":"Francis Schaeffer"}
+{"id":"person.walter-mosley","type":"Person","name":"Walter Mosley"}
+{"id":"person.gary-russell","type":"Person","name":"Gary Russell"}
+{"id":"person.nancy-sparling","type":"Person","name":"Nancy Sparling"}
+{"id":"person.martin-fowler","type":"Person","name":"Martin Fowler"}
+{"id":"person.graham-cooke","type":"Person","name":"Graham Cooke"}
+{"id":"person.nathaniel-hawthorne","type":"Person","name":"Nathaniel Hawthorne"}
+{"id":"person.mary-oliver","type":"Person","name":"Mary Oliver"}
+{"id":"person.lou-anders","type":"Person","name":"Lou Anders"}
+{"id":"person.frank-viola","type":"Person","name":"Frank A. Viola"}
+{"id":"person.everett-m-rogers","type":"Person","name":"Everett M. Rogers"}
+{"id":"person.john-paul-leon","type":"Person","name":"John Paul Leon"}
+{"id":"person.frank-quitely","type":"Person","name":"Frank Quitely"}
+{"id":"person.cory-doctorow","type":"Person","name":"Cory Doctorow"}
+{"id":"person.nick-sagan","type":"Person","name":"Nick Sagan"}
+{"id":"person.edith-wharton","type":"Person","name":"Edith Wharton"}
+{"id":"person.maureen-howard","type":"Person","name":"Maureen Howard"}
+{"id":"person.grant-morrison","type":"Person","name":"Grant Morrison"}
+{"id":"person.phil-jiminez","type":"Person","name":"Phil Jiminez"}
+{"id":"person.michael-feathers","type":"Person","name":"Michael Feathers"}
+{"id":"person.jack-mcdevitt","type":"Person","name":"Jack McDevitt"}
+{"id":"person.murray-dueck","type":"Person","name":"Murray Dueck"}
+{"id":"person.eric-von-hippel","type":"Person","name":"Eric von Hippel"}
+{"id":"person.umberto-eco","type":"Person","name":"Umberto Eco"}
+{"id":"person.geoffrey-brock","type":"Person","name":"Geoffrey Brock"}
+{"id":"person.pat-frank","type":"Person","name":"Pat Frank"}
+{"id":"person.david-brin","type":"Person","name":"David Brin"}
+{"id":"person.leland-wilkinson","type":"Person","name":"Leland Wilkinson"}
+{"id":"person.d-wills","type":"Person","name":"D. Wills"}
+{"id":"person.d-rope","type":"Person","name":"D. Rope"}
+{"id":"person.norton","type":"Person","name":"A. Norton"}
+{"id":"person.r-dubbs","type":"Person","name":"R. Dubbs"}
+{"id":"person.george-alec-effinger","type":"Person","name":"George Alec Effinger"}
+{"id":"person.hans-christian-andersen","type":"Person","name":"Hans Christian Andersen"}
+{"id":"person.anders-nilsen","type":"Person","name":"Anders Nilsen"}
+{"id":"person.tiina-nunnally","type":"Person","name":"Tiina Nunnally"}
+{"id":"person.jackie-wullschl-ger","type":"Person","name":"Jackie Wullschläger"}
+{"id":"person.edward-r-tufte","type":"Person","name":"Edward R. Tufte"}
+{"id":"person.gwendolyn-brooks","type":"Person","name":"Gwendolyn Brooks"}
+{"id":"person.marisha-pessl","type":"Person","name":"Marisha Pessl"}
+{"id":"person.rebecca-ore","type":"Person","name":"Rebecca Ore"}
+{"id":"person.vernor-vinge","type":"Person","name":"Vernor Vinge"}
+{"id":"person.jennifer-egan","type":"Person","name":"Jennifer Egan"}
+{"id":"person.kenya-hara","type":"Person","name":"Kenya Hara"}
+{"id":"person.william-strunk-jr","type":"Person","name":"William Strunk Jr."}
+{"id":"person.e-b-white","type":"Person","name":"E. B. White"}
+{"id":"person.maira-kalman","type":"Person","name":"Maira Kalman"}
+{"id":"person.matthew-frederick","type":"Person","name":"Matthew Frederick"}
+{"id":"person.ernest-becker","type":"Person","name":"Ernest Becker"}
+{"id":"person.yolanda-zappaterra","type":"Person","name":"Yolanda Zappaterra"}
+{"id":"person.mike-brotherton","type":"Person","name":"Mike Brotherton"}
+{"id":"person.rudy-rucker","type":"Person","name":"Rudy Rucker"}
+{"id":"person.mike-ashley","type":"Person","name":"Mike Ashley"}
+{"id":"person.henry-gee","type":"Person","name":"Henry Gee"}
+{"id":"person.angela-byron","type":"Person","name":"Angela Byron"}
+{"id":"person.addison-berry","type":"Person","name":"Addison Berry"}
+{"id":"person.nathan-haug","type":"Person","name":"Nathan Haug"}
+{"id":"person.jeff-eaton","type":"Person","name":"Jeff Eaton"}
+{"id":"person.duncan-campbell-smith","type":"Person","name":"Duncan Campbell-Smith"}
+{"id":"person.penguin","type":"Person","name":"Penguin"}
+{"id":"person.george-r-r-martin","type":"Person","name":"George R. R. Martin"}
+{"id":"person.gardner-dozois","type":"Person","name":"Gardner Dozois"}
+{"id":"person.daniel-abraham","type":"Person","name":"Daniel Abraham"}
+{"id":"person.richard-monson-haefel","type":"Person","name":"Richard Monson-Haefel"}
+{"id":"person.tom-standage","type":"Person","name":"Tom Standage"}
+{"id":"person.tom-reynolds","type":"Person","name":"Tom Reynolds"}
+{"id":"person.adaobi-tricia-nwaubani","type":"Person","name":"Adaobi Tricia Nwaubani"}
+{"id":"person.neal-stephenson","type":"Person","name":"Neal Stephenson"}
+{"id":"person.jason-pargin","type":"Person","name":"Jason Pargin"}
+{"id":"person.david-wong","type":"Person","name":"David Wong"}
+{"id":"person.james-d-macdonald","type":"Person","name":"James D. Macdonald"}
+{"id":"person.jedediah-berry","type":"Person","name":"Jedediah Berry"}
+{"id":"person.mark-rosenfelder","type":"Person","name":"Mark Rosenfelder"}
+{"id":"person.timothy-c-urdan","type":"Person","name":"Timothy C. Urdan"}
+{"id":"person.bowles-cennydd","type":"Person","name":"Bowles Cennydd"}
+{"id":"person.box-james","type":"Person","name":"Box James"}
+{"id":"person.alain-de-botton","type":"Person","name":"Alain De Botton"}
+{"id":"person.felix-gilman","type":"Person","name":"Felix Gilman"}
+{"id":"person.ted-chiang","type":"Person","name":"Ted Chiang"}
+{"id":"person.john-kessel","type":"Person","name":"John Kessel"}
+{"id":"person.michael-swanwick","type":"Person","name":"Michael Swanwick"}
+{"id":"person.various","type":"Person","name":"Various"}
+{"id":"person.henry-james","type":"Person","name":"Henry James"}
+{"id":"person.henry-james-jr","type":"Person","name":"Henry James Jr."}
+{"id":"person.cambridge-world-classics","type":"Person","name":"Cambridge World Classics"}
+{"id":"person.richard-dawkins","type":"Person","name":"Richard Dawkins"}
+{"id":"person.john-c-wright","type":"Person","name":"John C. Wright"}
+{"id":"person.karl-schroeder","type":"Person","name":"Karl Schroeder"}
+{"id":"person.mary-robinette-kowal","type":"Person","name":"Mary Robinette Kowal"}
+{"id":"person.stella-gibbons","type":"Person","name":"Stella Gibbons"}
+{"id":"person.holly-black","type":"Person","name":"Holly Black"}
+{"id":"person.ellen-kushner","type":"Person","name":"Ellen Kushner"}
+{"id":"person.kevin-j-anderson","type":"Person","name":"Kevin J. Anderson"}
+{"id":"person.david-m-haendler","type":"Person","name":"David M. Haendler"}
+{"id":"person.mainak-dhar","type":"Person","name":"Mainak Dhar"}
+{"id":"person.william-strunk","type":"Person","name":"William Strunk"}
+{"id":"person.william-strunk-junior","type":"Person","name":"William Strunk Junior"}
+{"id":"person.elements-style-william-strunk","type":"Person","name":"The Elements of Style by William Strunk"}
+{"id":"person.elements-style-press","type":"Person","name":"The Elements of Style Press"}
+{"id":"person.chris-hong","type":"Person","name":"Chris Hong"}
+{"id":"person.tim-maughan","type":"Person","name":"Tim Maughan"}
+{"id":"person.lois-mcmaster-bujold","type":"Person","name":"Lois McMaster Bujold"}
+{"id":"person.ernest-cline","type":"Person","name":"Ernest Cline"}
+{"id":"person.rob-boyle","type":"Person","name":"Rob Boyle"}
+{"id":"person.jack-graham","type":"Person","name":"Jack Graham"}
+{"id":"person.lars-blumenstein","type":"Person","name":"Lars Blumenstein"}
+{"id":"person.justin-kugler","type":"Person","name":"Justin Kugler"}
+{"id":"person.steve-mohan","type":"Person","name":"Steve Mohan"}
+{"id":"person.nathaniel-dean","type":"Person","name":"Nathaniel Dean"}
+{"id":"person.david-hill","type":"Person","name":"David Hill"}
+{"id":"person.daniel-kahneman","type":"Person","name":"Daniel Kahneman"}
+{"id":"person.bob-hoffman","type":"Person","name":"Bob Hoffman"}
+{"id":"person.philip-b-meggs","type":"Person","name":"Philip B. Meggs"}
+{"id":"person.alston-w-purvis","type":"Person","name":"Alston W. Purvis"}
+{"id":"person.chris-orcutt","type":"Person","name":"Chris Orcutt"}
+{"id":"person.robert-m-emerson","type":"Person","name":"Robert M. Emerson"}
+{"id":"person.rachel-fretz","type":"Person","name":"Rachel I. Fretz"}
+{"id":"person.linda-l-shaw","type":"Person","name":"Linda L. Shaw"}
+{"id":"person.james-maxey","type":"Person","name":"James Maxey"}
+{"id":"person.peter-s-beagle","type":"Person","name":"Peter S. Beagle"}
+{"id":"person.scott-roberts","type":"Person","name":"Scott Roberts"}
+{"id":"person.eric-james-stone","type":"Person","name":"Eric James Stone"}
+{"id":"person.aliette-debodard","type":"Person","name":"Aliette deBodard"}
+{"id":"person.eugie-foster","type":"Person","name":"Eugie Foster"}
+{"id":"person.marie-brennan","type":"Person","name":"Marie Brennan"}
+{"id":"person.alethea-kontis","type":"Person","name":"Alethea Kontis"}
+{"id":"person.edmund-r-schubert","type":"Person","name":"Edmund R. Schubert"}
+{"id":"person.orson-scott-card","type":"Person","name":"Orson Scott Card"}
+{"id":"person.kristina-halvorson","type":"Person","name":"Kristina Halvorson"}
+{"id":"person.melissa-rach","type":"Person","name":"Melissa Rach"}
+{"id":"person.lee-martinez","type":"Person","name":"A. Lee Martinez"}
+{"id":"person.walter-jon-williams","type":"Person","name":"Walter Jon Williams"}
+{"id":"person.jenny-lawson","type":"Person","name":"Jenny Lawson"}
+{"id":"person.olena-bormashenko","type":"Person","name":"Olena Bormashenko"}
+{"id":"person.ursula-le-guin","type":"Person","name":"Ursula Le Guin"}
+{"id":"person.nick-mamatas","type":"Person","name":"Nick Mamatas"}
+{"id":"person.masumi-washington","type":"Person","name":"Masumi Washington"}
+{"id":"person.richard-phillips","type":"Person","name":"Richard Phillips"}
+{"id":"person.ana-juan","type":"Person","name":"Ana Juan"}
+{"id":"person.peter-f-hamilton","type":"Person","name":"Peter F. Hamilton"}
+{"id":"person.marlene-lefever","type":"Person","name":"Marlene LeFever"}
+{"id":"person.vernon-vaughn","type":"Person","name":"Vernon Vaughn"}
+{"id":"person.marcellus-shane","type":"Person","name":"Marcellus Shane"}
+{"id":"person.erich-fromm","type":"Person","name":"Erich Fromm"}
+{"id":"person.laurence-timms","type":"Person","name":"Laurence Timms"}
+{"id":"person.lucas-j-w-johnson","type":"Person","name":"Lucas J.W. Johnson"}
+{"id":"person.graciela-lim-n","type":"Person","name":"Graciela Limón"}
+{"id":"person.warren-ellis","type":"Person","name":"Warren Ellis"}
+{"id":"person.john-langan","type":"Person","name":"John Langan"}
+{"id":"person.christopher-barzak","type":"Person","name":"Christopher Barzak"}
+{"id":"person.diana-rowland","type":"Person","name":"Diana Rowland"}
+{"id":"person.lynne-m-thomas","type":"Person","name":"Lynne M. Thomas"}
+{"id":"person.john-klima","type":"Person","name":"John Klima"}
+{"id":"person.michael-damian-thomas","type":"Person","name":"Michael Damian Thomas"}
+{"id":"person.amber-benson","type":"Person","name":"Amber Benson"}
+{"id":"person.employee-x","type":"Person","name":"Employee X"}
+{"id":"person.nick-qi-zhu","type":"Person","name":"Nick Qi Zhu"}
+{"id":"person.stephen-t-brophy","type":"Person","name":"Stephen T. Brophy"}
+{"id":"person.richard-wright","type":"Person","name":"Richard Wright"}
+{"id":"person.norman-mailer","type":"Person","name":"Norman Mailer"}
+{"id":"person.james-baldwin","type":"Person","name":"James Baldwin"}
+{"id":"person.elizabeth-bogle","type":"Person","name":"Elizabeth Bogle"}
+{"id":"person.greg-egan","type":"Person","name":"Greg Egan"}
+{"id":"person.robin-sloan","type":"Person","name":"Robin Sloan"}
+{"id":"person.rachel-bach","type":"Person","name":"Rachel Bach"}
+{"id":"person.dan-cederholm","type":"Person","name":"Dan Cederholm"}
+{"id":"person.ruthanne-reid","type":"Person","name":"Ruthanne Reid"}
+{"id":"person.patrick-e-mclean","type":"Person","name":"Patrick E. McLean"}
+{"id":"person.joost-kircz","type":"Person","name":"Joost Kircz"}
+{"id":"person.adriaan-van-der-weel","type":"Person","name":"Adriaan van der Weel"}
+{"id":"person.kathleen-jennings","type":"Person","name":"Kathleen Jennings"}
+{"id":"person.rosemary-kirstein","type":"Person","name":"Rosemary Kirstein"}
+{"id":"person.rysa-walker","type":"Person","name":"Rysa Walker"}
+{"id":"person.alice-duke","type":"Person","name":"Alice Duke"}
+{"id":"person.j-d-horn","type":"Person","name":"J.D. Horn"}
+{"id":"person.deborah-walker","type":"Person","name":"Deborah Walker"}
+{"id":"person.cheryl-morgan","type":"Person","name":"Cheryl Morgan"}
+{"id":"person.andy-bigwood","type":"Person","name":"Andy Bigwood"}
+{"id":"person.christine-morgan","type":"Person","name":"Christine Morgan"}
+{"id":"person.myfanwy-rodman","type":"Person","name":"Myfanwy Rodman"}
+{"id":"person.piotr-swietlik","type":"Person","name":"Piotr Swietlik"}
+{"id":"person.roz-clarke","type":"Person","name":"Roz Clarke"}
+{"id":"person.joanne-hall","type":"Person","name":"Joanne Hall"}
+{"id":"person.john-joseph-adams","type":"Person","name":"John Joseph Adams"}
+{"id":"person.jamie-ford","type":"Person","name":"Jamie Ford"}
+{"id":"person.sarah-langan","type":"Person","name":"Sarah Langan"}
+{"id":"person.nancy-kress","type":"Person","name":"Nancy Kress"}
+{"id":"person.jonathan-maberry","type":"Person","name":"Jonathan Maberry"}
+{"id":"person.tananarive-due","type":"Person","name":"Tananarive Due"}
+{"id":"person.scott-sigler","type":"Person","name":"Scott Sigler"}
+{"id":"person.chris-hedges","type":"Person","name":"Chris Hedges"}
+{"id":"person.kathy-charmaz","type":"Person","name":"Kathy Charmaz"}
+{"id":"person.kage-baker","type":"Person","name":"Kage Baker"}
+{"id":"person.jay-lake","type":"Person","name":"Jay Lake"}
+{"id":"person.robert-reed","type":"Person","name":"Robert Reed"}
+{"id":"person.rich-horton","type":"Person","name":"Rich Horton"}
+{"id":"person.pat-cadigan","type":"Person","name":"Pat Cadigan"}
+{"id":"person.j-k-drummond","type":"Person","name":"J.K. Drummond"}
+{"id":"person.hazlitt-staff","type":"Person","name":"Hazlitt Staff"}
+{"id":"person.bryan-lee-omalley","type":"Person","name":"Bryan Lee O'Malley"}
+{"id":"person.drew-hayes","type":"Person","name":"Drew Hayes"}
+{"id":"person.peter-watts","type":"Person","name":"Peter Watts"}
+{"id":"person.herman-melville","type":"Person","name":"Herman Melville"}
+{"id":"person.joe-haldeman","type":"Person","name":"Joe Haldeman"}
+{"id":"person.karin-lowachee","type":"Person","name":"Karin Lowachee"}
+{"id":"person.jay-posey","type":"Person","name":"Jay Posey"}
+{"id":"person.james-sutter","type":"Person","name":"James Sutter"}
+{"id":"person.jaym-gates","type":"Person","name":"Jaym Gates"}
+{"id":"person.andrew-liptak","type":"Person","name":"Andrew Liptak"}
+{"id":"person.harper-lee","type":"Person","name":"Harper Lee"}
+{"id":"person.cixin-liu","type":"Person","name":"Cixin Liu"}
+{"id":"person.bill-johnston","type":"Person","name":"Bill Johnston"}
+{"id":"person.hugh-howey","type":"Person","name":"Hugh Howey"}
+{"id":"person.b-v-larson","type":"Person","name":"B. V. Larson"}
+{"id":"person.jennifer-foehner-wells","type":"Person","name":"Jennifer Foehner Wells"}
+{"id":"person.daniel-arenson","type":"Person","name":"Daniel Arenson"}
+{"id":"person.blair-babylon","type":"Person","name":"Blair Babylon"}
+{"id":"person.annie-bellet","type":"Person","name":"Annie Bellet"}
+{"id":"person.wj-davies","type":"Person","name":"WJ Davies"}
+{"id":"person.patrice-fitzgerald","type":"Person","name":"Patrice Fitzgerald"}
+{"id":"person.autumn-kalquist","type":"Person","name":"Autumn Kalquist"}
+{"id":"person.moira-katson","type":"Person","name":"Moira Katson"}
+{"id":"person.will-swardstrom","type":"Person","name":"Will Swardstrom"}
+{"id":"person.geoffrey-wakeling","type":"Person","name":"Geoffrey Wakeling"}
+{"id":"person.david-gatewood","type":"Person","name":"David Gatewood"}
+{"id":"person.stefan-bolz","type":"Person","name":"Stefan Bolz"}
+{"id":"person.neal-asher","type":"Person","name":"Neal Asher"}
+{"id":"person.dan-abnett","type":"Person","name":"Dan Abnett"}
+{"id":"person.andy-remic","type":"Person","name":"Andy Remic"}
+{"id":"person.tim-c-taylor","type":"Person","name":"Tim C. Taylor"}
+{"id":"person.ian-whates","type":"Person","name":"Ian Whates"}
+{"id":"person.paul-mcauley","type":"Person","name":"Paul McAuley"}
+{"id":"person.ian-tregillis","type":"Person","name":"Ian Tregillis"}
+{"id":"person.agust-n-de-rojas","type":"Person","name":"Agustín de Rojas"}
+{"id":"person.nick-caistor","type":"Person","name":"Nick Caistor"}
+{"id":"person.yoss","type":"Person","name":"Yoss"}
+{"id":"person.david-frye","type":"Person","name":"David Frye"}
+{"id":"person.mira-grant","type":"Person","name":"Mira Grant"}
+{"id":"person.nick-sousanis","type":"Person","name":"Nick Sousanis"}
+{"id":"person.michael-cisco","type":"Person","name":"Michael Cisco"}
+{"id":"person.lauren-beukes","type":"Person","name":"Lauren Beukes"}
+{"id":"person.rachel-swirsky","type":"Person","name":"Rachel Swirsky"}
+{"id":"person.joe-abercrombie","type":"Person","name":"Joe Abercrombie"}
+{"id":"person.paolo-bacigalupi","type":"Person","name":"Paolo Bacigalupi"}
+{"id":"person.taiyo-fujii","type":"Person","name":"Taiyo Fujii"}
+{"id":"person.jim-hubbert","type":"Person","name":"Jim Hubbert"}
+{"id":"person.dan-wells","type":"Person","name":"Dan Wells"}
+{"id":"person.daniel-jos-older","type":"Person","name":"Daniel José Older"}
+{"id":"person.ta-nehisi-coates","type":"Person","name":"Ta-Nehisi Coates"}
+{"id":"person.samuel-peralta","type":"Person","name":"Samuel Peralta"}
+{"id":"person.peter-cawdron","type":"Person","name":"Peter Cawdron"}
+{"id":"person.thomas-robins","type":"Person","name":"Thomas Robins"}
+{"id":"person.pavarti-k-tyler","type":"Person","name":"Pavarti K. Tyler"}
+{"id":"person.ann-christy","type":"Person","name":"Ann Christy"}
+{"id":"person.michelle-browne","type":"Person","name":"Michelle Browne"}
+{"id":"person.anthea-sharp","type":"Person","name":"Anthea Sharp"}
+{"id":"person.tony-bertauski","type":"Person","name":"Tony Bertauski"}
+{"id":"person.nicolas-wilson","type":"Person","name":"Nicolas Wilson"}
+{"id":"person.sam-best","type":"Person","name":"Sam Best"}
+{"id":"person.zig-zag-claybourne","type":"Person","name":"Zig Zag Claybourne"}
+{"id":"person.stacy-ericson","type":"Person","name":"Stacy Ericson"}
+{"id":"person.logan-thomas-snyder","type":"Person","name":"Logan Thomas Snyder"}
+{"id":"person.nolie-wilson","type":"Person","name":"Nolie Wilson"}
+{"id":"person.christina-henry","type":"Person","name":"Christina Henry"}
+{"id":"person.gini-koch","type":"Person","name":"Gini Koch"}
+{"id":"person.faith-hunter","type":"Person","name":"Faith Hunter"}
+{"id":"person.david-b-coe","type":"Person","name":"David B. Coe"}
+{"id":"person.laura-anne-gilman","type":"Person","name":"Laura Anne Gilman"}
+{"id":"person.laura-resnick","type":"Person","name":"Laura Resnick"}
+{"id":"person.stephen-leigh","type":"Person","name":"Stephen Leigh"}
+{"id":"person.juliet-e-mckenna","type":"Person","name":"Juliet E. McKenna"}
+{"id":"person.patricia-bray","type":"Person","name":"Patricia Bray"}
+{"id":"person.joshua-palmatier","type":"Person","name":"Joshua Palmatier"}
+{"id":"person.matthew-de-abaitua","type":"Person","name":"Matthew De Abaitua"}
+{"id":"person.mindy-kaling","type":"Person","name":"Mindy Kaling"}
+{"id":"person.john-barnes","type":"Person","name":"John Barnes"}
+{"id":"person.bruce-sterling","type":"Person","name":"Bruce Sterling"}
+{"id":"person.kameron-hurley","type":"Person","name":"Kameron Hurley"}
+{"id":"person.yoon-ha-lee","type":"Person","name":"Yoon Ha Lee"}
+{"id":"person.gwyneth-jones","type":"Person","name":"Gwyneth Jones"}
+{"id":"person.nick-wood","type":"Person","name":"Nick Wood"}
+{"id":"person.mame-bougouma-diene","type":"Person","name":"Mame Bougouma Diene"}
+{"id":"person.dilman-dila","type":"Person","name":"Dilman Dila"}
+{"id":"person.andrew-dakalira","type":"Person","name":"Andrew Dakalira"}
+{"id":"person.efe-tokunbo-okogu","type":"Person","name":"Efe Tokunbo Okogu"}
+{"id":"person.ivor-w-hartmann","type":"Person","name":"Ivor W. Hartmann"}
+{"id":"person.balogun-ojetade","type":"Person","name":"Balogun Ojetade"}
+{"id":"person.milton-davis","type":"Person","name":"Milton Davis"}
+{"id":"person.k-ceres-wright","type":"Person","name":"K. Ceres Wright"}
+{"id":"person.davaun-sanders","type":"Person","name":"DaVaun Sanders"}
+{"id":"person.ronald-jones","type":"Person","name":"Ronald Jones"}
+{"id":"person.malon-edwards","type":"Person","name":"Malon Edwards"}
+{"id":"person.penelope-flynn","type":"Person","name":"Penelope Flynn"}
+{"id":"person.eugene-peterson","type":"Person","name":"Eugene Peterson"}
+{"id":"person.nancy-duarte","type":"Person","name":"Nancy Duarte"}
+{"id":"person.geoff-manaugh","type":"Person","name":"Geoff Manaugh"}
+{"id":"person.sylvain-neuvel","type":"Person","name":"Sylvain Neuvel"}
+{"id":"person.kai-ashante-wilson","type":"Person","name":"Kai Ashante Wilson"}
+{"id":"person.s-b-divya","type":"Person","name":"S. B. Divya"}
+{"id":"person.vaughn-vernon","type":"Person","name":"Vaughn Vernon"}
+{"id":"person.arkady-strugatsky","type":"Person","name":"Arkady Strugatsky"}
+{"id":"person.boris-strugatsky","type":"Person","name":"Boris Strugatsky"}
+{"id":"person.bromfield-andrew","type":"Person","name":"Bromfield Andrew"}
+{"id":"person.dmitry-glukhovsky","type":"Person","name":"Dmitry Glukhovsky"}
+{"id":"person.marc-laidlaw","type":"Person","name":"Marc Laidlaw"}
+{"id":"person.josh-malerman","type":"Person","name":"Josh Malerman"}
+{"id":"person.damien-angelica-walters","type":"Person","name":"Damien Angelica Walters"}
+{"id":"person.matthew-m-bartlett","type":"Person","name":"Matthew M. Bartlett"}
+{"id":"person.david-james-keaton","type":"Person","name":"David James Keaton"}
+{"id":"person.tony-burgess","type":"Person","name":"Tony Burgess"}
+{"id":"person.max-booth-iii","type":"Person","name":"Max Booth III"}
+{"id":"person.lori-michelle","type":"Person","name":"Lori Michelle"}
+{"id":"person.scott-nicolay","type":"Person","name":"Scott Nicolay"}
+{"id":"person.amy-hungerford","type":"Person","name":"Amy Hungerford"}
+{"id":"person.kij-johnson","type":"Person","name":"Kij Johnson"}
+{"id":"person.dennis-taylor","type":"Person","name":"Dennis Taylor"}
+{"id":"person.wesley-chu","type":"Person","name":"Wesley Chu"}
+{"id":"person.becky-chambers","type":"Person","name":"Becky Chambers"}
+{"id":"person.charlie-jane-anders","type":"Person","name":"Charlie Jane Anders"}
+{"id":"person.larry-niven","type":"Person","name":"Larry Niven"}
+{"id":"person.frank-herbert","type":"Person","name":"Frank Herbert"}
+{"id":"person.brian-herbert","type":"Person","name":"Brian Herbert"}
+{"id":"person.neil-gaiman","type":"Person","name":"Neil Gaiman"}
+{"id":"person.stephanie-scott","type":"Person","name":"Stephanie Scott"}
+{"id":"person.roxane-gay","type":"Person","name":"Roxane Gay"}
+{"id":"person.joe-m-mcdermott","type":"Person","name":"Joe M. McDermott"}
+{"id":"person.clint-smith","type":"Person","name":"Clint Smith"}
+{"id":"person.jason-hazeley","type":"Person","name":"Jason Hazeley"}
+{"id":"person.joel-morris","type":"Person","name":"Joel Morris"}
+{"id":"person.caitlin-r-kiernan","type":"Person","name":"Caitlin R. Kiernan"}
+{"id":"person.e-e-smith","type":"Person","name":"E. E. Smith"}
+{"id":"person.cassandra-khaw","type":"Person","name":"Cassandra Khaw"}
+{"id":"person.geri-coady","type":"Person","name":"Geri Coady"}
+{"id":"person.nicky-drayden","type":"Person","name":"Nicky Drayden"}
+{"id":"person.linda-nagata","type":"Person","name":"Linda Nagata"}
+{"id":"person.francis-scott-fitzgerald","type":"Person","name":"Francis Scott Fitzgerald"}
+{"id":"person.ben-robbins","type":"Person","name":"Ben Robbins"}
+{"id":"person.bob-boiko","type":"Person","name":"Bob Boiko"}
+{"id":"person.rachel-andrew","type":"Person","name":"Rachel Andrew"}
+{"id":"person.homer","type":"Person","name":"Homer"}
+{"id":"person.emily-wilson","type":"Person","name":"Emily Wilson"}
+{"id":"person.jonathan-l-howard","type":"Person","name":"Jonathan L. Howard"}
+{"id":"person.taku-kuwabara","type":"Person","name":"Taku Kuwabara"}
+{"id":"person.robert-seyfarth","type":"Person","name":"Robert Seyfarth"}
+{"id":"person.dorothy-cheney","type":"Person","name":"Dorothy Cheney"}
+{"id":"person.michael-l-platt","type":"Person","name":"Michael L. Platt"}
+{"id":"person.llc-staff-mcdm-productions","type":"Person","name":"LLC Staff of MCDM Productions"}
+{"id":"person.joseph-picard","type":"Person","name":"Joseph Picard"}
+{"id":"person.patrick-weekes","type":"Person","name":"Patrick Weekes"}
+{"id":"person.bethany-c-morrow","type":"Person","name":"Bethany C. Morrow"}
+{"id":"person.silvia-moreno-garcia","type":"Person","name":"Silvia Moreno-Garcia"}
+{"id":"person.stephen-baxter","type":"Person","name":"Stephen Baxter"}
+{"id":"person.hannu-rajaniemi","type":"Person","name":"Hannu Rajaniemi"}
+{"id":"person.kristine-kathryn-rusch","type":"Person","name":"Kristine Kathryn Rusch"}
+{"id":"person.catherynne-m-valente","type":"Person","name":"Catherynne M. Valente"}
+{"id":"person.ann-nocenti","type":"Person","name":"Ann Nocenti"}
+{"id":"person.david-aja","type":"Person","name":"David Aja"}
+{"id":"person.derek-k-nsken","type":"Person","name":"Derek Künsken"}
+{"id":"person.max-gladstone","type":"Person","name":"Max Gladstone"}
+{"id":"person.wizards-rpg-team","type":"Person","name":"Wizards RPG Team"}
+{"id":"person.jordanna-max-brodsky","type":"Person","name":"Jordanna Max Brodsky"}
+{"id":"person.p-dj-l-clark","type":"Person","name":"P. Djèlí Clark"}
+{"id":"person.jonathan-strahan","type":"Person","name":"Jonathan Strahan"}
+{"id":"person.elizabeth-bear","type":"Person","name":"Elizabeth Bear"}
+{"id":"person.ursula-k-le-guin","type":"Person","name":"Ursula K Le Guin"}
+{"id":"person.ibram-x-kendi","type":"Person","name":"Ibram X. Kendi"}
+{"id":"person.john-chu","type":"Person","name":"John Chu"}
+{"id":"person.leah-cypess","type":"Person","name":"Leah Cypess"}
+{"id":"person.indrapramit-das","type":"Person","name":"Indrapramit Das"}
+{"id":"person.amal-el-mohtar","type":"Person","name":"Amal El-Mohtar"}
+{"id":"person.jeffrey-ford","type":"Person","name":"Jeffrey Ford"}
+{"id":"person.sarah-gailey","type":"Person","name":"Sarah Gailey"}
+{"id":"person.carlos-hernandez","type":"Person","name":"Carlos Hernandez"}
+{"id":"person.kat-howard","type":"Person","name":"Kat Howard"}
+{"id":"person.stephen-graham-jones","type":"Person","name":"Stephen Graham Jones"}
+{"id":"person.ann-leckie","type":"Person","name":"Ann Leckie"}
+{"id":"person.carmen-maria-machado","type":"Person","name":"Carmen Maria Machado"}
+{"id":"person.arkady-martine","type":"Person","name":"Arkady Martine"}
+{"id":"person.seanan-mcguire","type":"Person","name":"Seanan McGuire"}
+{"id":"person.naomi-novik","type":"Person","name":"Naomi Novik"}
+{"id":"person.rebecca-roanhorse","type":"Person","name":"Rebecca Roanhorse"}
+{"id":"person.alyssa-wong","type":"Person","name":"Alyssa Wong"}
+{"id":"person.j-y-yang","type":"Person","name":"J.Y. Yang"}
+{"id":"person.dominik-parisien","type":"Person","name":"Dominik Parisien"}
+{"id":"person.navah-wolfe","type":"Person","name":"Navah Wolfe"}
+{"id":"person.n-k-jemisin","type":"Person","name":"N. K. Jemisin"}
+{"id":"person.greg-rycerz","type":"Person","name":"Greg Rycerz"}
+{"id":"person.katie-rose","type":"Person","name":"Katie Rose"}
+{"id":"person.richie-lewin","type":"Person","name":"Richie Lewin"}
+{"id":"person.william-gibson","type":"Person","name":"William Gibson"}
+{"id":"person.k-j-parker","type":"Person","name":"K. J. Parker"}
+{"id":"person.ken-liu","type":"Person","name":"Ken Liu"}
+{"id":"person.nino-cipri","type":"Person","name":"Nino Cipri"}
+{"id":"person.scott-berkun","type":"Person","name":"Scott Berkun"}
+{"id":"person.jeff-vandermeer","type":"Person","name":"Jeff VanderMeer"}
+{"id":"person.stanislav-vysotsky","type":"Person","name":"Stanislav Vysotsky"}
+{"id":"person.t-kingfisher","type":"Person","name":"T. Kingfisher"}
+{"id":"person.robert-zubek","type":"Person","name":"Robert Zubek"}
+{"id":"person.susanna-clarke","type":"Person","name":"Susanna Clarke"}
+{"id":"person.tim-hwang","type":"Person","name":"Tim Hwang"}
+{"id":"person.simon-de-la-rouviere","type":"Person","name":"Simon de la Rouviere"}
+{"id":"person.essa-hansen","type":"Person","name":"Essa Hansen"}
+{"id":"person.nnedi-okorafor","type":"Person","name":"Nnedi Okorafor"}
+{"id":"person.thomas-s-mullaney","type":"Person","name":"Thomas S. Mullaney"}
+{"id":"person.benjamin-peters","type":"Person","name":"Benjamin Peters"}
+{"id":"person.mar-hicks","type":"Person","name":"Mar Hicks"}
+{"id":"person.kavita-philip","type":"Person","name":"Kavita Philip"}
+{"id":"person.benjanun-sriduangkaew","type":"Person","name":"Benjanun Sriduangkaew"}
+{"id":"person.kelly-robson","type":"Person","name":"Kelly Robson"}
+{"id":"person.david-conyers","type":"Person","name":"David Conyers"}
+{"id":"person.s-qiouyi-lu","type":"Person","name":"S. Qiouyi Lu"}
+{"id":"person.stanislaw-lem","type":"Person","name":"Stanislaw Lem"}
+{"id":"person.antonia-lloyd-jones","type":"Person","name":"Antonia Lloyd-Jones"}
+{"id":"person.kim-stanley-robinson","type":"Person","name":"Kim Stanley Robinson"}
+{"id":"person.premee-mohamed","type":"Person","name":"Premee Mohamed"}
+{"id":"person.tade-thompson","type":"Person","name":"Tade Thompson"}
+{"id":"person.james-s-corey","type":"Person","name":"James S. A. Corey"}
+{"id":"person.j-storrs-hall","type":"Person","name":"J. Storrs Hall"}
+{"id":"person.saad-z-hossain","type":"Person","name":"Saad Z. Hossain"}
+{"id":"person.michael-e-shea","type":"Person","name":"Michael E. Shea"}
+{"id":"person.charles-stross","type":"Person","name":"Charles Stross"}
+{"id":"person.john-scalzi","type":"Person","name":"John Scalzi"}
+{"id":"person.christopher-rowe","type":"Person","name":"Christopher Rowe"}
+{"id":"person.alastair-reynolds","type":"Person","name":"Alastair Reynolds"}
+{"id":"person.tamsyn-muir","type":"Person","name":"Tamsyn Muir"}
+{"id":"person.hiron-ennes","type":"Person","name":"Hiron Ennes"}
+{"id":"person.mur-lafferty","type":"Person","name":"Mur Lafferty"}
+{"id":"person.qntm","type":"Person","name":"qntm"}
+{"id":"person.annalee-newitz","type":"Person","name":"Annalee Newitz"}
+{"id":"person.malka-older","type":"Person","name":"Malka Older"}
+{"id":"person.iain-m-banks","type":"Person","name":"Iain M. Banks"}
+{"id":"person.aaron-reed","type":"Person","name":"Aaron A. Reed"}
+{"id":"person.stephen-hogbin","type":"Person","name":"Stephen Hogbin"}
+{"id":"person.edward-s-cooke-jr","type":"Person","name":"Edward S. Cooke, Jr"}
+{"id":"person.kahlil-gibran","type":"Person","name":"Kahlil Gibran"}
+{"id":"person.aubrey-beardsley","type":"Person","name":"Aubrey Beardsley"}
+{"id":"person.c-s-lewis","type":"Person","name":"C.S. Lewis"}
+{"id":"person.pauline-baynes","type":"Person","name":"Pauline Baynes"}
+{"id":"person.j-r-r-tolkien","type":"Person","name":"J.R.R. Tolkien"}
+{"id":"person.francis-mosley","type":"Person","name":"Francis Mosley"}
+{"id":"person.christopher-tolkien","type":"Person","name":"Christopher Tolkien"}
+{"id":"person.william-goldman","type":"Person","name":"William Goldman"}
+{"id":"person.mark-thomas","type":"Person","name":"Mark Thomas"}

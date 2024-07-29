@@ -1,16 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
   <head>
-    <title>{{ site.title }}</title>
+    <title>{{ title or site.title }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="{{ site.description }}"/>
+    <link rel="stylesheet" href="/static/mvp.css">
     <link rel="canonical" href="{{ site.url }}">
   </head>
   <body>
-    {% if title %}<h2>{{ title | safe }}</h2>{% endif %}
+    <header>
+      {% include 'components/header.njk' %}
+      {% if title %}<h1>{{ title }}</h1>{% endif %}
+    </header>
     <main>
       {{ content | safe }}
     </main>
+    <footer>
+      {% include 'components/footer.njk' %}
+    </footer>
   </body>
 </html>
