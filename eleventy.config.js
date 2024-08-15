@@ -1,3 +1,11 @@
+/**
+ * Configures Eleventy with various settings, collections, plugins, filters, shortcodes, and more.
+ * Hint VS Code for eleventyConfig autocompletion.
+ * © Henry Desroches - https://gist.github.com/xdesro/69583b25d281d055cd12b144381123bf
+ * @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig -
+ * @returns {Object} -
+ */
+
 import pluginWebc from "@11ty/eleventy-plugin-webc";
 import dataExtensions from './_config/data-extensions.js';
 import pluginNavigation from "@11ty/eleventy-navigation";
