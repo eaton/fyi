@@ -1,0 +1,8 @@
+/* See https://modernfontstacks.com/ */
+
+:root {
+  --font-family-sans: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
+  --font-family-serif: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+  --font-family-display: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
+  --font-family-mono: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+}

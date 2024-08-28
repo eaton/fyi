@@ -12,11 +12,6 @@ input[type="submit"] {
   color: var(--color-bg);
 }
 
-button,
-input[type="submit"] {
-  font-family: var(--font-family-sans);
-}
-
 button:active,
 input[type="submit"]:active {
   filter: brightness(var(--active-brightness));
