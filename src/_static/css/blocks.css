@@ -1,0 +1,54 @@
+@import url(./blocks/blockquote.css);
+@import url(./blocks/button.css);
+@import url(./blocks/hr.css);
+@import url(./blocks/form.css);
+@import url(./blocks/nav.css);
+@import url(./blocks/table.css);
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.0625;
+}
+
+/* Links */
+a {
+  color: var(--color-link);
+  text-decoration: underline;
+}
+
+a:active {
+  filter: brightness(var(--active-brightness));
+}
+
+a:hover {
+  filter: brightness(var(--hover-brightness));
+}
+
+/* Basic images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+code,
+samp {
+    background-color: var(--color-accent);
+    border-radius: var(--border-radius);
+    color: var(--color-text);
+    display: inline-block;
+    margin: 0 0.1rem;
+    padding: 0 0.5rem;
+}
+
+pre {
+  margin: 1rem 0;
+  max-width: var(--width-card-wide);
+  padding: 1rem 0;
+}
+
+pre code,
+pre samp {
+  display: block;
+  max-width: var(--width-card-wide);
+  padding: 0.5rem 2rem;
+  white-space: pre-wrap;
+}

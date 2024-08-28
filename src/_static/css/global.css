@@ -1,0 +1,24 @@
+/*
+ *  Philosophy shamelessly ripped from:
+ *
+ *  - https://cube.fyi
+ *  - https://gridless.design
+ *  = https://utopia.fyi
+ *  - https://every-layout.dev
+ */
+
+@import url(./units.css);
+@import url(./typography.css);
+@import url(./colors.css);
+
+@import url(./composition.css);
+@import url(./utilities.css);
+@import url(./blocks.css);
+@import url(./exceptions.css);
+
+:root {
+  --active-brightness: 0.85;
+  --border-radius: 5px;
+  --box-shadow: 2px 2px 10px;
+  --hover-brightness: 1.2;
+}

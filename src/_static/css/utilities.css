@@ -1,0 +1,20 @@
+/* Typography */
+
+.small-caps {
+  font-feature-settings: "smcp", "c2sc";
+}
+
+@supports (font-variant-caps: all-small-caps) {
+  .small-caps {
+    font-feature-settings: normal;
+    font-variant-caps: all-small-caps;
+  }
+}
+
+.no-ligatures {
+  font-variant-ligatures: none;
+}
+
+[hidden] {
+    display: none;
+}

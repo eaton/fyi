@@ -1,0 +1,6 @@
+hr {
+  background-color: var(--color-bg-secondary);
+  border: none;
+  height: 1px;
+  margin: var(--space-2xl) var(--space-2xl);
+}

@@ -1,0 +1,18 @@
+/* @link https://utopia.fyi/grid/calculator?c=324,12,1.25,1054,17,1.25,6,2,&s=0.75|0.5|0.25,1.5|2|3|4|6|8,s-l|m-xl&g=s,l,xl,12 */
+
+:root {
+  --grid-max-width: 65.88rem;
+  --grid-gutter: var(--space-s-l, clamp(0.75rem, 0.1397rem + 3.0137vw, 2.125rem));
+  --grid-columns: 12;
+}
+
+.u-container {
+  max-width: var(--grid-max-width);
+  padding-inline: var(--grid-gutter);
+  margin-inline: auto;
+}
+
+.u-grid {
+  display: grid;
+  gap: var(--grid-gutter);
+}
